@@ -628,11 +628,15 @@
 
 **Razon:** El usuario quiere que el sistema este disponible para companeros. No se descarta nada: cada documento oficial, cada plantilla, cada ejemplo y cada protocolo queda versionado.
 
-**Impacto:** Repo actualizado en https://github.com/Reznouw/research-os (branch main, 140 archivos, commit 1a10e4b). Los companeros pueden clonar y tener el sistema completo.
+**Impacto:** Repo actualizado en https://github.com/Reznouw/research-os (branch main, historial limpio sin datos personales).
 
 ---
 
-## D034 - 2026-08-27 - Remover propuestas privadas del repo publico
+## D034 - 2026-08-27 - Remover propuestas privadas y datos personales del repo publico
+
+**Contexto (parte 1 - propuestas):** El usuario revisa GitHub y ve que las 5 carpetas de propuestas estan publicas. Teme que le roben las ideas.
+
+**Contexto (parte 2 - datos personales):** El usuario pide quitar quien es su equipo y los demas equipos (nombres personales, correos, codigos UPC) del repo publico. El archivo `02_grupos_investigacion_1AEL0260.md` contiene 38 nombres + 38 emails de los 18 equipos. Ademas, `ESTADO.md` y plantillas contienen nombres del Grupo 15.
 
 **Contexto:** El usuario revisa GitHub y ve que las 5 carpetas de propuestas (propuesta_01 a 05) estan publicas. Teme que le roben las ideas de investigacion.
 
@@ -647,4 +651,37 @@
 
 **Razon:** Las propuestas son propiedad intelectual privada. No deben estar en un repo publico. El .gitignore previene futuros pushes accidentales. El filter-branch borra el historial para que nadie pueda recuperarlas via commits antiguos.
 
-**Impacto:** Propuestas 100% eliminadas de GitHub (historial y HEAD). Siguen intactas en local (6 archivos en propuestas/). Repo publico ahora solo tiene el sistema Research OS (reglamento, plantillas, protocolos, herramientas) sin ideas privadas.
+**Impacto (parte 1):** Propuestas 100% eliminadas de GitHub (historial y HEAD). Siguen intactas en local (6 archivos en propuestas/). Repo publico ahora solo tiene el sistema Research OS sin ideas privadas.
+
+**Decision (parte 2 - datos personales):**
+1. Agregar `02_grupos_investigacion_1AEL0260.md` a `.gitignore` (con `**/02_grupos*` para asegurar).
+2. Anonimizar `ESTADO.md` (Grupo 15: Lozano/Reymundo -> [privado - ver copia local]).
+3. Anonimizar `10_ficha_acta_asesoria.md` (nombres -> [Apellido, Nombre]).
+4. Anonimizar `11_plantilla_PPT_EX1.md`, `12_plantilla_informe_EX1.md`, `06_reglamento_tituloIV_entregables.md` (Lozano-Reymundo -> Apellido1-Apellido2).
+5. `git rm --cached` del archivo de grupos + `git add` de los anonimizados + commit.
+6. Crear historial limpio con `git checkout --orphan clean-main` (133 archivos, sin grupos ni propuestas) y `git commit --amend` para quitar el grupos del commit.
+7. Force push a main y master (0960637).
+
+**Impacto (parte 2):** 38 nombres + 38 emails de los 18 equipos eliminados del historial de GitHub. Estado del grupo anonimizado en remoto. Local sigue intacto (grupos y propuestas solo ignorados en git).
+
+---
+
+## D035 - 2026-08-28 - Documentar propuesta 01 completa (5 docs de otra IA + asesoria Kalun)
+
+**Contexto:** El usuario trae 5 documentos generados con otra IA sobre la propuesta 01 (Edge AI FPGA DE25-Nano): propuesta preliminar (17 secc), dossier estado del arte (17 secc, 9 refs), definicion del problema (4 caminos), plan de viabilidad 12 meses (30 secc), y 6 puntos de asesoria con Prof. Kalun (unico con DE25-Nano, experto PIC18).
+
+**Decision:**
+1. Crear `propuestas/propuesta_01_edge_ai_fpga_reconfigurable/documentacion_inicial/` con 5 archivos + README indice.
+2. Ubicacion elegida: dentro de `propuesta_01/` porque es especifica de esa propuesta, en `documentacion_inicial/` para distinguir de `00_RAW` (material bruto) y `estado_del_arte` (fichas). Esta carpeta es PRIVADA (`.gitignore: propuestas/`).
+3. No se sube a GitHub - queda solo local.
+4. Orden de lectura: 01_propuesta -> 03_problema -> 02_dossier -> 04_viabilidad -> 05_Kalun.
+
+**Puntos criticos de la asesoria Kalun:**
+- Problematica es lo mas importante (80% vision computacional, 18% IoT, 2% FPGA en la universidad - seriamos los unicos en FPGA).
+- DE25-Nano: nadie tiene estado del arte especifico, el profesor solo prendio un led, tiene Linux en HPS.
+- Viabilidad economica: comparar contra Jetson Orin Nano y contra tesis/paper anterior.
+- Necesita asesores externos y estar mas enamorado de la problematica.
+
+**Razon:** El usuario dice "donde la colocaras" y "todavia hay que colocar lo que he investigado" - estos 5 docs son la base para que luego analicemos y definamos el camino A/B/C/D con el asesor.
+
+**Impacto:** Propuesta 01 tiene ahora 5 docs preliminares (42 KB) + README. Pendiente: analizar con el asesor, elegir camino, definir contexto/modelos/metrica, e investigar estado del arte especifico de DE25-Nano.

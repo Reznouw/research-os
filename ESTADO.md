@@ -123,8 +123,10 @@ El usuario tiene 1 semana para conseguir al menos 5 propuestas de tema de tesis 
 - [x] Ejemplo referencial PPT EX1 documentado (13_ejemplo_referencial_PPT_EX1.md) - 20 slides, maquina PET, 4 productos, 5 articulos, errores detectados
 - [x] Ejemplo referencial Informe EX1 documentado (14_ejemplo_referencial_informe_EX1.md) - mismo proyecto en formato Word, diferencias PPT vs Informe
 - [x] Unidad 1 completa documentada en fuentes_originales/unidad1/ - 4 archivos: introduccion+fundamentos, normas IEEE, SCOPUS/WOS/ZOTERO/patentes, situacion problematica (titulo, arbol, requerimientos)
-- [x] Research OS subido a GitHub https://github.com/Reznouw/research-os - 134 archivos en main, sin descartar nada, merge con scaffold inicial
+- [x] Research OS subido a GitHub https://github.com/Reznouw/research-os - branch main limpio (133 archivos, sin datos personales ni propuestas), historial reescrito, force push
+- [x] Propuesta 01 documentada en documentacion_inicial/ - 5 docs: propuesta preliminar (17 secc), dossier estado del arte (17 secc, 9 refs), definicion problema (4 caminos), plan viabilidad 12 meses, asesoria Kalun (6 puntos)
 - [ ] Transcribir audio de la clase grabada
+- [ ] Analizar documentacion_inicial de propuesta 01 con asesor (elegir camino A/B/C/D, definir contexto, modelos, metrica principal)
 - [ ] Completar propuesta_05 (pendiente de tema)
 - [ ] Refinar propuestas 01-04 con info nueva del curso
 - [ ] Comparativa de propuestas (COMPARATIVA.md) cuando esten las 5
