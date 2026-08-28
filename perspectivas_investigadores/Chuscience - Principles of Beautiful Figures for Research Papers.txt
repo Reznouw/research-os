@@ -1,0 +1,1167 @@
+0:00
+this video is about figures for research papers specifically about the principles
+0:06
+of beautiful and professional figures we will consider multiple examples of real figures with a focus on
+0:13
+design problems and things that can be improved by the end of this video you
+0:19
+will learn the main graphic design principles for academic Publications such as using vector-based images
+0:26
+selecting harmonious color schemes optimizing layout and anymore so let's
+0:31
+try to understand what makes a figure beautiful and [Music]
+0:40
+professional hi everyone my name is Andre I'm researcher at Imperial College
+0:45
+London it's been a while since my last video I was busy moving to London attending summer conferences writing
+0:52
+papers of course and so on now I'm back and I have time for making more videos
+0:59
+this is my new open space at Imperial I think it looks great for YouTube videos so please let me know if you like this
+1:05
+background usually on this channel I discuss various aspects and problems of Academia and today I want to start a big
+1:13
+series of videos maybe we can call them tutorials on a very important topic of
+1:18
+how to develop how to create beautiful figures for research papers but first
+1:24
+let me tell you about my experience and why I want to talk about this topic you
+1:29
+see throughout my my academic career I have read and reviewed hundreds of academic papers as a reviewer I usually
+1:37
+analyzed figures of other authors I found some mistakes and wrote comments to the authors and then through this
+1:44
+review process the authors were changing figures and I really learned a lot from
+1:49
+this iterative review process and then I implemented this knowledge in my own papers and I I'm constantly trying to
+1:56
+improve the quality of figures in my own manuscripts and second I have recently read this famous book by Cole Klick
+2:03
+called storytelling with data I really enjoyed reading it and recommend it to anyone who is interested in data
+2:10
+visualization so today we will discuss a few Concepts from this book as
+2:15
+well surprisingly many universities Overlook the topic of developing beautiful figures and many students and
+2:23
+young researchers have to learn graphic design principles by trial and error
+2:28
+unfortunately this often leads to bad results where the quality of Publications is affected for example
+2:35
+students may use lowquality pixelated images in their manuscript they may also select small unreadable fonts and
+2:42
+inadequate color schemes as a result reviewers will not appreciate such figures they may think that uh the
+2:49
+manuscript is unprofessional and therefore they will reject it and obviously we want to avoid such outcomes
+2:56
+therefore the aim of these videos is to share my experience in developing high quality figures for research papers
+3:04
+however I must say that graphic design for scientific illustrations is a very broad topic therefore I decided to split
+3:10
+my tutorials into several videos first in today's video I will discuss the main
+3:16
+principles of graphic design for figures I will show you multiple good and bad examples that I have found in the
+3:22
+literature plus I will share examples from my own papers and show you my own
+3:28
+failures then in the next videos I will show you the process of developing high
+3:33
+quality figures for papers we will see how this can be done both using programming languages and special
+3:40
+Graphics software now these are the principles that we are going to discuss today we will start with the overall
+3:47
+quality of figures and we'll specifically focus on the use of vector-based images the next topic is
+3:54
+readability which means the size of your figure the size of different elements within your figure and the font size
+4:01
+then the related topic is simplification and decluttering of complex figures the next major topic is the use
+4:09
+of colors it is a very tricky and complex uh subject but in short there
+4:14
+exist bad combinations of colors and harmonious colors then we will talk
+4:19
+about message and story of your figure your strategy this is a less technical topic but a more artistic one where you
+4:26
+have to develop your story first and then use your data strategically to support your story the remaining topics
+4:33
+are keeping a consistent style ideally one style per paper uh we will also
+4:39
+discuss figures to avoid like uh pie charts and 3D and then finally we will discuss time management and time
+4:45
+constraints in developing high quality figures for research papers so let's begin first let's discuss why we need
+Quality, vector graphics
+4:53
+high quality figures for papers which figures can be considered of good quality and which figures are
+5:01
+unacceptable actually sometimes it is very difficult to draw a line here let me tell you a story of how I realized
+5:08
+that the quality of figures is critical for papers you see when I was a PhD
+5:13
+student I didn't know anything about graphic design for scientific illustrations and I didn't care about
+5:20
+quality of figures I was just coding a lot and writing my papers and for some
+5:25
+time everything was fine my professors and supervisors they were happy and they didn't complain about the quality of my
+5:31
+figures but then I started receiving negative comments from some reviewers and journals some comments were saying
+5:39
+something like the quality of figures is unacceptably low please redo them and
+5:44
+some of my papers got rejected frankly I was a bit shocked and angry at reviewers
+5:49
+I mean I developed my model and I wrote a paper why did they complain about the quality of figures I even thought that
+5:57
+they were using such comments as an excuse to reject my manuscripts finally after many negative comments I realized
+6:04
+that my Figures were not great indeed I realized that Ruster or sometimes called
+6:09
+Beat Map images can lose their quality they can get compressed and they can
+6:14
+display incorrectly in the manuscripts and this is a very tricky thing that no one explained to me even nowadays I see
+6:21
+that students don't know about this problem and they use roster images in their manuscripts I mean uh images like
+6:28
+gpeg or PNG formats the point is that a figure can look nice in your document in
+6:34
+your editor I mean on your PC but once you save your paper and send it to a
+6:40
+journal your figures can get compressed they may lose quality and this means
+6:45
+that reviewers and editors will see them in a completely different way better than talking about this problem let me
+6:52
+show you what happened with one of my manuscripts uh which I submitted to quite a famous engineering conference in
+6:59
+2019 the conference called Power Tech here is my word editor with this
+7:05
+manuscript submitted to the conference you can see that I used the official template of the conference you can see
+7:11
+the title of the paper my name everything looks professional if we go to the second page we can see that this
+7:18
+is the first figure that I use in the paper and to me it looks nice I don't see any problems with it from distance
+7:26
+so let's zoom in when we zoom in I would say that the figure is still good quality I don't see
+7:33
+any problems with it the colors are nice and there are no pixels so if we zoom in even further we will see no pixels for
+7:40
+example look at these numbers they look simply great that's why I was happy with
+7:45
+this picture that's why I included it in the manuscript and then the manuscript was
+7:52
+accepted now this is the same paper downloaded from the conference website so this is the final version that is
+7:58
+published and available online you can see that this is the same template the title everything looks exactly the same
+8:06
+however when we go to the second page to the first figure you may notice that something is
+8:12
+wrong with the figure the first thing I notice is that the colors faded they don't look nice
+8:20
+anymore and something is wrong with the quality so let's zoom in and check it and when we zoom in we really see the
+8:27
+problem of the new figure you remember we considered this number 500 now it's
+8:33
+very ugly everything is in pixels so the quality of this figure decreased
+8:38
+significantly this happened because the conference system compressed all images
+8:43
+in my manuscript to reduce the size of the paper unfortunately now all images
+8:49
+in the manuscript look ugly the the quality is not great but I cannot change it anymore this was an eye openening
+8:56
+experience for me I prepared beautiful figures I publish them in this conference but then my final figures in
+9:03
+the final version of the manuscript look ugly and I cannot change this I even complained to the conference but they
+9:09
+told me that that it's against their rules to change manuscript published in the past so basically think about this
+9:15
+my paper will remain like this forever and you might think that this was my
+9:21
+mistake to use Ruster uh images in the manuscript but I I see figures like this
+9:27
+every day I see many examples where where lowquality images appear in conference and journal Publications and
+9:34
+I believe that this happens because many authors especially students don't know about this problem and they keep using
+9:41
+bitmap images in their manuscripts now what to do to avoid such problems we
+9:47
+need to use vector-based figures in vector graphics figures are
+9:52
+defined by various formulas and shapes therefore when you say your figure in a vector-based format let's say p PDF the
+10:00
+figure will look exactly the same on different computers and devices and moreover it will not lose its quality
+10:07
+and readers will be able to zoom in and explore various parts of your figures
+10:12
+without seeing any pixels and this is why vector graphics become the best practice for many scientific
+10:19
+illustrations let me show you a few examples of vector graphics that I used in my recent manuscripts and you will
+10:26
+see that when using such uh vector-based images we can put them directly in the manuscript and no quality will be lost
+10:34
+and no pixels will appear this is the first figure that I
+10:39
+want to show you it is saved as a PDF file if we zoom in we can see that
+10:45
+everything in this figure is defined by shapes and objects for example we have
+10:51
+text here and we have different uh shapes and curves therefore readers can
+10:58
+zoom in and they will never see any
+11:03
+pixels and here is the manuscript where I used this figure when we go to this
+11:09
+illustration we see multiple figures together and the first figure figure a
+11:14
+is this PDF file that I just showed you but since I saved the figure in this
+11:20
+Vector based format and then I saved the whole manuscript in PDF everything
+11:25
+remains vector-based and scalable so let's zoom in and D double check that this is the same figure it has objects
+11:33
+curves and it is scalable there are no
+11:38
+pixels note that vector graphics can be used to display anything not only your
+11:44
+data set or results for example in this manuscript I was working with the UK
+11:50
+power system and I visualized it as a graph so you can see that this is a graph but everything is again saved in
+11:56
+PDF everything is Vector based and therefore we can zoom in and we can select different objects and there are
+12:02
+no pixels then I included this scheme in the manuscript and again since I used uh
+12:08
+vector-based images everything remains scalable with no loss of
+12:17
+quality I hope you can now see the benefits of using vector graphics for research papers therefore please always
+12:24
+try to use vector-based images and avoid using uh Ruster images like PNG files or
+12:31
+taking some screenshots from your software before jumping to the next topic I want to briefly mention that
+12:37
+there exist two problems with vector graphics first of all even if you develop a nice and scalable uh image for
+12:45
+a paper in a vector format it still can be corrupted and compressed by journal
+12:50
+for example some journals can convert all your images into a Ruster format like PNG and then the quality will drop
+12:57
+and uh in such cases you will need to check the final pre-print the final proof reading document and you will need
+13:04
+to complain to the journal that they corrupted your file so please always double check your vector images before
+13:10
+the final publication and second point is that it is sometimes impossible to use vector
+13:17
+graphics for certain illustrations for example if you want to show a photo of something or if you want to display a
+13:24
+massive large data set and here I want to show you an example from my recent
+13:29
+Publications where I couldn't use vector graphics here is the manuscript published in
+13:35
+2024 and in the simulation section I have very complex simulations where I
+13:41
+was presenting thousands and thousands of uh data points so here they are
+13:47
+presented as a blue map actually this map consists of 15,000
+13:53
+points so imagine if I present these points as colored blocks or some other
+13:59
+elements then the PDF file will be too large it will be lagging and journal will not accept it therefore what I did
+14:07
+here is that I converted these objects into a roster image so if we zoom in we
+14:13
+can actually see pixels however note that the overall figure is not a Ruster image it is a
+14:20
+vector-based image again we can see that it has objects and it is scalable so
+14:27
+sometimes when you have complex data to visualize you will need to use such tricks to make
+14:32
+a combination of vector graphics and restor graphics for example when you have as I said too many points to
+14:38
+display and you can't do it using only vector-based graphics now we come to the
+Readability
+14:44
+second principle readability the point here is very simple your figures must be readable in
+14:50
+the paper this means that readers should not zoom in like 200 300% to analyze
+14:56
+your data following this rule you should not use small fonts in your figures
+15:02
+specifically you should not use fonts that are smaller than the smallest fonts in the journal template let's say that
+15:10
+in your template the smallest font is eight points this means that when you're are developing your figure you should
+15:16
+not use fonts smaller than eight points let me show you an example from my recent paper of how you can check this
+15:24
+this is the same figure that we have just analyzed and at the beginning of the manuscript I was explaining the concept and used
+15:32
+this figure so let's see if it is readable or not the first thing I like
+15:37
+to check is I would like to check the font size of this figure description and
+15:43
+the font size within the figure you can check this very easily uh for example by
+15:48
+comparing the fonts with this cursor so you can see my cursor and now it is
+15:55
+approximately equal to this F letter
+16:01
+then we can move my csor here to some text within the figure and we can see that the text is also almost equal to
+16:08
+the cursor this means that these two fonts in the figure description and
+16:14
+within the figure are close to each other and this means that the text in the figure is
+16:19
+readable the second thing you can do is just simply to look at your figures from
+16:24
+distance so let's say here is 10%
+16:29
+scale I can read the description of this figure and I also can read these
+16:35
+titles therefore we can conclude that the text in this figure is readable and
+16:41
+the readability principle is not violated now I want to show you a few
+16:46
+examples from the literature where this design principle was violated I mean
+16:51
+unacceptably small fonts were used in the figures so let's jump to these examples here is the first example
+16:59
+a paper published in i e access journal in 2024 and at the beginning of the paper
+17:06
+the authors explain their framework how they use these Monte Carlo simulations let's try to understand if this figure
+17:14
+is readable or not the first thing I see is that from distance it is really
+17:19
+difficult for me to read it I cannot really see what is happening here so we need to zoom in let's zoom in let's say
+17:26
+150% so can we read this figure or not I would say that I can read these uh
+17:33
+titles the text here like historical data earthquake data and so on but I
+17:39
+cannot really read what is happening in this part of the figure and in these subfigures it's really really small
+17:46
+therefore let's zoom in even further so now we are almost 300% zoom in and now I
+17:54
+can see what the subfigures mean and I can see that it says distance here
+17:59
+magnitude damage and now I can understand all these subfigures but think about this to analyze the figure I
+18:06
+had to zoom in like three times just to see some details and read the text but
+18:12
+this is not uh the end of the story because there is one more figure showing a map and I cannot see what this map
+18:19
+shows so let's zoom in even further and now we can see that this is actually a
+18:24
+map with some cities uh Los Angeles and I can see the names of the cities but
+18:30
+actually the the font size was unacceptably small because from this distance it is impossible to see the
+18:36
+titles and we can see that the readability principle was violated because the authors used very very small
+18:46
+fonts now we come to the second example so again we are looking now with
+18:53
+no zooming in and I see the colors but I can't really see what is happening inside this figure there are some very
+18:59
+very small elements I cannot see them let's try to zoom
+19:04
+in so the authors are trying to show capacities of generators at different parts of a power system and only when we
+19:13
+zoom in let's say 300% I can see that something is hidden here that something
+19:18
+is inside behind this heat map but still it is super small so let's zoom in even
+19:24
+further now I have zoom in 1,200% % and
+19:30
+only now I can see that actually yes this is the system I can see that we have some generators numbers of
+19:36
+substations but I mean how can how can readers Analyze This figure from distance when they're reading paper like
+19:43
+this it's simply impossible the only good thing is that the authors here used
+19:48
+vector graphics that's why this is another example of why vector graphics should be used we can zoom in and we can
+19:54
+see uh some details but it shouldn't be like that allig should be readable
+20:00
+without significant zooming in the next important principle is
+Simplify and declutter
+20:05
+decluttering and simplifying complex figures in some sense this principle is related to the principle of
+20:12
+readability if you have an overly complex figure you have too many elements readers get confused and they
+20:19
+will not put extra effort to understand your paper and your figures so imagine this you developed a beautiful figure
+20:26
+using vector graphics uh you use read readable fonts maybe nice colors but you
+20:32
+still lose your readers because they cannot understand your complex diagrams I know this feeling when you develop a
+20:39
+framework for a paper and you have like 10 Concepts you put them all together you draw arrows between them and you
+20:46
+like your figure but then you show it to your friend or colleague and they say oh sorry I'm lost I don't like it I don't
+20:52
+understand what is going on and this is because you made your figure your diagram overly complex and and we have
+20:59
+to uh simplify it and we have to declutter it so what to do you have to
+21:05
+iteratively think about your figure in terms of what can be removed and what
+21:10
+can be simplified you should always ask yourself questions like is this element
+21:16
+of the figure necessary can I simplify it can I remove it maybe I can make the
+21:21
+figure more simple now and all these explanations I bring to the next section or to
+21:26
+appendix try to get feedback from your colleagues and your friends and if they say that the figure is indeed too
+21:32
+complex think about simplifying it always be cautious about your readers
+21:38
+your figures and diagrams are clear to you because you develop them but readers
+21:43
+sometimes may be lost so to develop really professional and beautiful figures you should always think about
+21:50
+readers now let's see some examples from the literature let's consider some overly complex and cluttered figures and
+21:58
+discuss what to do with them here is an example of an overly
+22:03
+complex and cluttered diagram this is a journal paper published in 2024 and at the beginning of the paper
+22:11
+the authors explained their approach as this framework and uh again from the
+22:16
+distance I can see that it is super complex it has small fonts and too many elements let's try to zoom in and
+22:23
+analyze what is happening here when we zoom in we see that there are actually
+22:29
+so many blocks here if you think about this there are like three blocks on the left there are many arrows between them
+22:35
+then uh on the right we also have many blocks and Within These blocks we have uh something else so the number of
+22:42
+elements is simply too much for this figure and we can keep zooming in and we
+22:47
+can see more and more pictures and elements and this means such a framework
+22:52
+overly complex readers might get lost I mean it is difficult for readers to
+22:58
+analyze this figure because we don't know where to start from there is no certain hierarchy here should we analyze
+23:04
+it from this left bottom part or from this left uh upper part so many elements
+23:10
+so definitely this figure needs some simplification so if giving an advice I
+23:16
+would say that we need to remove many elements and focus only on the important elements maybe we can keep only like
+23:23
+four or five blocks four or five uh infographics this images uh maybe add
+23:29
+some numbers like 1 2 3 4 5 to guide readers and explain them where to focus
+23:34
+their attention I hope you see from this example that you should never show all
+23:40
+elements of your research in one picture you should first try to simplify it
+23:45
+declutter it and build certain hierarchy of information and
+23:50
+elements for example in this manuscript when presenting my Approach I developed a very very simple diagram let me show
+23:58
+you here this is my framework I know that I
+24:03
+have many equations and uh complex models but I wanted to make my message very simple for readers and that's why I
+24:10
+used only four blocks the first block I called input here I briefly discuss all
+24:16
+data and models that I use then the second uh framework is called modeling
+24:22
+and output so the logic is clear here we move from left to right in the center of
+24:27
+this framework we have this modeling part and here I decided to use a little bit of Graphics so instead of just
+24:33
+saying flexibility aggregation I wanted to show this gray area and then we add
+24:39
+additional constraints and in the output we see the impact of constraints I wanted to show here with the red color
+24:46
+that the areas reduce when I developed this diagram I
+24:51
+showed it to my colleagues and friends and I ask their opinion if this is clear what is happening in the framework and
+24:57
+all of them confirmed that it is clear for them that the impact of constraints is here that this area becomes smaller
+25:05
+that's why I was happy with this illustration and I proceeded with it and included in the manuscript so first of
+25:11
+all I developed a very minimalistic uh diagram and second I asked for feedback
+25:16
+and I confirmed that the message is clear I know that sometimes it is
+25:21
+impossible to show your framework your approach just in a few lines just in a few blocks you need to mention many more
+25:29
+elements so in this case you can develop more complex Frameworks but still you
+25:35
+need to make them minimalistic and you need to show some hierarchy between the elements so this is example from another
+25:41
+paper where I developed a framework diagram like this you can see that there
+25:46
+are multiple components many models used but still I try to use these areas in a
+25:52
+light gray or dark gray and I show that this is the problem formulation this is the analysis of our results and this is
+25:59
+the output so we can see the hierarchy of elements within this approach in the
+26:05
+middle uh in this cisal analysis I even have some Loops so I say for Calis we
+26:11
+solve then for this we do it in the loop so you can explain very complex Concepts
+26:17
+in your framework uh but it should be as I said minimalistic and there should be
+26:22
+a very clear hierarchy if uh using arrows is not enough sometimes you can add numbers say that this is number one
+26:30
+this is number two and then in the text you can explain that first we do number one and then we jump to number two so I
+26:36
+hope that you understand from these examples how you can simplify and declutter
+26:43
+diagrams these were examples of decluttering and simplification for
+26:48
+diagrams and Frameworks when you want to visualize your approach or certain system however the same problem happens
+26:55
+when we want to visualize data or results of our simulations let me show you a few more
+27:01
+examples here you can see another example from a journal paper published in 2024 where authors presented their
+27:09
+simulations using four subfigures in each subfigure using double AIS so the
+27:15
+results look very complex because there are too many elements and the figure definitely needs some
+27:21
+simplification think about this there are multiple bar charts in each figure plus there are Lines line plots and more
+27:29
+than 10 colors used in figures all of these elements make it difficult for
+27:34
+readers to analyze the results and draw some conclusions if improving this
+27:39
+figure we would need to identify the main message and probably remove some of
+27:44
+these data uh displayed to make it simpler for readers to analyze it
+27:49
+actually later in this paper there is another figure I wanted to show you here at the
+27:57
+end the authors show the results of a clustering algorithm and this type of a
+28:03
+figure is called spaghetti plot in graphic design this is a funny name but
+28:08
+what it means is that you have so many lines that together they look like a spaghetti which basically means that
+28:15
+they're meaningless to readers there are simply too many of lines too many of data points I would also recommend you
+28:22
+avoid using such spaghetti plots and instead show only the most important
+28:27
+parts of your data we will see how to do this in a moment all right so we just saw examples
+28:33
+of complex and cluttered images uh when presenting data let's see some good
+28:39
+examples um this time I don't want to show examples from my papers instead I found a very professional and popular
+28:46
+paper from open AI team about their training of gpt3 language model when I'm
+28:53
+making this video now the paper is cited 31,000 times it is also included in the list of the most influential ml papers
+29:00
+so let's see how a top machine learning paper looks like here is this paper
+29:05
+called language models a few short Learners let's now check how they used
+29:10
+Graphics to display their results because obviously they're working with very large and very complex
+29:17
+models specifically I want to show you this figure note that the authors have many
+29:25
+many simulations so they had something like a plot but instead of showing all
+29:30
+of these lines they put them in the background they made them transparent
+29:36
+and they showed only a few important lines in these orange green and blue
+29:43
+colors I believe this is a great example of how data can be simplified you don't
+29:48
+show all data all lines that you have instead you highlight only the most important parts of your data and you
+29:55
+show your message actually this manuscript has many uh nice illustrations and we can
+30:01
+learn from them I just want to show you one more figure uh let's go to the next
+30:11
+page here this is the figure showing performance of the model and we can see
+30:17
+that the authors also have many curves to show but I would argue that this
+30:22
+figure is not cluttered it is not super complex because the authors tried to
+30:28
+present it in a simple way they are using this nice uh color scheme here on the right and therefore it is easy for
+30:35
+us to analyze all lines presented here and we can easily see that this yellow model for example it has lower losses
+30:42
+and better accuracy so another great example of how you should present very complex data but in a decluttered and
+30:50
+simple way the next principle that I want to discuss today is the use of colors there
+Colours
+30:58
+is the whole theory about colors it is a fascinating Topic at the intersection of Art and Science and I encourage you to
+31:06
+read about it if you have time however in this video I won't explain color theory and instead I will just show you
+31:13
+some tools and we'll cover a few practical aspects of how to use colors
+31:19
+in creating beautiful figures the main practical question that you might have is which colors to use and which not to
+31:26
+use the first thing thing that I want to tell you about colors is that sometimes
+31:31
+you don't need to use any colors at all in fact there is a rule that sometimes
+31:37
+no colors is better than many colors think about this when you are developing a figure you already have three colors
+31:44
+at your disposal white black and gray plus you can use solid lines and dashed
+31:50
+lines which means that you can visualize quite a lot of data without using any colors if you want you can add one maybe
+31:58
+maximum two colors to these uh black white and gray but you should not use
+32:03
+all rainbow colors to visualize your data I also saw another similar rule
+32:08
+saying that you should design without color first so design in black and white
+32:13
+and this will help you to First focus on your layout uh the view of your figure and your message and then you can start
+32:20
+adding colors let me show you a few examples from the literature about this
+32:26
+no color rule here is quite a popular paper about wind generation forecast
+32:32
+published in 2007 and the authors didn't want to use many colors you can see that
+32:37
+they're using only black lines or Dash lines but at some point they present
+32:43
+quite complex results here this is example of a probabilistic forecast so
+32:48
+we can see with a black line prediction then with these line measurements and
+32:54
+then many prediction intervals with shades of gray I wanted to show you this
+33:00
+picture because it shows that really complex data like this probabilistic forecast can be displayed without any
+33:07
+colors just black white and Shades of Gray if you want to you can add a few colors maybe you can make this line
+33:13
+green the forecast but you don't really have to use all rainbow colors to show
+33:18
+these data another example is from my paper where I was visualizing uh the
+33:24
+concept of flexibility I was showing how these two sets let add together so we have one set then second set and there
+33:31
+is summation and I could have used many colors but I decided not to do this I'm showing everything in gray black or
+33:39
+dashed and I just added one blue color for these arrows to make it a little bit
+33:45
+more entertaining for readers so they can easily notice that we have a direction here this is another example
+33:51
+of using no colors or just one color in figures of course if you want to you can
+33:57
+use many colors in your figures but here you need to keep in mind these two
+34:02
+points the first point is that you need to be cautious about using bright colors
+34:08
+bright colors don't look great together and they don't look great in uh scientific papers let's say bright green
+34:15
+bright yellow or bright red the second point is that you should be cautious
+34:21
+about using complimentary colors complimentary colors are two colors that sit uh that are the opposite to each
+34:28
+other so they sit on the opposite sides of a color wheel and this means that they cancel each other if mixed here I
+34:35
+want to show you uh an example from Wikipedia about complimentary colors and
+34:40
+I like this page because it shows these really cool examples of why we should not use complimentary
+34:46
+colors actually it hurts me to look at these colors they are so contrast
+34:52
+imagine if you use them in a manuscript if you show one data in this San and then in red it all looks very difficult
+34:59
+to analyze and it's simply not great for reviewers eyes so please uh try not to
+35:05
+use bright complimentary colors and especially don't use many of them in one
+35:11
+figure instead you want to use analogous colors in your figures such colors sit
+35:18
+close to each other on the color wheel and usually the color palettes that they create they are pleasing to the eye let
+35:25
+me show you a few examples and I want to show you some tools that you can use to analyze color schemes the first tool I
+35:32
+want to show you is the Adobe color wheel when you open this website you see
+35:38
+the color wheel and here on the left you see the harmony now it's analogous as I
+35:43
+said this means that all colors are quite close to each other and they create an analogous uh palette so this
+35:51
+is the pet that we see now we can also change the colors if we want we can create uh blue palette blue green
+35:59
+palette and so on and then we can save uh our results we can save these colors and use them in our figures if we like
+36:06
+them and as I said this was an analogous color scheme here we can select
+36:12
+complimentary colors and you can see that these colors they are exactly the
+36:17
+opposite to each other on the color wheel which means that this uh orange color is complimentary to this Canan
+36:25
+color and this is what we should avoid in our figures so don't use bright red
+36:32
+with bright green don't use bright yellow with this purple or blue color
+36:38
+because this will not look great together on white background in your figure so I highly recommend you to play
+36:45
+with this tool you can analyze shades of the colors you can see various other harmonies like split
+36:51
+complimentary Triad and so on so many many pallets that you can create using
+36:56
+this tool or see if these colors work together or not however you don't have
+37:02
+to always develop your color combinations using the color wheel you can simply select some existing color
+37:08
+pallets and here I would recommend to you this website colorex
+37:19
+thatcombines some of them are not great for papers they are great for other design purposes
+37:26
+but anyway you you can select a color scheme you like and use it in your figures let's say you like this
+37:32
+beautiful blue color palette if you click on it you can see information about all colors in this palette let's
+37:39
+say that in Python uh maybe you need these RGB components to create a color so here are your components please use
+37:46
+them you can also see some related color palettes uh even comments by other users
+37:52
+and if you click on on a color you can see even more information about this color various shades of this color tints
+38:00
+some related palettes other similar colors and so on and so forth so this is a great tool to select a color palette
+38:07
+you like for a certain task these were examples of creating new color harmonies
+38:13
+or selecting some existing ones from the internet but in reality when you are coding and developing a figure you don't
+38:19
+need to select some new color harmonies you just go to your software to your programming language and select some
+38:26
+existing color Petes and uh your task is basically just to select an adequate
+38:32
+color palette for visualizing your data or your results for example I code in
+38:37
+Julia and Julia has this nice package called color schemes and there are many color combinations and color gradients
+38:45
+already built in in this package let me show you how this looks like there are so many colors in this package you can
+38:52
+see this is the standard palette uh I like some of these colors but I think that um green and um red might not be
+39:00
+working well together but some of these colors are okay if you don't like the standard colors you can see many other
+39:06
+gradients you can see gradients from Orange to Blue and so on here is another
+39:12
+gradient from light blue to dark blue I think this is a great one the only gradient I don't like is this rainbow
+39:20
+because it has basically all colors together and if you visualize your data using all possible colors including
+39:26
+compliment colors um the visualization will not look nice so please be very
+39:32
+cautious about using uh color schemes like rainbow and uh just to show you
+39:38
+there are so many gradients from many other packages including uh mats laab I believe there are hundreds and hundreds
+39:45
+of various gradients feel free to select any you like for visualizing your data
+39:51
+one more thing that I want to tell you about colors is that colors can be used
+39:56
+strategically the point is that there exists uh color psychology and certain
+40:01
+readers may have certain biases about colors certain ways of understanding
+40:06
+your colors for example a common way of understanding red color is that it means
+40:12
+something incorrect something bad the green color usually means that uh it is the best solution something correct or
+40:18
+something improving so if you're using red and green colors in your figure
+40:23
+please think about why you doing this and if the answer is that you are just displaying your data maybe you should
+40:30
+not use these colors because readers might be confused and they might understand your data in some other ways
+40:37
+some incorrect ways and please don't use yellow color there are many articles on
+40:42
+the internet about the problems with yellow color in short it looks bad on
+40:47
+white background of papers uh it is difficult for readers to analyze your data displayed in yellow now let's see
+40:55
+some examples from the literature that that I found for this tutorial here is a recently published paper about uh
+41:02
+machine learning for power flow in Distribution Systems it is a very complex and interesting paper with many
+41:09
+equations and illustrations and here on page six I noticed something strange about the way how the authors display
+41:16
+the results and when I analyzed what is happening here I noticed that they're using yellow color and you can see that
+41:23
+it is difficult to find this yellow line and to to to analyze it and as I said
+41:29
+this happens because yellow color is getting easily lost on the white background below we can see more
+41:36
+examples of Curves and we can see that not only the authors used the yellow color they used many complimentary
+41:43
+colors like these green cyan purple and so on and altogether these colors don't
+41:48
+look great then on the next page the authors present their results uh about
+41:54
+some Jacobian error matric and they have for sub figures showing the heat map the problem is that the color scheme is
+42:01
+Rainbow so the values have all possible colors and I tried analyzing this data
+42:06
+it is very difficult for me to understand what this means simply because there are so many colors displayed so I think this is a great
+42:13
+example of showing why uh using too many colors like rainbow color scheme can be
+42:19
+confusing to readers and uh it can be not a great choice for visualizing your
+42:24
+data set here is another example of a strange choice of colors in a bar chart
+42:30
+diagram in this study the authors show the reasons of major blackouts from extreme events and we can see that there
+42:37
+are many different categories of data through years the problem is that there
+42:42
+are so many categories and so many colors and also it resembles somehow a
+42:47
+rainbow color scheme so we see red colors blue colors uh green colors it is
+42:54
+difficult to navigate here and understand what data looking at and moreover uh talking about the psychology
+43:01
+of colors one of the reasons here is the wild fire so readers might think that if
+43:07
+we are talking about fire these data should be in red but actually all these data in red has nothing to do with
+43:14
+wildfires and the fire the fire category is in this yellow green which can be
+43:20
+simply confusing to some readers instead what you want to do in your figures is
+43:26
+to select your your colors strategically so if you have a message that something is declining uh or something is bad
+43:33
+maybe you want to use a white uh red gradient and you can show that when it's
+43:39
+becoming uh worse um you have more and more red color maybe dark red color let
+43:44
+me show you a few examples from my papers in this manuscript in the results
+43:50
+section I had simulations showing the problems with nonlinearity in Power
+43:55
+Systems and I argu that this nonlinearity is dangerous so what I did I selected gray red color scheme where
+44:04
+this light gray or light red means good and dark red means bad and the message
+44:11
+here is pretty simple that when we have these red areas this means that we have no linearity and this is a dangerous
+44:17
+area in contrast we can say that this area on the left is good and I showed this figure to some colleagues and they
+44:24
+said that yes they easily understand the message of the figure because I used a very simple and intuitive color scheme
+44:32
+from Gray to Red I did the same thing in these figures I'm showing these areas and I'm
+44:39
+saying that they are decreasing because we have additional limits so I say that here are the limits and once we impose
+44:47
+more and more limits the color changes from Blue to red and again the message seems to be intuitive that the area
+44:54
+decreases and therefore the color becomes red so the simple color uh scheme that I selected for this figure
+45:01
+is blue to Red the next principle is the message and story of your figures your
+Message and story
+45:08
+strategy the point here is that you should never simply show all data that you have you should think first about
+45:15
+the story and message that you have behind your figure and then you need to show only the part of data that supports
+45:22
+your message and you need to use text colors uh strategically to highlight
+45:28
+this message so you need to help readers and guide them throughout your story as we just discussed with the colar
+45:34
+examples the color can be used strategically you can show that you are moving from white to Red which is bad
+45:40
+and you need to help readers to understand this so first you can use colors you can also put special titles
+45:46
+saying that look there is a problem here error whatever and you can also use the
+45:51
+description of your figure so don't simply say in your figure description that this this is figure number five
+45:58
+analysis of results say that this is analysis of results on the left we see good case on the right we see bad case
+46:06
+something is reducing which is displayed which is highlighted by the red color so
+46:11
+by reading this your audience already can understand what to expect that something was good something became bad
+46:18
+that's why the colors change and everything all elements of your figure should work together to support your
+46:24
+story and message uh that you want to say so always keep in mind the message that you want to deliver by a figure and
+46:31
+never simply show all data that you have speaking about delivering a message of your figure and your strategy I want to
+46:38
+mention a very interesting principle that many people analyze figures in Z
+46:44
+shapes let me show you what I mean by that this is the red blue figure that we
+46:49
+just considered so by the Z shapes I mean that readers usually start
+46:54
+analyzing figure from these top left corner and then they move through the
+46:59
+figure in this Z shape sometimes they make uh multiple zigzags while reading
+47:05
+your data for example first they can read the description here then they can go to the center
+47:12
+iterating the center and then go and make one more Loop read what are the
+47:18
+axes not all readers do this sometimes they just start analyzing your figure
+47:23
+from the center but still there exists this tendency that readers start analyzing from the top left corner and
+47:29
+then they move in these shapes why I'm showing this example to you is because I was strategic in
+47:37
+developing this figure and that's why I put all description in the top the first thing that readers see is the
+47:44
+explanation of the areas that are displayed and they can see these explanations and then they can move to
+47:50
+the center of the figure and see that indeed this is what they're looking at
+47:56
+another thing is that I used the figure description a lot I explained what we are seeing here I see that the cross
+48:03
+marker means this then we see some colors we see that areas are reducing so
+48:08
+everything is explained in one place which I believe makes it easy for readers to analyze this
+48:15
+picture now let's come back to this example of the Jacobian matrix error
+48:21
+here I want to show you how readers can be confused when uh seeing a lot of data
+48:26
+without certain strategic guidance so imagine the readers start here so they
+48:32
+don't see the axis and they don't see any additional labels so basically they have no information what they're looking
+48:38
+at so they start exploring this figure in Z shapes maybe they see this uh color
+48:44
+bar uh so they see that there are different colors and different values uh displayed in the figure but again there
+48:51
+is no name of this color bar so the readers may be a bit lost about what
+48:56
+they're look looking at so let's say that readers spend some time here analyzing this figure they are lost
+49:01
+there are so many colors and so many data points so then they jump to the next subfig and the same story repeats
+49:08
+here there is no uh label of this axis No Label of this color bar the data is
+49:14
+very complex so the readers may think okay I don't understand what is happening let's uh let's jump to this
+49:20
+figure the same story repeats here the only difference is that we see different colors this uh
+49:27
+figure has more yellow color than other figures and my point is that readers may
+49:32
+be jumping between these four subfigures but they may be lost because there is not enough information not enough clues
+49:39
+for them to really understand what is going on the only thing that we see in the description of the subfigures is
+49:45
+that this is jacoban Matrix error error error and the same thing is said in the
+49:51
+description of the figure so if improving this figure I would recommend adding additional guidance adding more
+49:58
+information in the names of each subfigure adding description of the axis
+50:04
+and maybe adding even more text here and there just to draw readers attention saying look here uh this is the problem
+50:11
+this is changing this is important this is not important overall I would say that this figure lacks guidance and some
+50:19
+strategic use of color layout and figure description let me show you another
+50:25
+example where actually the colors and the layout of the figure were used
+50:31
+really strategically and really helping readers to understand what is going on
+50:36
+this figure is not from my field it's not from electrical engineering but the point is look how this figure is
+50:43
+designed we start analyzing the figure from the left top corner and the first
+50:49
+thing we see is this color bar which explains us the whole Narrative of the picture we see that the red color means
+50:56
+maximum positive contribution we see that there is white no contribution and negative contribution so this is the
+51:03
+first thing that we look at and already we understand kind of the story of the figure and then we see on the right
+51:09
+results of the simulations and the results are pretty intuitive because we see which compounds which parts of these
+51:16
+uh molecules are more important and bringing more contributions so as I said this is not my field but I like how the
+51:23
+authors used the colors and layout strategically and even the Z shape reading rule was
+51:30
+respected the next principle is using consistent style in figures in your paper I think it's very simple principle
+Consistent style
+51:38
+basically it says use one style per paper don't change your colors or
+51:43
+elements of your figures too often from figure to figure even though this is very simple principle uh I still find
+51:50
+some uh strange examples in the literature and I just want to show you a few things to avoid and be cautious
+51:57
+about so let me show you this example by showing you this figure I
+52:02
+want to highlight the problem of inconsistent use of arrows and various
+52:08
+shapes in this specific figure there are too many types of arrows and lines used
+52:14
+so let's say that this uh black line black solid line shows the interconnection between different
+52:19
+elements in a distribution system however then we have these uh dashed
+52:25
+lines I'm not sure what they're showing probably internet connection data connection to the cloud and on the top
+52:31
+of that we have the third type of Arrow this kind of 3D uh bent Blue Arrow
+52:38
+showing something different so try to avoid using too many types of arrows in
+52:43
+one figure because this may be confusing for readers and uh try to avoid using
+52:49
+too many types of lines like black line dashed line dashed orange line and so on
+52:55
+I also found this paper about energy storage and hydrogen in Malaysia the
+53:01
+paper is interesting however what I noticed is that many figures have
+53:06
+inconsistent different styles in total there are almost 20 figures in the paper
+53:12
+and all of them have different styles so if you look at figure number one it has a blue orange bar charts then we have a
+53:20
+gray figure then we have figures like this with red arrows
+53:26
+then we have figures with black arrows and so many types of arrows and so many types of diagrams just in one
+53:33
+publication please try to use one style if you are developing your figures in Python and you are using uh red and
+53:40
+purple colors please do this in most of your figures in a manuscript I mean it
+53:45
+happens in many Publications where you see figures from python figures from Excel some other software the problem is
+53:52
+that such papers look like a report uh not like a single paper but as a
+53:58
+collection of different figures from different reports and reviewers and readers might not like it the next point
+To avoid: pie charts, 3D
+54:05
+that I want to discuss is some figures to avoid or to be cautious about specifically pie charts and 3D figures
+54:13
+let's start with pie charts many people think that pie charts are widely
+54:18
+accepted tool it's a basic tool used everywhere and it's great to use them in
+54:23
+papers however some designers uh and scientists argue that pie charts are not
+54:28
+great for readers and that using pie charts should be avoided the problem is
+54:34
+that you are asking your readers to perform a very difficult uh geometric task you asking them to compare uh to
+54:41
+compute angles in this pie chart these sectors and then to compare areas of the
+54:48
+sectors which is really as I said difficult geometric task and actually in this book storytelling with data the
+54:54
+author also mentions problems with pie charts and I want to show you some examples from the website of this book
+55:01
+storytelling with data here is the article about using pie charts in the
+55:07
+storytelling with data website and it explains why there are certain problems with pie charts for example here let me
+55:15
+ask you which is larger C or D I can't really tell it's very difficult again to
+55:21
+compare these areas of the sectors uh how can we see
+55:27
+how can we show which is larger probably we will need to put some numbers close to CN D but in that case your readers
+55:34
+will be reading numbers and not looking at the pie chart instead if you show
+55:39
+your pie chart as bar chart it is very easy to see that c is actually larger
+55:45
+than D I believe this is a great example showing how pie chart make our life hard
+55:50
+in analyzing data and then uh if you read this article there are many other problems with pie charts discussed how
+55:59
+it's difficult to compare various slices and so on this is a great example showing why 3D plus pie charts is a very
+56:06
+complex task because the information gets distorted even more like here this
+56:11
+slice with 22% looks larger than with 25% simply because in 3D it is located
+56:18
+closer to us so please don't use pie charts and don't use 3D pie charts
+56:23
+because it's really difficult to analyze them here I found an example for you of a journal paper it's a review paper where
+56:31
+the authors discuss uh various Publications uh per year and they present data as four pie charts and we
+56:38
+see the same problem that it is very difficult to analyze pie charts imagine I want to analyze this purple um slice
+56:47
+this is what happened in 2022 sorry in in this pie chart but then
+56:52
+what happens in the next pie chart so I need to go from one pie chart to another just simply to compare one slice it
+57:00
+takes a lot of time a lot of energy and that's why it is usually advised to avoid using pie charts in presenting
+57:07
+your data in research papers regarding 3D figures I myself
+57:13
+liked 3D figures a lot I uh wanted to use them a lot in my papers I thought
+57:19
+that they look fancy they look complex and if I use a lot of 3D in my papers uh
+57:25
+it will make them unusual however the truth is that in 90% of cases 3D is not
+57:31
+a great solution to display your data uh in your papers and the only thing it does it confuses readers Let Me Show an
+57:38
+example from a paper in this paper authors analyzed voltages in a distribution Network and
+57:46
+they decided to present voltage profiles in a 3D space so we can see there are three dimensions time uh bus which means
+57:53
+sub station and uh voltage the problem is however that it is very difficult to
+57:58
+analyze such 3D surfaces such 3D figures there are many data points which are
+58:05
+overlapping and I cannot zoom in and see the solutions that are located behind so
+58:11
+please try to avoid using 3D if you are not absolutely sure that it is necessary to visualize your
+Time
+58:18
+Solutions the last point that I want to mention today is time look I have many
+58:25
+years of experience in developing uh figures for papers and coding them and
+58:30
+even I cannot create a beautiful figure in one day I mean in few hours it will
+58:35
+take me at least few days to develop nice figures so the first day I develop draft the main idea and then the next
+58:43
+day I come back to the figure and I see what can be improved and maybe the next day I show U the figure to my colleagues
+58:49
+I get some feedback and only after a few iterations I can finally create beautiful and professional figure so
+58:56
+don't expect to create beautiful figures for your research papers fast be patient
+59:02
+and uh try to enjoy the process actually I believe that creating beautiful figures is a very satisfying task you
+59:09
+are creating something beautiful and useful from scratch and people will be reading these results later on so yeah
+59:17
+as I say be patient and just try to enjoy the process and try to develop figures in a few iterations all right
+Recap
+59:25
+that's it about the principles of beautiful figures thank you for being with me through this long tutorial let's
+59:32
+quickly recap what we have discussed we first talked about the overall quality
+59:37
+of figures and discussed the problem of using vector-based images and roster
+59:43
+images then we discussed readability of figures the size of font and various
+59:48
+elements of your figures and the related topic of simplifying and decluttering complex
+59:54
+figures the next uh major topic was the use of colors how to not use
+59:59
+complimentary colors bright colors and focus on more harmonious analogous color
+1:00:05
+schemes then we discussed the message and the story of your figures how you can use various elements in your figures
+1:00:13
+strategically uh the remaining topics were keeping a consistent style one style per paper we also discussed some
+1:00:20
+figures to avoid like pie charts and 3D and we discussed time management and time con rins in the next videos I will
+1:00:27
+show you examples of how I create figures for my papers we will start with
+1:00:33
+coding examples how we can tune plotting packages parameters and then we will move to some Advanced uh topics like
+1:00:41
+using graphic software vector graphics software for adjusting your figures modifying them and we will come to
+1:00:48
+developing quite Advanced and complex figures that you cannot simply develop in Excel or in your programming language
+1:00:55
+I hope that ideas that we discussed today will be useful for you and that you will create very beautiful figures
+1:01:01
+in your research papers please let me know your feedback about this tutorial and any questions that you have I will
+1:01:08
+be happy to see your comments thank you and see you soon bye

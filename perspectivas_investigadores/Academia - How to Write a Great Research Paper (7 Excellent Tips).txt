@@ -1,0 +1,263 @@
+0:033 secondsI'm going to um speak about the act of writing which is something that every researcher has to do a lot and the good news is that some pretty simple things
+0:1212 secondscan make your written output a lot better so that's why I've titled this seven simple suggestions so here we go seven simple suggestions here is the
+0:2020 secondsfirst one don't wait right this is what mistake a lot of people make here is a typical plan for doing research number
+Chapter 2: Don't wait: write
+0:2727 secondsone have brilliant idea number two spend months doing good research to back it up number three write the paper in the last two weeks before the deadline for the
+0:3636 secondsconference this is a bad plan right here is a good plan for doing research first have an idea second start writing the
+0:4444 secondspaper third use the paper as a forcing function to make you do the research that articulates the paper okay you see
+0:5252 secondshow different this is right it means you start writing very early why is this good well I often find if I've spent invested months effort hacking around
+1:011 minute, 1 secondand writing code and and thinking and then I start to write the paper then I realized that some of my previous work was misdirected right it wasn't directed
+1:081 minute, 8 secondsto a useful goal certainly not for that paper and I also discover some key parts of the paper that need more work right so you want to use the paper as a as a
+1:171 minute, 17 secondsforcing function to learn that early it also gives you a good way to communicate with other people research is all about
+1:241 minute, 24 secondscommunication right if you if you're maybe you're the kind of person who likes to work just on their own in a window room with no lights but I like to
+1:321 minute, 32 secondswork with other people I spent a lot of time at the Whiteboard if you have something written you have a new mechanism for communicating with them
+1:401 minute, 40 secondsright it's very important it's a mechanism for communicating uh that's all a long way of saying that really writing is not the way in which we just
+1:491 minute, 49 secondsreport research for me it's a way in which I do research and I think you should think about writing in that way
+1:571 minute, 57 secondsis not just the output it's the computation it's the stuff that makes research happen and it's because somehow we think
+2:042 minutes, 4 secondsmore clearly when we write than when we just think at least I do so um one
+2:122 minutes, 12 secondsproblem with this plan here is that it starts with this idea bit right where does this idea come from and so uh it's tempting when you're looking at other
+2:202 minutes, 20 secondspeople's work to think oh my everybody else has very clever ideas and I am a mere worm and I have Such trivial boring
+2:292 minutes, 29 secondsideas is that nobody would be interested in them hey do you know that feeling yeah you sit there and you don't feel very creative let me tell you that this
+2:372 minutes, 37 secondsis what every researcher feels most of the time there are days when you have that miraculous breakthrough and you really you know God is in heaven and you
+2:442 minutes, 44 secondsknow that all is right with the world but most days you think I a worm this is the natural state of the researcher right so what you have to realize is
+2:522 minutes, 52 secondsthat even you know Taran and so forth thinks that he's a worm most of the time and what what researchers do good researchers is they simply start writing
+3:003 minutesanyway right they write a paper about any idea no matter how trivial or insignificant it may
+3:073 minutes, 7 secondsbe my experience is that the cleverer the research student the more they are prone to this failure mode either they
+3:143 minutes, 14 secondsdon't understand something which case they're depressed or else they do understand something which they believe in which case they think it's trivial and nobody will want to know about it
+3:223 minutes, 22 secondsright so in both cases depressed this is not a good situation right so just write an idea no matter how significant it
+3:303 minutes, 30 secondsseems to be because my experience consistently is that when you write the paper your idea develops and ramifies
+3:383 minutes, 38 secondscomputer science is like a a snowflake or a flower you start with a little seed and it sort of ramifies ahead of you into interesting things something that
+3:473 minutes, 47 secondslooked boring turns out to be actually rather interesting not always sometimes you'll start writing the paper and it turns out indeed to be weedy and
+3:553 minutes, 55 secondsinsignificant and then maybe you won't publish it but it'll be done quickly and you put it on your homepage all
+4:004 minutesright so write early write early and and I really do believe that this second
+4:074 minutes, 7 secondsthing is is much the most common case it almost invariably turns out to be more interesting than you thought all right number two if you're going to have this
+Chapter 3: Identify your key idea
+4:154 minutes, 15 secondsidea and write about it you need to be clear what it is the business of writing a paper is to convey from your brain
+4:244 minutes, 24 secondsinto the minds of your readers your idea so think of your papers like like a virus right you're trying to you're
+4:314 minutes, 31 secondstrying to infect your reader Minds with your idea and then it will infect then they'll talk to other people and it will infect them so it's like a kind of
+4:394 minutes, 39 secondscontagion or plague that is going to sweep the world and everybody's going to be thinking about your idea because it's so well infectious right
+4:484 minutes, 48 secondsso the um my my my analogy here with with mozar is just that uh here hundreds of years after Mozart died we are
+4:564 minutes, 56 secondslistening to people read his papers or more precisely play music we actually go to Concert Hall to hear his papers because their ideas were so infectious
+5:045 minutes, 4 secondsdon't you think that's amazing wouldn't it be remarkable if in 400 years time people were still reading your papers it's not all that likely but I think
+5:125 minutes, 12 secondsthat that's the that's the kind of idea that you'd like to get your your the paper is not a mechanism for getting promotion it's a mechanism for conveying
+5:205 minutes, 20 secondsideas from your head to somebody else's head if you don't convey them right if you don't bother to tell anybody about your ideas then you might as well not have
+5:285 minutes, 28 secondsthem right even if Einstein had sat in a windowless box and not told anybody about relativity then we wouldn't know about relativity right that means you
+5:365 minutes, 36 secondsneed to know what your idea is right so when you write a paper in the end at least by the time you finished you must know what is the idea that your paper
+5:445 minutes, 44 secondsconveys it's surprising how hard that can be to determine from people's papers as a reviewer if you read somebody's paper when you finished you can say what
+5:535 minutes, 53 secondsidea did that paper convey if you find that hard to articulate as a reader then you know you in your viiew can say I
+6:006 minutesreally couldn't figure out what this what the idea this paper was about and so then you apply that to your own papers right it's actually sometimes quite hard to know exactly what your
+6:096 minutes, 9 secondsidea is to begin with but you must know by the time you finished uh if you find yourself thinking oh well actually three ideas in this paper then what you do
+6:176 minutes, 17 secondsjust write three papers right rather than trying to wedge them all in in which case each one becomes cryptic and incomprehensible because you try to
+6:256 minutes, 25 secondssquid it into 10 pages just write three papers that's cool right that's not salami slicing that is taking ideas and
+6:326 minutes, 32 secondsexpressing them a good good idea in your paper is to say explicitly when you get to the main idea it's surprising how
+6:396 minutes, 39 secondsseldom this happens so I often try to write phrases in my paper that that say at the beginning of section three somewhere the main idea of this paper is
+6:486 minutes, 48 secondsthis because I've had to explain some context and setup and background and I want it to be absolutely clear when I move from describing the context to
+6:566 minutes, 56 secondssaying here's the payload right the virus is about to arrive in your brain prepare does that make sense right if
+7:047 minutes, 4 secondsyou don't say that if you leave your reader to be a detective so that subsequently they have to reverse engineer what they think you meant was
+7:127 minutes, 12 secondsthe key idea that's not good right why not say it explicitly be completely upfront about this third thing tell a
+Chapter 4: Tell a story
+7:197 minutes, 19 secondsstory so if you're going to write a paper and this applies I'm focusing mainly on papers but I do also mean dissertations and so forth everything applies to everything you write really
+7:277 minutes, 27 secondsis to tell some kind of a story I always try to imagine when I'm writing a paper that I'm standing in front of a whiteboard and explaining it to a
+7:347 minutes, 34 secondscolleague it's amazing how differently people will present things at a whiteboard than they will in a paper right with a whiteboard they'll start
+7:417 minutes, 41 secondsright away with examples they'll explain it quite differently than if they they will not yeah you you get the idea they they often explain it in a much more
+7:487 minutes, 48 secondsaccessible and engaging way at a whiteboard than in a paper so if you want to be accessible and engaging do the same thing in the paper
+7:567 minutes, 56 secondsas you do at the Whiteboard nearly you need to have a bit more substance so here's a narrative flow that I usually try to follow in my papers right you want to say here's what the problem is
+8:058 minutes, 5 secondsyou want to motivate your reader to say why it's an interesting problem you want to say at least briefly why it's an unsolved problem so it would be worth
+8:138 minutes, 13 secondssolving and it's unsolved and then you want to present your idea that's the payload right virus has arrived now right and then you give quite a bit of
+8:218 minutes, 21 secondsdetail about exactly how what your idea is and how it works um then you're going to say something about um uh how your idea Compares with other people so you
+8:298 minutes, 29 secondskind of trying to lead people in remember not everybody will read right the way through your paper your ideal is that wherever anybody stops reading they
+8:378 minutes, 37 secondstake away something valuable with them and moreover every bit they read makes them want to read more right this is
+8:458 minutes, 45 secondsback to making it accessible right so you know they say ah here's an interesting problem I wish I could solve that one I wonder whether he can solve it so they you know they've got the hook
+8:548 minutes, 54 secondsthey're inclined to read some more um so here's my uh sort of typical outline for most papers that I write and indeed it works for dissertations as well short
+9:039 minutes, 3 secondsabstract um an introduction then something about the um uh stating what the problem is then qu a bit a bit of a
+9:109 minutes, 10 secondsshort piece explaining what the idea is kind of intuitively and then a longer piece explaining the details behind the idea that sort of fills out the evidence
+9:189 minutes, 18 secondsthen something about related work and I'm going to say a bit more about each of these sections in the following piece but this is my uh picture of how the structure of a paper might go and look
+9:279 minutes, 27 secondsat the numbers of readers right more people will read your abstract en tile that will read all the rest of the paper so each time you want to give them a hook to continue here's what I think
+9:349 minutes, 34 secondsyour introduction should do one page describe the problem briefly and articulate what your contributions are
+9:419 minutes, 41 secondsso here's um by way of example um describing the problem I would suggest you introduce your problem with an example so my uh crude way of doing it
+9:499 minutes, 49 secondsis say is there any typewriter font on the first page I'm a programming languages guy and programming languages people tend to put example programs in
+9:579 minutes, 57 secondstypewriter font so I know if s write a font in the paper it's probably an example that's good right but in your Fields it may differ but anyway start
+10:0410 minutes, 4 secondswith an example that illustrates your problem so here's an example of a paper that I wrote some time ago and the very first thing I did was give a little program and explain a problem with it
+10:1310 minutes, 13 secondsand explain that somehow my paper was going to fix this problem okay so that's an initial hook not a general description of a problem but something
+10:2110 minutes, 21 secondsrather specific that's my suggestion then you may want to generalize a little bit but in in stating your problem I think it's helpful to be not too
+10:2910 minutes, 29 secondsambitious so some people State problems that are like Mount Everest uh here's an example uh computer programs often have bugs it's very important to eliminate
+10:3710 minutes, 37 secondsthem many researchers have tried it's really very important now what have you learned from this introduction right do you think
+10:4610 minutes, 46 secondsfantastic this paper is the one I'm going to read because it's going to tell me how to fix bugs no you think here is a general
+10:5410 minutes, 54 secondsobservation that everybody would agree with and that you could you know it's like motherhood and apple pie nobody could disagree with this do you see what I mean or another way to say it is he's
+11:0311 minutes, 3 secondsposed the problem that thousands of computer scientists have worked on for 100 well tens of years and it's never going to be done anyway right so do you
+11:1211 minutes, 12 secondssee why that is not a useful thing to say in that introduction part this is the part which you still have your 100 readers right and but they're busy
+11:2111 minutes, 21 secondsfalling off they're dropping like flies right every sentence that goes by another 10 readers have died you know they've sort of fallen off so you you
+11:2811 minutes, 28 secondsyou you have to kind of use your your precious words at the beginning those goldplated words at the to hang on to them so don't give them this garbage
+11:3711 minutes, 37 secondsright instead uh here's a c of counter example here's a say here's a particular program that shows a particular kind of bug right and my paper is going to show
+11:4611 minutes, 46 secondsyou how to catch or automatically nail an interesting class of bugs like this one do you see how that feels different mole Hills not mountains this seems
+11:5411 minutes, 54 secondscounterintuitive right because usually we're told to frame our work ambitiously but don't frame it too ambitiously or people will just won't believe you
+12:0112 minutes, 1 secondthat's what it amounts to okay so that was the first thing describe your problem so you got about you know a little half page for that then you want to say what the contributions
+12:0912 minutes, 9 secondscontributions of the paper are now this is really important and I think it's worth uh worth writing a first draft early you write a first draft of your
+12:1712 minutes, 17 secondscontributions and you go back later and rewrite them and then you go back later and rewrite them but you need to know what the first draft is so the list of contributions drives everything you do
+12:2612 minutes, 26 secondsin the paper it says it's like the claims that you make you say in this paper I'm going to substantiate the
+12:3312 minutes, 33 secondsfollowing claims 1 two 3 four right and uh every claim forward references to some evidence and the idea is that your
+12:4012 minutes, 40 secondsreader reads these claims and thinks crumbs if he could really do that that would be quite cool so they have to be
+12:4712 minutes, 47 secondscrisp enough to to be um understood by a reader and think and have that thought now uh here's an example um I usually uh
+12:5512 minutes, 55 secondswrite claims like this using bullets because as you're reading that first page remember your readers at the moment are not committed to your paper they're
+13:0413 minutes, 4 secondsjust thinking about it people's eyes are drawn to bullets they just read the first bit of each bullet right so for every contribution I have one bullet
+13:1213 minutes, 12 secondsright this is all going to fit on the first page so after some introduction about the problem I'll then say you know in this paper we put the choice on airma basis or in this paper we make the
+13:2013 minutes, 20 secondsfollowing new contributions that's typical and then lay them about 1 2 3 4 bullets and for each bullet look what I've done here right explain precisely
+13:2813 minutes, 28 secondsblah blah blah section four we do this discuss these effects section five and six and contrast them in section s so for every claim I've made I've given a
+13:3613 minutes, 36 secondsforward reference to evidence in the paper that supports the claim so page one is like the specification and the rest of the paper is like the
+13:4313 minutes, 43 secondsimplementation so for every bit in the spec you give a forward reference to the implementation that substantiates that specification you with
+13:5213 minutes, 52 secondsme this is great because now if a reader thinks ah I wonder if that claim is true he could go exactly where to go to look
+14:0014 minutesand if if a reviewer at the end is looking back at your claims having read the paper he can say yep tick yep tick right that's much better than asking
+14:0714 minutes, 7 secondsthem them to do detective work to say I wonder where this third claim is substantiated oh when I say evidence I don't necessarily mean theorems it might
+14:1414 minutes, 14 secondsbe measurements it might just be argument it might be sort of just sort of more details somehow so evidence I don't mean I mean a a sort of slightly
+14:2214 minutes, 22 secondswooly kind of thing but something to make the reader believe that you're right whatever form that takes in your
+14:2914 minutes, 29 secondsor field are you with me here idea contributions or sort of problem contributions you may not have enough
+14:3614 minutes, 36 secondsspace in the introduction to say very much about your idea you're almost asking them to say well here's the problem here's here's the properties of
+14:4414 minutes, 44 secondsmy solution now you're really motivated to learn my idea so don't try to present the idea on page one because you won't fit it is
+14:5314 minutes, 53 secondspretty much what it comes to okay one other thing about the contributions bit which I missed out here is that you want want to make your contributions
+15:0115 minutes, 1 secondrefutable that is it must be possible to fail to deliver on them if your contributions say you know we describe
+15:0815 minutes, 8 secondsthe wiswell system well of course you'll describe the wiswell system no reviewer can say he didn't meet his contributions here but you've described it you know
+15:1715 minutes, 17 secondsand if you say we're to study this well of course you've studied it but it's not very interesting merely to describe something or to study something you want
+15:2515 minutes, 25 secondsto make refutable claims or claims that have some actual content so think celery not soggy overcooked pasta
+15:3315 minutes, 33 secondscrunchy crunchy refutable um claims and I've just given a couple of examples here now uh last thing about the
+15:4115 minutes, 41 secondsintroduction how many of you read this paragraph when you read papers you do you read it I've seen
+15:4915 minutes, 49 secondsit oh yes but do you read it do you think what a great paragraph I wish I'd written that paragraph I'm reading every
+15:5615 minutes, 56 secondsword with care and attention and love no you skip it don't you because you're going to read the paper right what the
+16:0316 minutes, 3 secondsdick is this this this stuff on page one is simply a waste of that precious bandwidth you've got with your readers
+16:1116 minutes, 11 secondsright it seems like the right thing to do to give an outline of the paper but I promise you nobody reads it and it's occupying a column inch on your most
+16:1916 minutes, 19 secondsprecious page instead just do what I mentioned earlier and give these forward references right if in your um stuff
+16:2816 minutes, 28 secondshere you you've forward referenced all the section you have done everything you needed you've simply given a narrative that incidentally forward references the
+16:3716 minutes, 37 secondspaper which makes this stuff entirely redundant so just don't do it very strong advice
+16:4316 minutes, 43 secondshere related work many papers go like this don't they they have introduction
+Chapter 5: Related work: later
+16:5016 minutes, 50 secondsrelated work and why not everything we do Builds on stuff that people have done before so it seems like the right
+16:5916 minutes, 59 secondsscholarly well Justified thing to do to first of all go through the related work and then a couple of pages later we're
+17:0617 minutes, 6 secondsnow ready to see the new stuff that feels sort of kosher that feels what proper researchers should do but what
+17:1417 minutes, 14 secondsactually happens in practice the related work forms a kind of barrier or Sandbar
+17:2117 minutes, 21 secondsor concrete wall between your reader and your idea you're going to drag your reader Kicking and Screaming through two
+17:2917 minutes, 29 secondspages of stuff that they don't really understand before they can get to your idea and why don't they really understand it well expert readers will
+17:3817 minutes, 38 secondsright the people who are really in your micro part of the snowflake will know what you're talking about but you would
+17:4517 minutes, 45 secondshope to bring with you many readers who perhaps not in your little tiny corner of the world but from a broader part of
+17:5217 minutes, 52 secondscomputer science so if you assume that they already know quite a lot of stuff you're not going to um uh make much progress now the thing is that you might
+18:0018 minutesthink well okay so explain it well but if you explain it well the related work section drags out longer and longer so what happens in practices because people
+18:0818 minutes, 8 secondsare eager to get to their idea they take this related work concrete wall and they kind of Squish it until it's the density
+18:1618 minutes, 16 secondsof lead right because they try to make it short and therefore it's cryptic and incomprehensible so they you know here's a a sort of random example here and you
+18:2518 minutes, 25 secondsknow some reader reading this just hasn't a clue what's going on they've never heard of brown white or green they're really not very interested right they want your idea so it feels good but
+18:3418 minutes, 34 secondsactually doesn't work very well another difficulty is that at this stage in the paper you do not have very much uh
+18:4218 minutes, 42 secondsnotational scaffolding you have not built up a set of intuitions and terms and a sort of world viw that enables you
+18:5018 minutes, 50 secondsto discuss this stuff very easily moreover you haven't introduced your idea so it's very difficult to do any
+18:5618 minutes, 56 secondscomparison stuff here too um so my strong advice in papers at least and I think actually mostly in thesis as well is just to um uh to leave it until the
+19:0519 minutes, 5 secondsend right to do this related work stuff right at the end now at this point at the end you have um you have incidentally as you've gone through
+19:1319 minutes, 13 secondsyou've referred to related work but you haven't made a big meal of it and at the end you say now we're going to compare what we've done to other people and
+19:2119 minutes, 21 secondsthere you have all the intellectual scaffolding that you built up all ready to go does that make sense I'm not saying you should ignore every piece of
+19:3019 minutes, 30 secondsrelated work and pretend make it seem as if everything until this section is all your own work no no no as you it's like
+19:3819 minutes, 38 secondsif you were going at a whiteboard right with somebody you would not say first of all I'm going to give you a section on related work you would instead say
+19:4619 minutes, 46 secondshere's my example and here's how I tackle it oh and by the way this idea this this bit of the idea came from this guy but I added this new bit right and
+19:5419 minutes, 54 secondsat that point you wouldn't go into what this guy did you just say you just give the credit to him as you go by do do you see what I mean so in your paper as you
+20:0320 minutes, 3 secondsexplain your idea as if at a whiteboard you give citations to relevant related work and perhaps you even say oh and
+20:1120 minutes, 11 secondswe're going to discuss more of that in Section 8 so every time the expert reader is reassured that you are not a stupid idiot who has not read the
+20:1920 minutes, 19 secondsliterature you know all about the literature it's just that you're a going to get there at the end see what I mean people disagree about this your
+20:2720 minutes, 27 secondssupervisor May disagree with you about this but this is what I think now uh second thing about related work is when
+20:3420 minutes, 34 secondsyou are writing this bit at the end right the uh the the section towards the end here you um uh you're then trying to
+20:4220 minutes, 42 secondscompare your work with other people's right now a common fallacy it's seldom articulated explicitly is this in order
+20:5020 minutes, 50 secondsto make my my work look good I have to make other people's work look bad right so you say well in this completely
+20:5820 minutes, 58 secondscrappy work by Fred and blig they did this stuff and it was really no good and ours is better on every Dimension
+21:0621 minutes, 6 secondsright so there's a kind of human instinct that makes you think in order
+21:1321 minutes, 13 secondsto show how wonderful my stuff is I have to somehow downplay not as crudely as that but somehow downplay other people's
+21:2121 minutes, 21 secondswork right but happily the truth is that it's not like that at all credit is like
+21:3121 minutes, 31 secondslove credit is a commodity that is infinitely divisible if I have £10 and I give you5
+21:4021 minutes, 40 secondshow much do I have left 5 if I have love and I give you love how much love do I have left oh as much as I ever had and
+21:4721 minutes, 47 secondsmaybe more right so there you are and credit is just like this you can say very nice
+21:5521 minutes, 55 secondsthings about other people's stuff obviously not don't be synoptic right don't praise them because you think they're going to be your reviewers and you must be nice to them praise them
+22:0322 minutes, 3 secondsbecause they are good right so if you read a paper that you did find inspiring make a moment in your paper to say it
+22:1122 minutes, 11 secondswas an inspiring paper why not right that will encourage other people to read the same paper which is a good thing right makes more
+22:1922 minutes, 19 secondsgoodness in the world it will make the authors feel good about it it give credit where credit is due everything is good about this okay so um just be very
+22:2922 minutes, 29 secondsgenerous to other people and believe me this will not make your work seem worse right so of course there are going to be
+22:3822 minutes, 38 secondssomewhat ways in which you're going to say but we improve on their results in the following way that's fine because you've been you've been generous to them and then you said but but in this
+22:4622 minutes, 46 secondsDimension at least we're a little bit better um or maybe way better who knows you just give the numbers um another thing that's really important is if
+22:5422 minutes, 54 secondsthere are weaknesses in your approach like if you're better on Dimension X but worse on Dimension y if you only mention X you are inviting your cruel reviewers
+23:0423 minutes, 4 secondsto point out that on Dimension y you're really not as good it's way better if you point that out it's quite disarming
+23:1123 minutes, 11 secondsfor your viewers already you know they're thinking ha but he's not so good there and then they say oh but we're not so good here oh
+23:1823 minutes, 18 secondsright so uh be it's not it's not just honest and scholarly it's also good tactics to explain that you're perhaps
+23:2623 minutes, 26 secondsnot better in every Dimension and that's often you know things are often a compromise right maybe your approach is simpler but the performance numbers
+23:3323 minutes, 33 secondsaren't quite so good that might be a trade-off many people might be willing to make and your paper might be very interesting despite you know that it's
+23:4123 minutes, 41 secondsnot doesn't run quite as fast or something you see the point okay we're on number what are we doing we're on number six putting your
+23:4823 minutes, 48 secondsreadus first what does that mean the first way in which you should put your readus first it relates to this um the middle section so the middle section is in some ways the easiest to write it's
+Chapter 6: Put your readers first
+23:5723 minutes, 57 secondsthe longest but it's the easiest to write because this is where you are presenting your idea and giving the substantiating evidence um and writing
+24:0524 minutes, 5 secondsout all the details right so this is this part is the bit we're all uh trained to write and uh Al it's kind of easier to write because that's that's
+24:1324 minutes, 13 secondsthe stuff that's in your head so but there are few things when you're thinking about your readers that you might want to consider when you're doing this section number one when you're
+24:2124 minutes, 21 secondsdeveloping an idea you often develop it through examples when you're presenting an idea it is very common to see this kind of stuff you know consider a bif
+24:3024 minutes, 30 secondssemi latis D over a hyper modulated signature s so the in other words after you have learned the general solution to
+24:3924 minutes, 39 secondssomething it's very tempting to present the general solution first and then perhaps to give an example or two to
+24:4624 minutes, 46 secondsillustrate how wonderful your general solution is the trouble is that it's not motivating to your readers because your
+24:5324 minutes, 53 secondsreaders do not have the intuitions that you have carefully built up by studying this problem you're just hitting them
+25:0025 minutesbetween the eyes with this sort of monster statement that they do not understand at all so motivated readers
+25:0925 minutes, 9 secondsMay fight through but the rest of the readers will just fall off the horse and start reading the next paper okay so what do you want to do you want to do
+25:1725 minutes, 17 secondswhat you would do at a whiteboard right you would explain the intuition first I don't know how to say it more
+25:2425 minutes, 24 secondsemphatically explain the intuition first do not give the general story right at the beginning otherwise you'll lose your readers and what one advantage that has
+25:3225 minutes, 32 secondsis that if a reader gets an intuition for what your idea is about then if they leave the paper when they get to the Gory details they're still taking
+25:4025 minutes, 40 secondssomething valuable away with them whereas if they leave the paper when you tell them this they have got nothing valuable they've just simply felt stupid
+25:4825 minutes, 48 secondsand making your readers feel stupid is not a good plan now how to convey the intuition well the way we all convey the intuition when we're in conversation
+25:5725 minutes, 57 secondswith our friends is we instinctively give examples that's the very first thing we do isn't it we
+26:0426 minutes, 4 secondscan't help ourselves in conversation and yet in papers we almost can't help ourselves from giving the general case
+26:1126 minutes, 11 secondsfirst it's very bizarre so just give examples first give several examples of the the problem that you're trying to solve and and examples of how your idea
+26:2126 minutes, 21 secondssolves it right so by the by the time the reader is coming to the more general statement of your idea they have something to Anchor It On so this is
+26:2826 minutes, 28 secondswhen I'm beginning to set the scene in more detail for a paper PST called scrap your boiler plate I give a particular example of the problem that I'm trying to solve and and begin to show
+26:3726 minutes, 37 secondsspecifically how my solution tackles it but for a particular program this was about generic programming so I said supposing I wanted to have a generic
+26:4626 minutes, 46 secondsprogram to compute the size of a data structure no matter what data structure it was then this is the kind of code that I'd like to write and worked on
+26:5326 minutes, 53 secondsfrom there now when you get to the more details it is tempting to carry the reader through the path that you took in
+27:0027 minutesresearch has full of blind alleys right so you walked down one blind alley you discovered it was it was a dead end so you walked back out again and you walk
+27:0827 minutes, 8 secondsdown another one you walk back out and this is the nature of research isn't it now does the reader want to um want you
+27:1527 minutes, 15 secondsto carry them down the blind alley look there's a wall ahead of you let's go into another one another wall right and
+27:2327 minutes, 23 secondsof course every step on this path is soaked in your blood right but it took you a long time to explore this stuff so
+27:3127 minutes, 31 secondsyou think ah the reader is going to be really interested in my blood right they're really going to want to know but they don't they're fundamentally
+27:3827 minutes, 38 secondsuninterested they want to know the answer now sometimes the blind alleys are so obvious that you have to say the obvious solution does not work and I'm
+27:4727 minutes, 47 secondsgoing to explain why but very frequently I have read a paper and I have slogged through a page of quite technical
+27:5527 minutes, 55 secondsmaterial only to find that the reader says the the writer says this approach does not work I'm going to tell you a
+28:0228 minutes, 2 secondsbetter one I'm thinking I have just burnt an hour of my life following you down this blind alley why did you do this to me
+28:1128 minutes, 11 secondsyou laughed but it's true right it actually happened so don't do this to your readers right just choose the most direct route exploring only the blind
+28:1928 minutes, 19 secondsalleys that are so obvious that it would be you know the reader will simply not follow you down the good path because they'll keep thinking but look it's like
+28:2728 minutes, 27 secondsyou know if you see if you're trying to jump into a swimming pool and you see the swimming pool there and somebody says let's go around this little um
+28:3528 minutes, 35 secondscircuit then you think let's just jump in right so if it's that obvious you have to tell them but that's all okay number seven listen to your readers what
+Chapter 7: Listen to your readers
+28:4328 minutes, 43 secondsdoes that mean so I talk about being nice to your readers and once you've been nice to them you then want to listen to them so find guinea pigs and
+28:5128 minutes, 51 secondsget them to read your paper now what's a guinea pig a guinea pig is a friend of yours who is willing to do you the honor of reading your paper so it's like
+28:5928 minutes, 59 secondsinoculating them with a drug right and you see whether they fall over dead or squeak or what they do but you only have a limited supply of guinea pigs right so
+29:0629 minutes, 6 secondsif you inoculate them all with the same paper then you don't have the opportunity to recycle them so because once they've read it once they're kind
+29:1429 minutes, 14 secondsof immune they will never be able to read your paper again for the first time by definition so don't use your friends up too quickly use them kind of one at a
+29:2329 minutes, 23 secondstime or maybe two at a time the other thing is you need to explain very carefully to them what you want for them it's a my experience is constantly that
+29:3129 minutes, 31 secondsif I give a paper to a friend of mine and say you know would you be kind enough to read this for me what they will tell me is this word is misspelled
+29:3929 minutes, 39 secondsthere's a comma missing there the grammar in this sentence is not great did I want to know that when my paper is 99% complete absolutely yes but at every
+29:4929 minutes, 49 secondsprevious stage absolutely no what I want to know from them is I got lost in section
+29:5629 minutes, 56 secondsthree do my friends tell me that you bet they don't because they feel stupid right they got lost in section three so
+30:0430 minutes, 4 secondsthey think oh well Simon's expert friends will all understand that you know I'm just an idiot but that's not true right they are your guinea pigs you
+30:1130 minutes, 11 secondsare trying to find where they get lost so you must tell them very carefully and unmistakable terms what I want to know
+30:1930 minutes, 19 secondsis where you got lost or where you got unmotivated or where you thought is not my worth carrying on and then because they're a friend of
+30:2930 minutes, 29 secondsyours and you're maybe nearby you can get into the room with them and you say well where did you get lost and they say it's here and you can say well supposed I explain it like this you get on the
+30:3630 minutes, 36 secondsWhiteboard and often 10 minutes later they say ah now I understand why didn't you say that and you think ah why didn't I say
+30:4330 minutes, 43 secondsthat so when you're in this dialogue try to listen to yourself to see how you
+30:5030 minutes, 50 secondsexplained to your friend how to get over that little bump and then instead of and then put that explanation in your paper see what
+30:5930 minutes, 59 secondsI mean in other words don't treat it as being an exercise in you educating them in how stupid they were instead treat it
+31:0631 minutes, 6 secondsas an exercise in you learning from them what would be a good way to explain it you see the difference it's a very big difference in
+31:1531 minutes, 15 secondsattitude now as well as your friends you can also try to get help from uh true experts who are further away now this is
+31:2231 minutes, 22 secondsharder because they don't have any any personal stake in your life but one way to hook them can be this right so you send them a draft this might be somebody
+31:3031 minutes, 30 secondswho's in your related work section you say I've doing you know I studied your very interesting paper about X and I found it very inspiring it's better if this is true right I found it very
+31:3931 minutes, 39 secondsinspiring and I've WR and I've developed you know the the following idea in some way and uh here's a draft of my paper I wondered if you might be interested and
+31:4631 minutes, 46 secondsparticularly you know I've tried to do a fair job of explaining your work in the related work section and um if you care to look at it i' would love to hear from
+31:5431 minutes, 54 secondsyou something like that right and then if I receive an email like that I think oh hi they've cited my work cool so I look at
+32:0132 minutes, 1 secondthe related work section then before I know it I'm sort of back in the details and then I think I better send them send them some response right so it's um so
+32:0932 minutes, 9 secondseven um uh it can be a way to get some feedback even from the very people who might end up as your reviewers don't
+32:1632 minutes, 16 secondsoverdo this right if you Deluge people in um who you don't know in uh in in draft of your paper they'll they'll just
+32:2432 minutes, 24 secondsget fed up and they'll treat you as a parasite uh so but judiciously and in extreme moderation you know just maybe
+32:3232 minutes, 32 secondsagain talk to your adviser it's a very reasonable thing to do I think and furthermore if they're going to shoot down your paper and say it's complete
+32:4132 minutes, 41 secondsjunk right it's much better to have them do it before they are your reviewer which they probably will be better hear it now than later last thing about
+32:4932 minutes, 49 secondsgetting feedback um you got to treat every review and bit of feedback from your friends so from your friends it's easier when you get the review from your
+32:5832 minutes, 58 secondssubmission from the journal or from the conference that says your paper is rejected and by the way here are some reviews you will be bleeding because
+33:0633 minutes, 6 secondsyour paper has been cast in the dust right puked upon by these ignorant reviewers and you read the reviews and you think they're just stupid they have
+33:1533 minutes, 15 secondsno idea right they just missed the point very occasionally you'll be absolutely right much more frequently
+33:2333 minutes, 23 secondsit's more constructive to think how could I rewrite that section so that not even the stupidest reviewer could have
+33:3133 minutes, 31 secondsmisunderstood it in that way right that's a more constructive response also be in mind the fact that your reviewers have devoted have given to you a gift
+33:4033 minutes, 40 secondsthat is more precious than gold namely their time they every person has a fixed amount of time in their lives and they have given you one hour of their time
+33:5033 minutes, 50 secondsthey cannot have any way of recovering that hour they have given it as a gift to you so don't treat it lightly right
+33:5833 minutes, 58 secondsbe grateful to them thank them in your um you know in your comments and try to take account of what they said you have to leave it a few days bleed for a few days and then go back to those reviews
+34:0734 minutes, 7 secondsand see what you can do great thanks for being such a good audience

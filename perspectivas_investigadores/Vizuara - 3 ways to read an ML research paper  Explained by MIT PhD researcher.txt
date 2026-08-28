@@ -1,0 +1,818 @@
+0:00
+[Music]
+0:05
+hello everyone my name is Dr Raj dander I graduated with a PhD in machine
+0:11
+learning from MIT in 2022 and since then I am on Omission to
+0:16
+make artificial intelligence accessible to all one common question which I
+0:21
+received from so many students during YouTube interactions and during the live
+0:27
+classes which I teach is that what's the best way to read a research
+0:33
+paper there are new papers in machine learning and AI which are being released almost every
+0:39
+day and uh students researchers industry professionals find it difficult to keep
+0:46
+up with the pace of so many papers being coming out so I thought that why don't I make a
+0:52
+video to explain how I read a research paper and now with artificial
+0:58
+intelligence tools the process of reading and understanding a research paper can become much faster
+1:05
+if you implement the right techniques so in this video I'm going to show you three techniques which you can use to
+1:13
+read a research paper and then all of us will take an oath together that we'll
+1:19
+read at least one research paper every week so let's get started with this
+1:25
+video all right so I'll make this video as if I have discovered a new paper and
+1:32
+then I'll show you exactly how I Implement my research paper reading
+1:37
+process so that you can follow the same process as you read research papers as I mentioned I'm going to
+1:44
+explain three techniques to you and the paper which I've have selected is let's say I come across this paper on my
+1:51
+LinkedIn feed or someone shares this paper with me that this is a cool new
+1:57
+paper and then immediately what I is I first skim through the paper very
+2:02
+quickly just to see the length of the paper the figures the tables Etc without going into anything in depth so that's
+2:10
+the first thing which I do I just go through the paper quickly and then what I do is I usually decide which of these
+2:16
+three techniques what I want to implement so the three techniques which
+2:21
+I'm going to teach you today are first is the bird's eye mode of reading a machine learning paper the second is the
+2:28
+podcast mode and the third is the in-depth mode and I choose the mode based on how
+2:38
+deep I want to go into reading the paper so if I just want to have a quick read
+2:43
+of the paper and just summarize in my mind or if I just want to let's say add
+2:49
+a quick citation to a research paper which I have already written I'll probably implement the bird's eye mode
+2:56
+if I want to go into a bit more depth and if I I want to explain this paper to
+3:01
+my colleague or if I want to discuss this paper with my friends I'll probably
+3:07
+go ahead with the podcast mode on the other hand if I'm teaching a class and if I want to conduct an entire
+3:15
+podcast or an entire webinar or teach a live class on the research paper topic I'll go with the in-depth
+3:21
+mode I also usually go with in-depth modes on papers which have become very popular such as the Deep seek paper Etc
+3:30
+so let's get started with the first mode now which is the bird eye mode as the name itself suggests bird eye mode is
+3:36
+essentially zooming out and understanding the key aspects of the paper so that it forms a story in your
+3:42
+mind that's it this is the simplest way of reading a paper and it's also quite effective because you get the gist of
+3:50
+the paper and what's going on and let me show you how I will read this paper in a bird eye mode in a bird's eye mode the
+3:58
+key thing is that you have to go through the following things in the paper first you have to go through the
+4:05
+abstract then you have to go through the figures and
+4:12
+tables then you have to go through the conclusion and finally you have to write
+4:19
+a five to seven sentence summary on your own without using chat
+4:24
+GPT or any other AI tool these are the four steps which we need to follow if
+4:29
+you want to read a paper in a bird's eye Mo so let me show you how I will follow
+4:35
+these steps so first step is reading the abstract right so what I do is I read
+4:40
+the abstract as llms become increasingly proficient in producing human like
+4:46
+responses there has been a rise of academic and Industrial Pursuits dedicated to flagging a given piece of
+4:52
+text as human or AI most of these Pursuits involve modern NLP detectors
+4:58
+without paying too much attention to the issues of interpretability and explainability in our study we provide a
+5:05
+comprehensive analysis that shows that traditional ml models perform as well as modern ml NLP detectors in human versus
+5:13
+AI text detection subsequently by employing the explainable AI Technique we uncover
+5:19
+parts of the input that contribute most to the model's prediction our study contributes to the
+5:26
+growing need for developing production level llm detection tools finally the
+5:31
+lime techniques we demonstrate also have the potential to equip these detection tools with interpretability
+5:37
+analysis I read this abstract and probably I'll read it once more and immediately I understand some key things
+5:44
+which is which are happening in this paper right the first thing which I understand is this paper essentially
+5:50
+looks at text and it classifies the text as to whether it's written by humans or
+5:55
+whether it's written by AI That's the first level of pattern which forms in my my mind the second level of pattern is
+6:02
+that this study Compares modern NLP techniques as well as traditional NLP
+6:08
+techniques and they claim that traditional NLP techniques can also be
+6:14
+effectively used for detecting text as whether it's human generated or AI
+6:19
+generated and the third thing which I have understand from the abstract or the third pattern which is formed in my mind
+6:26
+is that they also conduct an interpretability analysis is which they are calling something
+6:32
+called as lime interpretability analysis which they are calling as
+6:38
+lime these are the three things which they are doing and their main contribution seems to be from the fact
+6:43
+that many current papers only focus on Modern n NLP methods but they are
+6:48
+showing that even traditional NLP or ml methods can do very well in this classification task and the second major
+6:56
+contribution seems to be interpretability so when I read this abstract I understand the basics of what
+7:02
+they are going to do in the paper and I want to read on further because especially I'm interested in these two
+7:08
+parts how well do traditional ml methods do compared to Modern ml methods in this
+7:13
+detection and I'm especially Keen to see the interpretability because I hate to see ml as a blackbox so whenever authors
+7:21
+do an interpretability analysis I'm usually very excited to see what they have done so that's the
+7:27
+first first point point which is the abstract the second point is essentially going through the figures and the tables
+7:34
+so what I'll do I scroll down below I'll directly go to the tables so here we'll see the first table
+7:42
+is hyperparameters for all the traditional ml models so here immediately I see that the traditional
+7:47
+ml models which they use are naive Bas logistic regression random Forest XG
+7:53
+boost multi-layer perceptron and lsdm that's the traditional ml models which they use and the hyper parameters seem
+8:00
+to be Epoch batch size learning rate weight DEC Optimizer loss function
+8:08
+scheduler so okay and then I figure out that these this is the table for the
+8:14
+traditional ml methods and here's a table for the modern NLP methods which
+8:20
+are Roberta Sentinel and T5 Sentinel and here the hyper parameters which they're
+8:26
+using are Epoch batch size learning rate weight decay Optimizer loss function and
+8:31
+scheduler right so I understand that these two tables give me the list of
+8:37
+modern methods traditional methods and the list of hyper parameters I scroll
+8:43
+down further below and then I go to the result section so here I can see some Roc
+8:50
+curves the D curves but I will scroll down below and uh here I see the
+8:55
+classification metrics so I immediately know that these are the metrics which they have used to detect how well the
+9:02
+model is classifying whether the text is human written or AI written and as I
+9:07
+scroll down below I'm presented with this table and I immediately know that this is one of the most important pieces
+9:14
+of the paper because here it says evaluation results on the text data set and here they have presented the
+9:20
+accuracy F1 score false positive rate false negative rate true negative rate
+9:25
+and true positive rate now I am aware of these terms before forand but if you are not aware of these terms you can
+9:32
+immediately uh ask chat GPT or search on Google so that you can understand these results
+9:38
+table so I can immediately see here that the Roberta and the T5 methods they have very good accuracy but even lstm and MLP
+9:46
+they have good accuracy and especially I pay attention to the true positive rate and true negative rate because these
+9:53
+values usually need to be high in classification tasks and I can see that
+9:58
+these last three models have a very high true positive ratio and true negative ratio so they seem to be working the
+10:05
+best even XG boost actually has a very high accuracy and it also has a very
+10:10
+high true negative rate and true positive rate so I form these conclusions in my mind and then I scroll
+10:16
+down below and I see this table see this figure so here actually they have converted whatever they have shown in
+10:22
+this table into a figure format right and here I can see that the green
+10:28
+represents the true positive postive rate and true negative rate so light green represents true negative rate and
+10:33
+light dark green represents true positive rate whereas light red represents false negative rate and dark
+10:40
+red represents false positive rate so if a model is performing well the things in
+10:45
+the green should be much higher than the things in the red so from this figure we can immediately see that knife Bas uh
+10:53
+logistic regression random Forest do not perform that well whereas XG boost has very low red colors and Roberta Sentinel
+11:00
+T5 Sentinel and lsdm also have very low red so they are the best performing models and then I also read the caption
+11:08
+the caption mentions that the Stacked bar graph compares the performance of eight models the T5 Sentinal model shows
+11:16
+the highest Effectiveness with a996 probability of true positive rate and 96
+11:22
+for true negative rate Roberta Sentinel follows closely
+11:28
+oops uh um let me go down to that figure
+11:34
+again yeah Roberta Sentinel follows closely so your true positive rate and
+11:39
+true negative rate is mentioned and then they say random for a struggles so logistic regression and lstm perform
+11:46
+consistently so until this point in the bird eye method I have an understanding of the fact that they have compared
+11:53
+model modern methods and traditional methods and in that comparison I have seen that the mod methods like Rober and
+12:00
+T5 perform well but traditional methods like XG boost and lstm are also not far
+12:07
+behind all of this I've understood just from reading the figures and the captions which are present in the figure
+12:13
+see in the birds eye mod I I'm not reading the entire paper at all because this is the mode in which it's a quick
+12:20
+read but still uh I need to digest it enough so that I understand their
+12:26
+results then I scroll down below and then I see that they have also tested the model on custom data set and here
+12:33
+also I directly look at the red red color here and I can see that MLP uh
+12:38
+Roberta Sentinel and T5 Sentinel perform the best then I scroll down below and uh
+12:44
+then I see that they have the last section on lme which is the interpretability analysis this is the
+12:50
+part which is very interesting to me so I directly jump down to their figures and uh so here I can see that this is
+12:58
+the sample generated by GPT 4 and they'll probably use this to um for interpretability
+13:06
+analysis so okay let's scroll down below to see what they have yeah so here the
+13:12
+data set which was shown over here right now is uh is fed to an MLP model and we
+13:20
+can see that this is generated by AI clearly and here it's written that the
+13:25
+lime plot illustrates the significance of various features in classifying the sample as AI we can observe from figure
+13:32
+six that the sample text is predict predicted as AI generated with probability of one so that's good and
+13:39
+the key thing is that The Words which contributed the most to making this prediction are significant and leading
+13:46
+these are the top two contributing features for the prediction and here you can see that
+13:51
+that's why significant and leading are marked with the darkest colors so again this is quite cool they seem to have
+13:57
+performed an interpretive analysis and uh they have checked or
+14:03
+looked at those words which contribute the most to flagging this text as Ai and here they have implemented
+14:11
+multi-layer perceptron but on this same U figure they have also seem to have
+14:16
+implemented T5 Sentinel and here they say that the top two contributing features are
+14:21
+history and uh was so was and history seem to be the
+14:27
+top two contributing features for classifying this text as AI great and then that the last thing is
+14:35
+they also do this for the lstm model and here again significant seems to be the top most contributing feature for AI who
+14:42
+knows why significant is the top most contributing feature for classifying it as AI generated but that's the
+14:47
+conclusion which seems to have come out so here you can see I've gone through all the figures I've gone through the
+14:53
+tables and I understood the I understood the results which they have in terms of comparing the traditional versus the
+15:00
+modern Frameworks and I've also understood the results in terms of interpretability analysis which they
+15:05
+have done for different models so that's how the second part is done now which is essentially figures
+15:11
+and tables third part is I go through the conclusion right so here what I do
+15:17
+is I go to the conclusion section and then I read this study explor the effectiveness of both traditional as
+15:24
+well as advanced deep learning models notably while deep learning models like T5 and Berta which we also called modern
+15:30
+models have a very high accuracy traditional models like XG boost and random Forest also perform commendably
+15:37
+XG boost achieved an impressive accuracy of 0.91 on a custom data set MLP
+15:43
+maintained a strong performance uh while Advanced models like Roberta also excelled with 092
+15:49
+accuracy so in the first two paragraph they have seemed to strengthen their claim that modern methods and
+15:55
+traditional methods both perform equally and there is no not really any special reason to only use modern methods like
+16:02
+Roberta and T5 uh then they talk about lime which is
+16:08
+the interpretable model agnostic explanations and here they have said that this approach allowed us to uncover
+16:14
+the key features driving the model's decision in distinguishing a generated text from Human return content while our
+16:21
+results are promising there are limitations so they mentioned the limitation as the size and scope of the data set used a larger and more diverse
+16:30
+data set could further validate the findings Additionally the study predominantly focused on chat GPT
+16:35
+generated text which limits the applicability to other llms future research will address these limitations
+16:42
+by expanding the data set to include a wider variety of text sources in summary our study highlights
+16:49
+the continued importance of traditional machine learning models in the rapidly evolving field of text classification
+16:56
+and here they have also provided their GitHub repository which can go ahead and check so that's the third part which is
+17:03
+concluded I can clearly see their conclusion first is related to comparing traditional versus modern methods and
+17:10
+then how their Li interpretability analysis uh makes their paper different from others so when I've gone through
+17:17
+Parts number one two and three I've essentially understood an overall overall vision of the paper and what
+17:25
+their results essentially are trying to say and remember that if I'm reading a paper in bird's eye bird's eye mode I
+17:32
+usually read it in 20 to 25 minutes it's as fast as that if the paper is
+17:37
+challenging or if the paper is a bit more complex it might take 40 to 45 minutes because if I don't know some
+17:43
+terminologies I need to Google them but I don't ever do a bird's eye reading
+17:50
+without writing a five to seven sentence summary so this is extremely important I usually maintain an Excel sheet such as
+17:56
+this where you can actually mention the the paper title so what I do is I
+18:03
+uh I then copy the paper title from here I paste the paper title over here and
+18:10
+then what I do is I usually add the authors the journal the year publish the
+18:16
+link Etc all these are quite easy to add but then the most important thing which I do is I add the summary so I add five
+18:23
+to six sentences here which I write on my own that's the most important if you just use that GPT to summarize your
+18:31
+understanding won't be tested so here I will write that the
+18:36
+paper Compares traditional ml
+18:42
+methods like XG boost then
+18:48
+U MLP random
+18:54
+forest with Advanced n NP
+19:00
+techniques with Advanced NLP techniques like
+19:08
+um Roberta and T
+19:14
+Sentinel for classifying a text as human versus AI
+19:21
+That's my first point in my summary then I write the second point that
+19:26
+traditional methods
+19:32
+traditional methods like XG
+19:39
+boost also perform reasonably
+19:46
+well then I write that interpretability
+19:53
+analysis interpretability analysis Li is
+20:01
+performed so usually I write six to seven sentences but here I'm just showing this to you for a sake of
+20:07
+demonstration I usually write this summary and then I color code it with a green color or some color so usually I
+20:14
+have a seat which is maintained like this which has a list of all the papers which I have read and there five to
+20:19
+seven sentence summary especially if I'm reading the paper in a bir Z mode so if
+20:25
+you don't have enough time during the day you can still allocate 25 to 30
+20:30
+minutes for reading a paper in a bird's eye mode where you can go through all these four steps and you can maintain a
+20:37
+five to seven sentence summary of what you have understood please make sure that when you write the summary you
+20:43
+don't just ask chat GPT for the summary and you're writing it yourself that will really test your
+20:49
+understanding uh so there is really no excuse for not reading a paper because if you follow the bird's ey mode it just
+20:56
+takes 25 to 35 minutes of your entire day right but that will keep you up to
+21:01
+date with the modern progress which is happening and in case you if you don't understand some terminologies don't
+21:07
+leave the paper just try to Google it ask chat GPT and if you still don't understand still finish finish going
+21:15
+through all these four steps and make a summary of uh what you have read and
+21:21
+just mention terms not understood that's good that is still a
+21:27
+job well done and that is still that still counts as the fact that you have read a
+21:33
+paper all right so that's the first method which I use if I want a quick
+21:39
+summary of the paper but still um I want to retain elements or patterns in my
+21:45
+mind of what this paper has actually done that's the bird's eye mode the second mode is the podcast mode
+21:53
+and this mode would not have existed if not for one AI tool and that AI tool is
+21:58
+called as notebook LM notebook LM is an incredible AI tool which is powered by Google and what they actually do is that
+22:06
+you can go to notebook lm.com Google you can click on try notebook LM here what
+22:12
+you can do go to create new and then here you can choose the file to upload
+22:18
+so you can go ahead and directly upload the um downloaded file of this
+22:25
+paper once you go ahead and upload this file or the PDF of the paper um let's
+22:32
+see what's going on here error uploading source so let me try uploading once
+22:37
+more um remove source so let's
+22:43
+see okay so here you can see that uh I have uploaded the source document over
+22:49
+here and what you get is that you get an interface like this where you can of course interact with this Source like
+22:56
+what is the Key summary of this document and you can press enter and
+23:03
+then you'll get a summary of essentially what's going on in the paper but you may
+23:08
+think okay this happens in chat GPT also right what's so cool about this the cool thing about notebook LM is that you can
+23:15
+generate a podcast over here so there is a button here called generate podcast and if you click on this you can see
+23:21
+that a 17 minute podcast has been generated for me right now in this 17 Minute Podcast you can
+23:28
+listen to this podcast and completely understand what is being mentioned in the paper this is an amazing podcast and
+23:35
+it's between two people so it's as if two people are discussing with each other about the paper uh I'm sure you
+23:42
+will not be able to hear this when I play it
+23:47
+but so here the podcast is the one person is
+23:52
+saying in the podcast like have you ever stopped and thought how to distinguish between whether text is real or or not
+23:59
+then the other person would say that's a very interesting question so how do we
+24:04
+actually figure out whether a given piece of text is real or not and then these two people go on discussing this
+24:09
+entire paper for 17 minutes and they go through every single thing in the paper in a lot of detail so it's as if some
+24:16
+teacher is explaining to you a summary of this paper this tool did not exist one or two years back but now with this
+24:24
+tool you essentially have a mentor who has knowledge about the paper and who is explaining that knowledge to you in 18
+24:30
+minutes and this conversation type of structure is again very cool because it
+24:35
+it feels very immersive and the technical depth is also very very good
+24:42
+so if you are let's say going on an exercise right uh and if you want to somehow integrate research paper reading
+24:49
+into your routine just download this podcast so you can download this podcast as an MP3 file and you can play it on
+24:55
+your earphones when you are exercising that way you can easily integrate research paper reading in your schedule
+25:01
+and I think podcast this second this second version this podcast mode is a
+25:07
+bit more deeper than bird eye mode because in a podcast mode you will go into lot of details regarding how the
+25:12
+data set was processed what what were the results what were the limitations so it's a lot more it's a condensed 17
+25:20
+minute version but it's more detailed than the bird ey mode remember that once
+25:25
+you finish listening to the podcast you again have to go to the paper summary and you have to maintain a five to seven
+25:31
+sentence summary of what you have listened to that is not that is extremely important unless you write
+25:37
+down things yourself um you will not actually understand or you will not actually test
+25:43
+your understanding regarding the paper so you might listen to this podcast and you might think that okay I've
+25:49
+understood it it's quite simple but the only way to test your understanding is when you go back home sit on your laptop
+25:56
+and write the summary of what you have just listened to they also have an interactive mode
+26:01
+where you can actually join the discussion and then you can say that but what if um but what if the text was
+26:09
+generated in this manner or what if traditional ml methods don't work very well and then the people the hosts which
+26:15
+are conducting the podcast they actually change their answers in real time it's incredible right it's essentially
+26:22
+exactly like interacting with a teacher or a tutor regarding the paper so I think that all of you can make maximum
+26:28
+use of this tool for reading research papers this tool did not exist two years back so people thought that reading
+26:34
+papers is very hard and they might not be able to do it very well but that's not the case right now
+26:41
+all of you have a mentor in all in your houses for free who has knowledge of all
+26:47
+the papers in the world you can just upload the PDF to the mentor and the mentor will generate a podcast and the
+26:53
+mentor will teach you then through the podcast that's incredible right and you get this for free there is no payment to
+26:58
+access this tool but not many people not many researchers not many students seem
+27:04
+to use it so instead of just complaining that research papers are hard to read and I don't get time you can manage time
+27:12
+so as I mentioned the birds ey mode takes 20 to 25 minutes the podcast mode doesn't even need you to be present in
+27:19
+front of a laptop you just need to download the podcast maybe early in the morning and then play it whenever you
+27:24
+have free time but just remember that when you go through the first method Bird's eyee mode and the podcast mode
+27:31
+you have to maintain a paper summary you have to maintain a summary of
+27:36
+essentially uh five to seven sentences that's very important to test your
+27:43
+understanding and now the third type of mode which is in-depth mode is what I usually reserve for papers which I want
+27:49
+to teach to a live class or papers which have become very famous like the Deep seek architecture here I actually spent
+27:56
+3 to four hours or even more to read to read through a paper so what I do in this in-depth mode
+28:03
+is that I am sitting with a notepad like this whiteboard right now and as I'm
+28:09
+reading through the paper I'm making notes so here um as I'm going through the abstract I'm making notes
+28:16
+that uh llms are becoming increasingly popular so that's the first thing right
+28:22
+llms are becoming increasingly popular llm are becoming popular and
+28:29
+then what so here it's saying that they produce increasingly humanik responses
+28:35
+and being applied in all types of fields like education journalism cyber security
+28:41
+politics Etc then I usually write this that human humanik
+28:49
+responses and then I experiment with different inks so that it's um it's also
+28:56
+fun so the different fields are education um education cyber
+29:04
+security politics Etc so let's say this is the first point
+29:09
+which I write I usually write in a lot more detail than this but here I'm just showing for illustrative purposes then I
+29:15
+go down below and then I try to think about or then I try to write about the methodology so
+29:23
+here I would make this section called methodology and then I make the first
+29:28
+section here which is the data set generation data generation and here I
+29:35
+first read what they have exactly written so here it says that they are using two data sets the AI generated and
+29:41
+the human generated so there are two types of data set the AI generated and
+29:47
+the human generated data set and then I will see how this data set is constructed so to get the a generated
+29:54
+data set they use the open GPT Text data set so they use the open
+30:02
+GPT open GPT Text data set then I will go to understand what this open GPT Text
+30:08
+data set is curated by 35 so I look at citation number 35 over here let's see
+30:15
+so citation number 35 is this uh and then I'll search this right so then I'll
+30:21
+say open GPT Text data set so then I can see that they have this repository and
+30:27
+this seems to be the data set I also check the number of uh forks and stars on this repo I check the data set here
+30:35
+and here I can see that the open GPT text is there so I can usually open it and I can see what the data set is so
+30:43
+here you can see that I go in a lot of depth in every single sentence so after reading this part
+30:49
+which is related to the data set and the types of data itself then what I'll do is
+30:55
+that um I see where the human generated text is coming from and that's coming
+31:00
+from open web text open web text so then I'll go ahead and search
+31:08
+about open web text sorry open web text and
+31:14
+um I see that open web text is this huge Corpus where we can download data sets
+31:19
+from and which consists of reddit reddit submissions
+31:25
+Etc so then I read about this I understand this a lot better then I move to the next part which is essentially
+31:31
+data pre-processing so first part is done which is data generation then I move to the next part which is
+31:37
+essentially data pre-processing and then what I'll do is
+31:43
+that I'll read what has been mentioned here so they have 80% training data 20% testing data so remember all of these
+31:50
+things were completely missed during the bird's eye mode and maybe during the podcast mode also but this is the most
+31:57
+in in-depth mode of reading and here I'm trying to demonstrate that you should always make notes if you are trying to
+32:03
+read a paper in depth for 3 to 4 hours or if the paper is very important for you without making notes you'll never
+32:11
+understand a paper in depth so that's the second thing which is data pre-processing and the methodology then
+32:17
+the third part which I go to is with respect to the modeling
+32:22
+itself and then I try to read what they have mentioned in the modeling the different types of ml models which they
+32:28
+have used sometimes I may just take a uh copy I may take a copy here and then I
+32:34
+may paste it over here so I make this thing over here and
+32:40
+I use the different font I like this Virgil font over here oops I'll reduce the size a bit so I make this note that
+32:47
+these are the models which they have used then I will make a note of the hyper parameters which they have
+32:53
+used so then I'll make a note of the uh hyper parameter which they have used
+32:59
+I'll also maybe um take a screenshot of this table and check my understanding of
+33:05
+all of these hyper parameters so I'll take a screenshot over here I'll put this screenshot over here and then I'll
+33:12
+actually try to read what what each of this is actually saying so for example what does it mean
+33:18
+by uh boosting iterations uh what does it mean by GB
+33:23
+tree I'll search about all of these things what is meant by log loss what is meant by lbfgs so let me search lbfgs
+33:30
+logistic regression lbf lbfgs
+33:38
+logistic regression right so then I'll search about this and then I'll see what
+33:43
+essentially lbfgs is in logistic regression I'll probably understand more about this
+33:49
+algorithm um so this is how I'll do a deep dive into things which I don't
+33:55
+understand so I'll maintain this table like this and and then I'll move to the next part so after I understand about
+34:02
+the hyper parameters I'll move to the results part so here I'm just showing a
+34:08
+demonstration here but usually the modeling part is pretty big right so I'll make a big note of what all
+34:13
+different models have been used the hyper parameters Etc but I'm just trying to show you the level of depth which I
+34:19
+usually go here then I go through the result section in the result section what I'll
+34:26
+usually do is that I'll understand these curves I'll make a screenshot of this
+34:32
+um I'll make a screenshot of this I'll bring them I'll bring it into the document and then I'll try to very
+34:39
+closely inspect what everything means so I can see that the purple line is for
+34:44
+MLP so I can see that the purple line is for MLP whereas knife base this is not
+34:50
+very good that's knife base um again I'll check the d curve and I'll see that this is for knif base so
+34:58
+I'll analyze these curves much more closely than we did in the bird's eye mode or when we did in the podcast mode
+35:04
+so similarly I scroll down below and I'll pay a lot of attention on this table so I'll take this table and bring
+35:10
+it over here and then I'll try to actually visually inspect okay why are
+35:15
+the results like this then I'll try to think that why is knife base so low in
+35:21
+accuracy what might be the reason for it then I try to think fundamentally I may even take help of gp4
+35:28
+for understanding this uh finally when I inspected all the results and I've made a note of all
+35:34
+these results then I go to the lime part which is the last part um so then I go
+35:41
+to the line part and remember that all throughout this process there are several places which I may encounter which I do not understand at this moment
+35:48
+I make maximum use of GPT uh GPT 40 and sometimes I also use cloud for coding
+35:56
+related coding related sections which I not understood if the research paper involves a lot of mathematics and
+36:02
+calculations I usually go through them if they are they look straightforward and not very hard but if they look very
+36:09
+complex I usually skip the mathematics part and I read the other other parts and try to make notes on the other parts
+36:16
+so then I uh make notes on the line first of all I'll if I don't know the lime technique I'll try to search about
+36:23
+it lime interpretability and then I see that there's a huge number of material on
+36:31
+this so usually I'll probably search for good explanation so I'll look for posts
+36:39
+which uh which talk about lime and uh so for example this seems to be a good post
+36:44
+which talks about lime so I'll read about it I'll probably go through a video if it has been attached over here
+36:50
+Etc so this looks like a very detailed post with also video so I'll click on this video and probably read about it
+36:56
+understand it more so in in-depth mode I try to understand all the things which have been presented in the paper in a
+37:02
+lot of detail because only then I'm confident that I've truly understood the paper so for example when the Deep
+37:11
+seek when the Deep seek we3 paper was released right this technical report it's a brilliantly written report I went
+37:18
+through this 53 Pages for many days I made notes um that's the reason for the
+37:24
+Bild deep seek from scratch series which I have without making these type of notes and without actually understanding
+37:30
+what is written on every single page it's very difficult to make a YouTube series or to teach someone so for that
+37:36
+you definitely have to read a paper in depth that's it so that's the line part
+37:42
+and then I will make a note on the conclusions part so this is the results part and then I will make a note on the
+37:48
+conclusions part so I usually make a note on the conclusions in four or five
+37:53
+different points here I don't include when I am in in-depth mode I don't maintain an Excel sheet because these
+37:59
+notes which I'm which I'm maintaining that itself are much more comprehensive than maintaining a five to seven
+38:05
+sentence summary in the Excel sheet but when I spend 3 to four hours reading a paper I usually feel very satisfied
+38:11
+because I am going through a lot of details as I mentioned over here so it also strengthens my
+38:17
+understanding so just to summarize there are three modes of reading a research paper which I Implement Birds Eye mode
+38:23
+for a quick review if I want to understand a paper quickly or if I want to include a quick citation in a
+38:29
+research paper second is the podcast mode where where you have to dive a bit deeper where you get the podcast between
+38:36
+the two guests you download that podcast and you can even listen to it later during the day even if you don't have a
+38:42
+laptop in front of you the bird's eye mode and the podcast mode are very highly suited for all of you to read a
+38:48
+research paper one or two research papers every week without fail uh the third mode which is the
+38:55
+in-depth mode takes a lot of time and commitment and usually you have to overcome that mental block of not
+39:00
+understanding things uh but the in-depth mode is truly satisfying if you sit through for 3 to 4 hours if you make all
+39:07
+the notes just like how I'm showing right now and if you don't understand things you seek out the information from
+39:13
+somewhere if you don't understand understand things you go to LinkedIn try to find out if anyone has made a post
+39:19
+about it or if you go to YouTube try to read through or try to watch a video or go through go to chat GPT to ask a doubt
+39:28
+one thing which is very important in all of these three is that you need to have patience for reading a research paper
+39:34
+you definitely need to have patience because if you don't have patience then whenever things get hard or whenever you
+39:41
+encounter a concept which you don't know you will leave the paper that's the worst thing to do if you don't
+39:48
+understand something never ever leave it just move forward don't stop and just let go and think that this is so boring
+39:55
+just move forward just maintain there is an end goal for every each of these
+40:00
+three methods right for the first two methods the end goal is maintaining a five five to seven sentence summary so
+40:06
+no matter how bored you get or how much you don't understand make it a point that you write this summary and if you
+40:12
+are in indepth mode there will be many places where you feel that this is so hard and I don't want to make notes but
+40:19
+that is where you push through um that is where you show persistence and then you finish making the notes regardless
+40:25
+of what you're feeling one thing which I want all of us to do right now is let us take an oath which
+40:33
+is the research oath and the research o is something like no matter what happens you will read one research paper every
+40:40
+week no matter what happens I will read one research paper every
+40:45
+week and uh you can read it in any of the three modes you can read it in bird's eye mode
+40:52
+podcast mode or in-depth mode that does not matter the what matters is that you get into a habit you get into a habit of
+40:59
+reading research papers this habit will be extremely crucial for you no matter what you're are doing whether you
+41:05
+student whether you are a researcher whether you are a working professional this habit of reading a research paper
+41:10
+every week is extremely important for job transitions uh if you want to apply
+41:16
+to grad school it's probably the most important habit you will ever develop so please make sure to read one research
+41:23
+paper every week maintain the summary if you are doing bird ey mode or the podcast mode at least once in two weeks
+41:31
+or once in 3 weeks there should be one paper which you read in in-depth mode because that is truly
+41:36
+satisfying now comes the question of how to find the paper itself to read right so if you are active on LinkedIn you
+41:43
+will see if some paper has become very popular so you should read that if you are not active on LinkedIn then there is
+41:49
+the website called papers with code you can go to this website it's
+41:54
+papers with code.com and you here you can check the trending research like
+41:59
+this this paper seems to be trending right now right so just download this paper and just start reading this paper
+42:06
+this week so the oath which we have taken you can start with this paper
+42:11
+because it seems to be trending here so that might be a very good paper um other
+42:17
+papers which are trending you can take a look at this paper or there might be
+42:23
+some things which are just techniques I'm not sure if they're papers I think this this is a yeah all of these are
+42:28
+papers so you can click on this um read this paper whichever ones are the ones
+42:33
+which you find interesting just download it and make the commitment that I will read this this week no matter what
+42:39
+happens with whichever technique you want to implement bir ey mode podcast mode or
+42:45
+in-depth mode I hope this video really helps everyone who is planning to get into ml or AI research let this
+42:54
+thing of let research not be an obstacle for you us you can start with the simple
+43:00
+technique which is a bird eye or a podcast mode for the first one month you can only try these two techniques after
+43:05
+that once you get comfortable with reading papers then you can go to the in-depth mode so thanks everyone I hope
+43:12
+this helps you and let's all read at least one research paper every week thank you

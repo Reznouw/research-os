@@ -1,0 +1,308 @@
+Chapter 1: Course Overview
+0:000 secondsThis is a full course on writing your own AI research paper and publishing it.
+0:055 secondsAfter watching this, you will understand everything from coding, researching, building, training, and then writing the
+0:1212 secondspaper. This is my paper analysis and design of novel optimizers for neural networks. Currently, I'm writing this
+0:2020 secondspaper at my university with my professor, and I'm going to explain step by step what I'm doing and what you need to do. You can just take all of my code.
+0:3030 secondsI've written this large language model from scratch. I've trained it and it works and you can take it and there is infinite possible things you can just do
+0:3939 secondsin this already working code and research and write your own research paper or write your own code and research paper from scratch. So you will
+0:4747 secondsunderstand all of that after watching this course. I've done more than 40 experiments, 40 ablations for this paper
+0:5454 secondsand I'm going to explain step by step how I did it and how you can use my code and write uh your paper from scratch.
+1:021 minute, 2 secondsI'm also explaining all of this in my school. So let's begin. You don't need compute. If you don't have compute, it
+Chapter 2: No Compute Needed
+1:101 minute, 10 secondsdoesn't matter. Here we have high school students who are writing AI papers, inventing optimizers. They don't even
+1:171 minute, 17 secondshave good compute at all. This guy trained invented the new optimizer on just CPU on his laptop. He didn't even
+1:251 minute, 25 secondshave GPU. He's a high school student. It was the funniest thing ever when he told me he trained it on CPU. And I told him
+1:321 minute, 32 secondsthen you can just use free Google Collab GPU. Trains a lot faster, 100 times faster, thousand times faster than CPU.
+1:401 minute, 40 secondsAnd then he invented another optimizer.
+1:431 minute, 43 secondsHigh school student with no compute. So, don't let these companies scare you away trying to persuade you that you need compute thousands, tens of thousands, millions of dollars. You don't need it.
+1:531 minute, 53 secondsI don't understand why they why they're trying to persuade people and scare people away from doing AI research. You can check this GitHub file if you want for this optimizer I'm talking about.
+Chapter 3: Writing With Overleaf
+2:052 minutes, 5 secondsFor writing paper, we usually use Overleaf overleaf.com.
+2:102 minutes, 10 secondsSo, you have latex code here and then it compiles into a paper. You can put your name uh labs or university or whatever.
+2:182 minutes, 18 secondsSo this is what the paper looks like.
+Chapter 4: AI Generated Text
+2:222 minutes, 22 secondsFirst of all, you don't want any AI generated text at the end of when you publish your paper. Now in the beginning, right now when I'm trying to
+2:302 minutes, 30 secondsmake sense of everything, when I'm trying to plan, I can have a bunch of AI generated text, but later I'm going to rewrite and cut out a lot of these
+2:382 minutes, 38 secondsthings. So everything is uh handwritten by me and it will be a lot higher quality than just AI generated text. Now AIs are good for planning, making sense,
+2:472 minutes, 47 secondsanalyzing, etc. Speeding things up. Also number of pages doesn't matter the quality of the paper. So I'm writing a
+2:552 minutes, 55 secondsthesis. This is my thesis. So it's going to be like 40 pages. But you you can just make four pages, five pages AI paper. And the quality is important.
+3:043 minutes, 4 secondsDeepseek papers. I saw one deepseek paper that has like just four or five pages, but it's very good. Maybe it's even better if you can communicate and explain your idea as simply as possible.
+3:163 minutes, 16 secondsAnd by the way, this is the paper of the high school students I was talking about. So, middle school right here, you can check it. So, this is my large
+3:263 minutes, 26 secondslanguage model, Blueberry LLM. This is I coded most of this. I have a few contributors to for fixing some bugs and stuff, but I'm going to be explaining
+3:343 minutes, 34 secondsthis uh in this video. I coded a bunch of experiments here, but for my research, I'm just focused on this uh
+3:423 minutes, 42 secondsnumber nine. So, muon versus Adam. And here I have so many ablations and experiments.
+3:493 minutes, 49 secondsSo, AI cloud set 4.5 can help you design all of these ablations and experiments.
+Chapter 5: Designing AI Experiments
+3:563 minutes, 56 secondsSo it's important when you are comparing optimizers to find optimal hyperparameters for both of them. So for
+4:044 minutes, 4 secondsboth Adam and Muon. So I was doing hyperparameter search here for both of the optimizers
+4:104 minutes, 10 secondsand then I take the results of the best setup for both and then I compare. But it's extremely important to optimize both of them if you are comparing them.
+4:214 minutes, 21 secondsBut more on that later. If you don't know what I just said, no worries. I will show you a few of my courses that you can watch. So first of all, become
+Chapter 6: Prerequisite Courses
+4:294 minutes, 29 secondsAI researcher from scratch. This course I'm going to leave the link below or you can search. So this contains math, PyTorch, neural networks, large language
+4:364 minutes, 36 secondsmodel, everything. This is a good starting point. 5 days ago, 20,000 views. This one is going very viral.
+4:434 minutes, 43 secondsThen if you go to my channel and just type from scratch here in this search bar on my channel, I recommend after
+4:504 minutes, 50 secondswatching uh this AI from scratch, then you dive deeper into large language models if you wish to research that. And my research is based on large language
+4:584 minutes, 58 secondsmodels uh that I'm going to be explaining in this video. So start with this one, code lama 4 from scratch. Uh
+5:065 minutes, 6 secondscheck out what you can find interesting there. and then uh quen 3 from scratch and deep sequ 3 from scratch. So you can
+5:135 minutes, 13 secondscheck all three of these. I recommend this one first and mainly I'm explaining same concepts because it's just like attention
+5:225 minutes, 22 secondsmechanism is the hardest thing. Once you understand that you're going to easily understand other things as well. So after watching these videos and you
+5:295 minutes, 29 secondsdon't need to watch all of them uh you can just figure out what you don't know what you want to watch. then you will be able to easily understand what I will be
+5:385 minutes, 38 secondstalking about and my research here or maybe you already understand attention mechanism how large language models or
+5:455 minutes, 45 secondstransformers work so you may not need to watch these courses at all you can also join my school to become AI researcher
+5:525 minutes, 52 secondslink below 7-day free trial just $9 per month and I'm posting regularly almost every day or every day new things you
+6:006 minutesneed to know about AI research and you can engage with community and ask questions and everything. When training a large language model, your loss should
+Chapter 7: Analyzing Loss Spikes
+6:096 minutes, 9 secondsbe around 2 3 4. So, it's five here because I don't have too much compute at this point. But five is still okay. But
+6:186 minutes, 18 secondsif your loss is 0.01, which happened to me, there is a serious bug somewhere.
+6:256 minutes, 25 secondsSo, heads up for that. And here we can see this weird spike here or loss not decreasing. So interestingly, I'm not
+6:346 minutes, 34 secondssure exactly why uh it seems like this is where I begin to start the learning
+6:406 minutes, 40 secondsrate analing the learning rate schedule, but I don't know if it's exactly at this point or a bit before, a bit after. So
+6:496 minutes, 49 secondsjust because I was doing this research, I already get new questions, new ideas for new research or I could also include
+6:566 minutes, 56 secondsit in this research. So you see how problems pop up and then they are interesting to solve and that's how you do research. You are curious about this
+7:047 minutes, 4 secondsspike and you want to figure out why it happens. My theory is it's because the learning rate uh scheduling but I'm not
+7:117 minutes, 11 secondssure if it's true yet. Thank you Beamai for sponsoring this video. You can automate your business processes and
+Chapter 8: Beam AI Sponsor
+7:197 minutes, 19 secondsoperations without any technical skill or coding required. If you just go to this chat and say create custom agent
+7:287 minutes, 28 secondsand I just type create an AI agent for lead generation and qualification and I send this message. You can automate
+7:367 minutes, 36 secondsemail forwarding, data entry, data processing, Google sheets, whatever you want. There is no coding or technical
+7:437 minutes, 43 secondsskills required. You can just describe in natural language. And here it's asking you for additional questions. But I'm just going to say skip details and
+7:527 minutes, 52 secondslet it build it by itself. So I'm talking to it like I'm talking to my coworker. So it already created a
+7:597 minutes, 59 secondssuggestion in less than a minute. I can give feedback. But in this case, I'm perfectly happy with this agent. So I'm just going to tell it to create as is.
+8:118 minutes, 11 secondsSo I will press create. And the professional prompt is automatically generated. This is based on internal
+8:198 minutes, 19 secondsresearch done by Beamai where they create and generate best prompt to solve your task. So it will ask me for more
+8:278 minutes, 27 secondsdetails here and I'm just going to say I want uh these two automations. So I'm going to send this and it's going to
+8:348 minutes, 34 secondsunderstand your intent generate different tools prompts connect to external APIs and everything you need it
+8:418 minutes, 41 secondswill do automatically and it suggested the whole process workflow based on my request of the automation I described
+8:498 minutes, 49 secondsand I think this looks pretty good so I'm just going to say this looks good and now it's going to create the workflow. I could also make adjustments
+8:588 minutes, 58 secondsif I want. But you can notice how I'm just talking to it in natural language and everything is done automatically
+9:059 minutes, 5 secondswithout any technical skills required by me. So this can be used by operations people, by business people, by anybody.
+9:139 minutes, 13 secondsSo the first node, the first tool will capture the leads. Then it will evaluate and score the leads based on some
+9:219 minutes, 21 secondscriteria and if the leads meet uh some predefined criteria, it will store them into CRM.
+9:299 minutes, 29 secondsIf they don't meet, then it will exit and not store them. So this is done lead by lead and I'll just click this looks
+9:379 minutes, 37 secondsgood. So, it's going to now match tools to each of these agents, give them different tools to use based on what
+9:469 minutes, 46 secondseach of the nodes, each of the agents needs to do. In this case, it matched these tools that are built in. Now, I
+9:539 minutes, 53 secondscould also put my own CRM or Google Sheets or Air Table, whatever I want. I could just tell it here. So, I created
+10:0210 minutes, 2 secondsmy lead processing agent. With just a few minutes, I can easily add more nodes. Insert step just describe what I
+10:0910 minutes, 9 secondswant the next step to do. Uh and it will automatically generate tools as well. I can also click on any of these nodes. I
+10:1710 minutes, 17 secondscan even change the tool if I want. And I can connect my account for this particular tool easily. Emails, customer
+10:2510 minutes, 25 secondssupport, HR on boarding, refunds, finance decisions, anything can be automated with Beamai very easily and by
+10:3210 minutes, 32 secondsanybody. Click the first link in the description or go to beam.a AI/demo to request access and start automating. In
+Chapter 9: Hyperparameter Search
+10:4110 minutes, 41 secondsmy research, I was doing a bunch of ablations or experiments with Adam and Muon. Uh I was doing separately Adam and
+10:4910 minutes, 49 secondsMuon. I want to separately find the best versions, the best hyperparameters for both and then compare them to see the difference. For example, here this is
+10:5810 minutes, 58 secondsone of the hyperparameters. It's the momentum for the muon optimizer. And you can see that 0.9
+11:0511 minutes, 5 secondswill yield lowest loss. Now I did not color it different colors. This was my mistake. So now you can't even see which
+11:1211 minutes, 12 secondsone is which. But I know I saw the results and 0.9 was the best here.
+11:2011 minutes, 20 secondsAnd so that's how you do experiments.
+11:2211 minutes, 22 secondsAnd you can do this with cloth because this is very simple. Just doing a bunch of these ablations. What claude cannot do is think more abstractly about the
+11:3011 minutes, 30 secondsideas and design new uh algorithms and principles but you will come to that point yourself over the years. So as I
+11:3811 minutes, 38 secondssaid in my previous video uh famous researchers invent good things after 10
+Chapter 10: Research In Public
+11:4611 minutes, 46 secondsyears of doing research. So I'm personally here one or two years. So I expect I expect to be doing this my
+11:5411 minutes, 54 secondswhole life now because I didn't have too much compute. I was running the sweeps for just 200 steps. So it's a few minute
+12:0212 minutes, 2 secondsof LLM training for each of the ablations.
+12:0712 minutes, 7 secondsNow if you had more compute you would you could do it for uh longer but it don't let lack of compute stop you
+12:1512 minutes, 15 secondsbecause it's just a small part. you can still understand everything, understand math, come up with theory and do a lot of practical experimentation even if you
+12:2312 minutes, 23 secondsdon't have too much compute and you will get that's the only way you can get compute. Nobody will give you compute if you don't know all of this stuff. So you
+12:3112 minutes, 31 secondsare learning it with little compute. So you get more compute later and that's how it goes. And I recommend either making YouTube videos or blog post on
+12:3912 minutes, 39 secondseverything you learn. That's how you expose yourself to other people, to people who could give you compute, but also to other researchers who can give
+12:4712 minutes, 47 secondsyou feedback and then you can learn better and faster and build up your network. So I think doing research in public is way better and that's probably
+12:5712 minutes, 57 secondsthe only way to do it. So even just making a small post on X or LinkedIn sometimes of whatever you've learned is
+Chapter 11: Muon vs Adam
+13:0513 minutes, 5 secondsvery good. So if you don't know, Muon is the best new optimizer. Even though Adam is very popular, Muon seems to be
+13:1313 minutes, 13 secondsbetter. Uh it learns more with less data. So I'm comparing Muon and Adam here trying to understand. And
+13:2113 minutes, 21 secondsinterestingly here, you see I have this learning rate schedule, but you see it starts to drop off here. It reaches the peak a bit after this weird thing here.
+13:3313 minutes, 33 secondsSo that's why I'm not sure that if uh I'm not sure if this comes from the learning rate schedule or something else. And I'm not sure exactly why Muon
+13:4213 minutes, 42 secondslearns better with less data. And I don't know if even the founders uh creators inventors of muon understand
+13:4913 minutes, 49 seconds100% but it does get a bit complex. So I have multiple videos on muon optimizer but it's still active area of research
+13:5813 minutes, 58 secondsand I found that for my setup learning rate of 0.0 07 works best for muon. Now
+14:0614 minutes, 6 secondsbefore I found that 0.01 works best in a different setup, different large language model. So maybe that was that
+14:1314 minutes, 13 secondsdepends on the architecture of your large language model. So that's why it's important to do hyperparameter sweep or
+14:2014 minutes, 20 secondshyperparameter search. Uh and learning rate is the most important hyperparameter to test. So if you can just test one, test just learning rate.
+14:3014 minutes, 30 secondsUsually writing a paper takes a lot of time, weeks or months because human brain needs a lot of time to kind of process in the background to understand.
+14:4014 minutes, 40 secondsYou need to like think and then sleep think sleep think sleep for a lot of time for many days. So don't rush with
+14:4814 minutes, 48 secondsyour papers. Also the goal is not to uh just publish on some famous conference.
+14:5314 minutes, 53 secondsThat's not the end goal like finishing your paper. The life cycle of your paper starts once you publish it. It doesn't
+15:0215 minutes, 2 secondsend once you publish it. It starts once you publish it. Then the contribution of your paper starts. So think about it not
+15:1115 minutes, 11 secondsas I just need to finish this as quickly as possible, but what I'm going to invent that's going to be used in 10, 20
+15:1815 minutes, 18 secondsyears or more that's going to be consistently useful and referenced and built on top of. Here for example, I
+15:2615 minutes, 26 secondswould read a bunch of different optimizers and trying to understand how the authors came up with them. So I would write about how to come up with new optimizers.
+15:3615 minutes, 36 secondsThat includes a lot of reading of different papers trying to understand everything. So this could potentially
+15:4215 minutes, 42 secondstake months to do. Now let's explain what each part of research paper contains. And after that I'm going to
+Chapter 12: Paper Structure
+15:5115 minutes, 51 secondsexplain the code of my large language model. how I coded it, how it works, how it trains. So you can use the timestamps, the chapters in the
+15:5915 minutes, 59 secondsdescription to uh watch any part you want. People will tell you to write abstract last, which I will do. I will
+16:0616 minutes, 6 secondsrefine it last. I'll make sure it explains, summarizes my entire research.
+16:1216 minutes, 12 secondsI want to include here that I did all of the ablations on Adam optimizer and muon optimizer and also uh the methods I
+16:2116 minutes, 21 secondsfigured out that other people are using to come up with these optimizers. So it's like a summary of your paper. Some papers have table of contents if it's particularly long like my thesis here.
+16:3216 minutes, 32 secondsYou may write some introduction but keep it about the paper not like when I was young I wanted to do AI research. No.
+16:4016 minutes, 40 secondsAnd then uh we have research questions.
+16:4216 minutes, 42 secondsSo I got a bunch of them here. I'm going to reduce or fix. Now you want to keep your questions novel. Maybe answering
+16:5016 minutes, 50 secondssomething that hasn't been answered. So answering new questions. So that would immediately exclude this first question because this has been answered. So I
+16:5916 minutes, 59 secondsthink I'm going to delete this and I'm going to trim out and uh fix these questions. But it doesn't have to be some completely crazy new uh
+17:0817 minutes, 8 secondsrevolutionary knowledge. you're not going to be able to do it alone that even like Google and these companies
+17:1417 minutes, 14 secondscannot invent too much above the standard that everybody knows. So Gemini is just a little bit better than
+17:2317 minutes, 23 secondsevery other LLM. For example, I don't know about any paper that analyzes learning rate scheduling of atom and
+17:3117 minutes, 31 secondsmuon. So this could be a valid question that I did in my experiment. So I'm going to maybe keep this one. Just make
+17:3917 minutes, 39 secondssure your questions are humble enough so you can actually do them. And one or two or three questions is enough. I'm going
+17:4617 minutes, 46 secondsto delete some of these here. I listed my contributions, what I'm contributing.
+17:5117 minutes, 51 secondsNow, you may not need to be writing so many of these things. I'm writing thesis. So, I'm I have to like write
+17:5917 minutes, 59 secondseverything in detail, a lot of stuff, but in your classic research paper, you don't necessarily need to do all of these things. you can just pick uh ones
+18:0818 minutes, 8 secondsthat are most important. Did I mention that I'm first writing it in markdown because it's easier to write it within
+18:1418 minutes, 14 secondsyour VS code or coding environment and later I will convert it to latex and to AI paper.
+18:2318 minutes, 23 secondsNow background and related work I explain. So this is specific for thesis. We need to like write a bunch of stuff.
+18:3018 minutes, 30 secondsuh but some people do a bit of background and related work here or even at the end uh before the conclusion for
+18:3718 minutes, 37 secondsexample here I have first order methods second order methods is just background theory and research I'm explaining muon
+18:4518 minutes, 45 secondsoptimizer although you may not necessarily explain neon optimizer if you're writing classic paper about muon
+18:5418 minutes, 54 secondsoptimizer for example in thesis you would then I'm explaining mixture of experts Now this is another difference.
+19:0119 minutes, 1 secondIn thesis you would explain in so much detail everything. In research paper you would not be explaining so much background just barely mention it. Then
+19:1019 minutes, 10 secondswe come to the part where I explain what I did. So first I started doing ablations on learning rates. I'm trying
+19:1719 minutes, 17 secondsto find out. This is important as I told you learning rate extremely important to find out which one is best for your setup.
+19:2519 minutes, 25 secondsSo you need to do a lot of experiments.
+19:2719 minutes, 27 secondsSo I So here I'm actually explaining the theory of different methods like grid search, random search. So this is still
+19:3619 minutes, 36 secondstheory and all of this stuff is theory. I might be trimming, rewriting a bunch of this stuff. Now research gap is what you
+19:4519 minutes, 45 secondsidentify that's not answered yet in research. I'm not sure how different
+Chapter 13: Research Methodology
+19:5219 minutes, 52 secondspeople feel about this like first looking for a research gap as opposed to just trying to do and understand what
+20:0020 minutesyou're interested about following your curiosity as opposed to first finding research finding research gap. So both
+20:0820 minutes, 8 secondsof those methods are possible and this is what I do in this part. So first learning rate sweeps trying bunch of
+20:1620 minutes, 16 secondslearning rates. Then once I find good learning rates I try other hyperparameters for both of the
+20:2320 minutes, 23 secondsoptimizers mu and Adam and both of them are going to have different hyperparameters but I want to find ones that work best for my setup for my LLM.
+20:3220 minutes, 32 secondsAnd once I find best then I'm just going to train for longer and test out to see how they compare.
+20:4120 minutes, 41 secondsBut hyperparameter search is extremely important. Sometimes actually there is a lot of people who claim to discover
+20:4920 minutes, 49 secondsbetter optimizer than Adam. But in reality they just didn't fine-tune Adam.
+20:5420 minutes, 54 secondsThey didn't do the hyperparameter search to the maximum. So their optimizer is not actually better. And then other labs
+21:0321 minutes, 3 secondsjust waste time trying to reimplement their optimizer just to find out that it's not actually better. the researchers who made it just didn't uh
+21:1221 minutes, 12 secondsfind the best setup for the atoms. So, it looked like their optimizer is better. But again, I said set your aim
+21:2121 minutes, 21 secondslow enough because you're not going to be able to to invent the next best optimizer. You need to ask yourself simpler questions. Even the best
+21:2921 minutes, 29 secondsresearchers are working hard on this and they're not so successful. It's very rare. So, it's okay to just answer
+21:3821 minutes, 38 secondssimpler questions. And this goes back to my two previous videos before this one where I explained that chasing internet
+21:4721 minutes, 47 secondslikes and fame because you invented the next new optimizer. It's not sustainable. It's not going to work. You cannot do it. Uh solve your socializing issue by going out talking to people.
+21:5921 minutes, 59 secondsYou're you're not going to be socializing with your AI research. Then what am I measuring? I'm measuring validation loss and validation accuracy
+Chapter 14: Validation & Benchmarks
+22:0822 minutes, 8 secondsand validation perplexity. I'm going to be deleting this one. I'm not going to measure this. Training loss is not so important. Validation loss is more important.
+22:1822 minutes, 18 secondsSo what happened to me is my training loss was 0.01 but validation loss was like 10 which is
+22:2522 minutes, 25 secondsabsolutely huge for large language models. So that's how I figured out that I had some mistake. It was just
+22:3222 minutes, 32 secondsmemorizing the training data, but it didn't learn anything to generalize. I mean, now it would be even better if you
+22:4022 minutes, 40 secondscould put in some benchmarks like Hela Swag benchmark. Uh, you just need maybe $5 to train the LLM so it's able to
+22:4922 minutes, 49 secondsachieve better than random score on Hella Swag. Um, I don't know if I'm going to do that. Maybe in the future.
+22:5822 minutes, 58 secondsI'm not sure yet but even in the future research papers that I write I do plan to get more compute and by the way this
+23:0623 minutes, 6 secondsis the way that if you want to get more compute you want to scale your research just like me either post YouTube videos
+23:1323 minutes, 13 secondsLinkedIn X blog whatever just learn in public and people will give you more compute once you learn how to use it
+23:2023 minutes, 20 secondsonce you learn these things you cannot ask for more compute if you don't know how to code large language model from scratch
+23:2823 minutes, 28 secondsSo by making these YouTube videos I'm learning and I've been getting a bit of compute. I'm going to increase that as well and so on but it's based on my
+23:3723 minutes, 37 secondslearning my skill. There is a bunch of secondary metrics you can also look into but those are less important also. Just
+23:4623 minutes, 46 secondsbecause your uh LLM validation loss is low doesn't mean that the model is smarter. So you need to measure it in
+23:5523 minutes, 55 secondsdifferent ways as well which is going to be with benchmarks and then other maybe just chatting with it trying it out etc.
+24:0324 minutes, 3 secondsBecause if you have longer sequence length longer context window then your loss will go down slower than if you
+24:1224 minutes, 12 secondshave short sequence length. But once this long sequence length reaches the same loss as this short sequence length this will actually be smarter.
+24:2324 minutes, 23 secondsSo it has more context to look at. It needs to develop more understanding. So just loss does not show intelligence of
+24:3124 minutes, 31 secondsthe large language model. Now I did all of my ablations with a single random seed. I put C to 42. So this randomness is actually reproducible.
+Chapter 15: Reproducibility & Seeds
+24:4224 minutes, 42 secondsYou could repeat all of your experiments on a few different seeds as well to see how much of your results are random, how
+24:5024 minutes, 50 secondsmuch uh they are reproducible, what is the statistical significance of your results. So it might happen that on one
+24:5824 minutes, 58 secondsseed like this thing is better on the other random seed this thing is better.
+25:0325 minutes, 3 secondsSo uh that means that you did not discover some meaningful knowledge there. It's based on randomness for these two things.
+25:1225 minutes, 12 secondsas to which one is better or I mean you could just say that it's random which one is better based on this particular
+25:1925 minutes, 19 secondssetup that you were testing that's also a valid uh experiment result so even negative or failed experiment results
+25:2625 minutes, 26 secondsare valid result you document why it failed so somebody else will learn from your failure here I just listed my
+25:3525 minutes, 35 secondsresults now I'm going to ask my professor if I should do it like this or maybe in a table or somehow else. I also
+25:4325 minutes, 43 secondsput other hyperparameters here of my LLM. So, Vocab size, embedding dimension, number of layers, attention
+25:5125 minutes, 51 secondsheads, all of this good stuff. If you're interested, my LM has 79 million parameters. This could actually go up, I
+25:5925 minutes, 59 secondsthink, 100, 200, a million, maybe even 300 million parameters on uh 16 GB RAM or 16 GB GPU memory.
+26:1026 minutes, 10 secondsI'm not sure even 1 billion parameters could fit on and train on 16 GB or 24 GB of GPU.
+26:1926 minutes, 19 secondsI'm renting GPU from Novita AI by the way. And there are two possible setups.
+26:2426 minutes, 24 secondsSo pure AdamW, which is AdamW, Andre Karpathy or Andre Karpathy, I think that's how you pronounce. He said AdamW
+26:3426 minutes, 34 secondsis a bug fix of Adam. And so we can use Adam for everything or muon for 2D
+26:4126 minutes, 41 secondsmatrices like weights, attention, feed forward and Adam for embeddings, layer norms, biases and other stuff.
+26:5026 minutes, 50 secondsSo these two possible setups I found out that these are optimal learning rates for my setup. Now in a different LLM, I
+26:5926 minutes, 59 secondsfound out it was like this, but this one is different.
+27:0527 minutes, 5 secondsSo make sure to do your ablations and hyperparameter search. I tried some different learning rate decays like
+27:1227 minutes, 12 secondscosine schedule, constant learning rate, linear schedule, step decay, etc. And then I'm going to just scroll. These are
+27:2027 minutes, 20 secondssome of the things hardware software setup and finally the results of my experiments. So this is
+Chapter 16: Final Results Analysis
+27:2927 minutes, 29 secondsthe final learning rate that won for muon. it was 200 steps and for 500 steps
+27:3927 minutes, 39 secondsthis learning rate same learning rate also won. So these were different uh set of experiments. So you would do a bunch
+27:4727 minutes, 47 secondsof smaller experiments on 200 steps and then you take best of those and then do 500 steps for example and in this case
+27:5527 minutes, 55 seconds500 steps would just take maybe three four minutes. So three four minutes for every of these experiments. So I could train it longer. I will in the future.
+28:0528 minutes, 5 secondsAnd then I did Adam only large language model learning rate sweep. And here
+28:1128 minutes, 11 seconds0.001 which I consistently find to be the best. And I try all of these learning rates.
+28:2028 minutes, 20 secondsI also find that Adam W is way less tolerant to different learning rates. So
+28:2828 minutes, 28 secondsyour learning rate must be exactly this or a little bit around. While muon you can have this and a bit more around.
+28:3728 minutes, 37 secondsIt's not like if you miss by little bit the loss will still be this low but for
+28:4428 minutes, 44 secondsAdamw it will not be. So this is way less tolerant to different learning rate and I swept other hyperparameters for
+28:5328 minutes, 53 secondsmuon. So weight decay Newton Schulz iterations here I found the default one.
+29:0129 minutes, 1 secondOh wait, no this case I need to see which case this is but for this one it's three while the default is five. So
+29:0929 minutes, 9 secondsthree works best in this case but I think if I extend training the result might be different. We'll see. But
+29:1829 minutes, 18 secondsnevertheless I'm just showing like I did I did like 40 experiments or something.
+29:2529 minutes, 25 secondsAnd then here I have optimal configuration for muon. These are the hyperparameters.
+29:3129 minutes, 31 secondsand for Adam. Uh, so this is just for my current setup for my LLM, but you can see that Muon has lower loss than Adam.
+29:4129 minutes, 41 secondsSo Muon is better as expected. And so for 500 steps, Muon is 7% better. For
+29:4829 minutes, 48 seconds200 steps, Muon is 14% better. [snorts] So you see, it actually learns more with less data. As I said, muon learns more
+29:5629 minutes, 56 secondswith less data. And uh muon is a lot more tolerant to different learning rates. You see 30 times wider tolerance range.
+30:0730 minutes, 7 secondsAlthough this probably have to do with the fact that its learning rate is 10 times larger.
+30:1430 minutes, 14 secondsBut I did found that actually muon is very tolerant compared to Adam. Two different learning rates around the optimal.
+30:2330 minutes, 23 secondsSo I'm not going to talk more about the content of my paper. I'm just going to say that I will also add a how to design
+30:3030 minutes, 30 secondsnew optimizers. So I will read how people came up with new optimizers like shampoo, iron and others. And then uh
+30:3830 minutes, 38 secondsI'm going to put in some tips and tricks or ways or methods or strategies on this on designing new optimizers. Now let's
+30:4530 minutes, 45 secondsgo through the code. So if you check my repository, I have experiments folder.
+Chapter 17: Project Code Structure
+30:5030 minutes, 50 secondsIn this experiments folder, I'm just calling modules from outside the folder.
+30:5630 minutes, 56 secondsuh maybe like large language model transformer and other modules and each experiment I have a folder
+31:0431 minutes, 4 secondsin data folder I'm just loading the data set which is small LM data set from hugging face and I'm separating it into
+31:1431 minutes, 14 secondsdifferent um context size or sequence length whatever the sequence length is
+31:2031 minutes, 20 secondsso I had a guy refactor refactor this so it's maybe more readable. It's one of the contributors on my GitHub. This is
+31:2931 minutes, 29 secondsthe data set I'm using. This is very good for small language models.
+31:3431 minutes, 34 secondsIn models, I have a bunch of different models, but my main stuff is here. MOE LLM. So here I have a mixture of expert/
+31:4431 minutes, 44 secondslanguage models. So this is combining all of my transformer blocks, attention blocks. So you see we have transformer block which is just mixture of experts.
+31:5531 minutes, 55 secondsI have RMS norm lm head at the end that all this good stuff the forward pass through the transformer. So let me see
+32:0432 minutes, 4 secondscomponents I have expert I have top K router that's routing choosing the expert I explained all of this stuff in
+32:1232 minutes, 12 secondsmy uh videos courses that I I mentioned mixture of experts is just initializing bunch of experts and then passing
+32:1932 minutes, 19 secondsthrough them also using the router and that's it in the component let's see layers so rotary positional embeddings
+Chapter 18: Attention & MoE
+32:2932 minutes, 29 secondsI'm just using this guy from tors tune tors tune models rotary positional embeddings. It works very well. So rope
+32:3732 minutes, 37 secondsis used for the LLM to know which token is at which place relative to each other. What is the first, the second,
+32:4532 minutes, 45 secondsthe third token and multi head attention. This consists of just attention module uh and then applying rope to uh query and key.
+32:5732 minutes, 57 secondsAlso this was added by one of my viewers multi head latent attention. This is by deepseek. Uh you can understand how this
+33:0433 minutes, 4 secondsworks in coding deepseek v3 from scratch. They use some clever clever tricks of combining the multiplications
+33:1233 minutes, 12 secondsof uh query key value matrices all at once. So there is no like data going
+33:1933 minutes, 19 secondswithin GPU back and forth. All of the data is sent at once, processed and then returned back. So we save on the data on
+33:2733 minutes, 27 secondsthis data bandwidth which is usually the slowest part sending data back and forth. Usually the computation is faster and it needs to wait for the data to be
+33:3533 minutes, 35 secondssent around. So you can combine multiple calculations together as opposed to sending data back and forth bunch of times.
+33:4633 minutes, 46 secondsSo the transformer block it's just the attention mechanism and the feed forward network which is mixture of experts in
+33:5333 minutes, 53 secondsthis case. So uh I'm going to initialize the multi head attention or if we are using multi head latent attention then
+34:0134 minutes, 1 secondinitialize multi head latent attention normalizations drop out and the feed forward is just mixture of experts and then pass this is the forward pass.
+34:1234 minutes, 12 secondsSo attention and then residual and then uh feed forward and residual.
+34:1834 minutes, 18 secondsBut you see X also goes through normalization before it goes into attention and before it goes into feed
+34:2534 minutes, 25 secondsforward. And then dropout I've seen it somewhere. I've haven't seen it at other places. So you need to see if this works
+34:3434 minutes, 34 secondswell for you. I would recommend you use it if you start with it. Now that's going to be the skeleton. I also copy
+34:4134 minutes, 41 secondspasted some of these other models from transformers library from hugging face
+34:4834 minutes, 48 secondsand I might be using some of these uh modules. Coen 3 next is a hybrid model with softmax standard attention and
+34:5734 minutes, 57 secondslinear attention but I haven't done too many experiments there yet. In optimizers I have muon optimizer
+Chapter 19: Implementing Muon Optimizer
+35:0635 minutes, 6 secondsimplemented. I've heard this now implemented in PyTorch as well as I understand it but uh this is just copy
+35:1335 minutes, 13 secondspasted from Keller Jordan Keller Jordan's repository and it works pretty well. As you can see there are some
+35:2135 minutes, 21 secondshyperparameters here that you would test and see which ones are best for your setup which I did in my research paper.
+35:2935 minutes, 29 secondsIn the training folder there is trainer and evaluation. So I guess it should be called evaluator maybe early stopping if
+35:3935 minutes, 39 secondsthe loss starts the validation loss starts to go up and it's mainly just the big train model function where it loads
+35:4735 minutes, 47 secondsdata initializes everything and then does forward pass calculates loss does back propagation does optimizations
+35:5735 minutes, 57 secondsyou need to make sure to separate which parameters are update updated by muon which parameters are updated ated by
+36:0436 minutes, 4 secondsAdam. So 2D parameters, 2D matrices I should say are updated by mu1 and I also have some plotting below. I'm going to
+36:1236 minutes, 12 secondsuse this plotting in my paper to show some plots.
+36:1736 minutes, 17 secondsEvaluation is mainly with validation uh loss perplexity accuracy. But I'm going
+36:2336 minutes, 23 secondsto add benchmarks like hella swag. That one is easiest to get some results in with just $5 of training I believe. Here
+36:3236 minutes, 32 secondsin benchmarks folder I have some implementations. So he hella swag arc challenge uh and others but I think I'm
+36:4136 minutes, 41 secondsnot using it for now especially I'm not using it for every single ablation out of 40. So that will
+36:4936 minutes, 49 secondsbe 40 time $5 $200 maybe in the future. Yeah I mean for
+36:5636 minutes, 56 secondssure in the future. Here are some ways that people come up with new optimizers.
+Chapter 20: Inventing New Optimizers
+37:0237 minutes, 2 secondsThey look at the experiments and figure out why this is happening if something bad is happening like too much
+37:0837 minutes, 8 secondsoscillation and then they add decay or momentum and these things. So they look at experiments and then fix the
+37:1637 minutes, 16 secondsexperiments. They can also do pure mathematics and theory before designing the optimizer and they can just automate
+37:2537 minutes, 25 secondssearch like this lion optimizer was done with computers. just try thousands or even more of different optimizers
+37:3337 minutes, 33 secondsautomatically generated. Then each of the new optimizers uh can be tested on a simple shape. Then stress test with
+37:4237 minutes, 42 secondsdifferent learning rate or different setups and then match against the best optimizer Adam or Muon. Uh note that
+37:5037 minutes, 50 secondsdifferent optimizers will win in different training setups, architectures, data scenarios, etc. So I think that's going to be it for this
+37:5837 minutes, 58 secondsvideo. Join my school to become AI researcher. We have courses on math, neural networks, transformers, PyTorch, and all of these lessons in the
+38:0638 minutes, 6 secondscommunity. And see you next
+

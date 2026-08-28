@@ -1,0 +1,62 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "instructions": [
+    "AGENTS.md"
+  ],
+  "skills": {
+    "paths": [
+      ".opencode/skills"
+    ]
+  },
+  "command": {
+    "research-plan": {
+      "description": "Delimita un tema de investigacion y produce un plan metodologico trazable.",
+      "agent": "research-advisor",
+      "template": "Activa el sistema de investigacion inteligente local. Tema o pedido: $ARGUMENTS\n\nLee primero AGENTS.md y RESEARCH_OS.md. Si hay archivos en curso_proyecto_investigacion/, leelos para alinear con las reglas del curso 1AEL0260. Si hay archivos en tema_tesis/, leelos para contexto del proyecto activo. Produce: etapa actual/readiness, pregunta delimitada, objetivo, contribucion, variables, metricas, fuentes necesarias, riesgos, afirmaciones verdes/amarillas/rojas, plan por gates y solo las preguntas imprescindibles para el usuario. Si falta investigacion profunda, define outline -> items -> fields -> evidence -> reporte."
+    },
+    "ingest-source": {
+      "description": "Convierte una fuente local o web en ficha, claims y decision de uso.",
+      "agent": "source-ingestor",
+      "template": "Ingiere esta fuente para la base de investigacion: $ARGUMENTS\n\nNo hagas resumen arbitrario. Primero declara tipo de fuente, proposito de lectura y nivel 0-3. Extrae segun metodo cientifico: problema, objetivo, metodo, datos, variables, metricas, baselines, resultados, limitaciones, claims reutilizables, claims prohibidos, citas potenciales, riesgos de interpretacion y decision de uso. Si es PDF, PPT/PPTX, imagen, scan, tabla, figura o formula, aplica ingesta multimodal: usa texto automatico para cobertura, identifica paginas/slides criticos, recomienda o usa lectura visual/OCR selectiva cuando corresponda, y etiqueta evidencia como AUTO_TEXT, AUTO_LOCATOR, VISUAL_READ, TABLE_VERIFIED, FORMULA_VERIFIED, FIGURE_INTERPRETED, CLAIM_READY o PENDING. Para PPT/PPTX, no confies solo en bullets: trata slides criticos como unidades visuales. Si es Nivel 1+, escribe resumen propio de 5-7 frases. Si hay tablas/figuras, marca si fueron verificadas visualmente o solo inferidas desde texto. Si es fuente web, registra URL y fecha. Si falta acceso, indica que pedir al usuario."
+    },
+    "paper-build": {
+      "description": "Construye un paper o entregable desde matriz de evidencia hasta borrador o LaTeX.",
+      "agent": "latex-paper-builder",
+      "template": "Construye el paper o siguiente entregable con este objetivo: $ARGUMENTS\n\nUsa el corpus local, la memoria del proyecto en tema_tesis/, y las reglas del curso en curso_proyecto_investigacion/. Antes de redactar, declara la idea central y crea o actualiza matriz seccion-claim-fuente-evidencia-limitacion. Las contribuciones deben ser claims refutables. No afirmes resultados de performance, latencia, throughput o viabilidad de hardware sin evidencia o simulacion verificable. Incluye figura/table passports si aplica. Si ya existe carpeta tema_tesis/, trabaja alli."
+    },
+    "paper-audit": {
+      "description": "Audita paper, claims, citas, metodo y riesgo antes de confiar.",
+      "agent": "evidence-auditor",
+      "template": "Audita esto contra el sistema de investigacion local: $ARGUMENTS\n\nPrioriza hallazgos por severidad. Haz auditoria integrada: claim-audit, citation-check y revision academica multi-lente. Construye tabla claim -> fuente -> locator -> fuerza -> veredicto cuando aplique. Busca claims sin evidencia, exageraciones, citas faltantes o desalineadas, mala metodologia, variables no conectadas a metricas, baselines injustos, figuras/tablas que sobreprometen y conclusiones demasiado fuertes. Devuelve decision tipo referee y correcciones concretas."
+    },
+    "latex-build": {
+      "description": "Prepara, compila o diagnostica documentos LaTeX con LaTeX Live.",
+      "agent": "latex-paper-builder",
+      "template": "Trabaja con LaTeX Live para este archivo o proyecto: $ARGUMENTS\n\nPrimero verifica si existe el archivo indicado y que comandos LaTeX estan disponibles. Usa la compilacion minima segura. Si falla, explica el error, aplica fixes pequenos si son obvios y vuelve a verificar."
+    },
+    "revision-investigadores": {
+      "description": "Pasa un entregable por 5 investigadores afines que revisan y corrigen. No crea otro documento, mejora el existente.",
+      "template": "Activa el pipeline de revision por investigadores para este entregable: $ARGUMENTS\n\nSigue el FLUJO_REVISION.md:\n1. Identifica el tipo de entregable (EX1, EX2, TP1, EX3, DD1, TF1, propuesta, o seccion especifica).\n2. Consulta perspectivas_investigadores/SELECCION_INVESTIGADORES.md para elegir los 5 agentes mas afines.\n3. Lanza los 5 agentes en paralelo con task tool. Cada agente lee su perfil en PERFILES_INVESTIGADORES.md, las reglas del curso, y el entregable. Devuelve revision en formato estructurado (HIGH/MEDIUM/LOW, lo que esta bien, correcciones concretas).\n4. Consolida las 5 revisiones: agrupa por severidad, identifica consenso (2+ coinciden) y conflictos.\n5. Aplica correcciones al entregable existente (no crear otro archivo). Orden: HIGH consenso > HIGH individual > MEDIUM > LOW.\n6. Guarda REVISION_REPORTE.md en la carpeta del entregable.\n7. Actualiza ESTADO.md.\n8. Si los cambios fueron significativos, ofrece lanzar una segunda ronda de revision."
+    }
+  },
+  "permission": {
+    "edit": "ask",
+    "bash": {
+      "*": "ask",
+      "where *": "allow",
+      "Get-Command *": "allow",
+      "pdflatex *": "ask",
+      "latexmk *": "ask",
+      "xelatex *": "ask"
+    },
+    "webfetch": "allow"
+  },
+  "compaction": {
+    "auto": true,
+    "tail_turns": 6
+  },
+  "tool_output": {
+    "max_lines": 1200,
+    "max_bytes": 40000
+  }
+}

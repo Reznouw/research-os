@@ -1,0 +1,38 @@
+This is the 4th and Final Session of the Research Workshop for JUST University Medical Students in 2021
+
+Special thanks to Dr. Mohammad Al-Qudah MD, FRCPATH as this project was done under his supervision and complete support.
+
+*** Paper:
+Understanding diagnostic tests 3: receiver operating characteristic curves
+http://ftp.est.ufmg.br/~enricoc/pdf/m...
+
+===== Recommnded Further Sources ==============
+1) https://www.coursera.org/learn/medica...
+2) https://www.coursera.org/learn/clinic...
+3) Learning Statistics With JASP - Navarro et al.
+(https://learnstatswithjasp.com/)
+4) Medical statistics at a glance - Petrie & Sabin
+(http://ndl.ethernet.edu.et/bitstream/...)
+
+===== Contents ==============
+0:00 - Logistic Regression Explained (briefly)
+8:26 - ROC Curves 
+12:33 - JASP Textbook 
+15:36 - Publishing Process
+21:10 - Citations
+22:40 - Revising & Editing
+25:45 - Expected Timeline
+34:45 - Peer-Review
+36:08 - Article-Publishing Charges (APCs)
+43:10 - Using Endnote
+44:55 - Citing with Endnote
+54:02 - Finding a Journal (SCOPUS)
+58:30 - Author Ranking /Co-Authors
+1:03:27 - Predatory Journals
+1:05:30 - Spotting a Fake Journal
+1:10:00 - Dr. Qudah's Epilogue
+1:11:50 - Verifying a Journals Legitimacy
+1:12:10- DOAJ 
+1:15:09 - Beall's List
+1:17:27 - Expert's Knowledge of Journals
+1:22:00 - Ending

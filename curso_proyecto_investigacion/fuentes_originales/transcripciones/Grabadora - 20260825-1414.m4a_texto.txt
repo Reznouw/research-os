@@ -1,0 +1,7025 @@
+¿Cuáles van a ser las indicaciones para el curso?
+
+¿Está bien?
+
+Ok, y vamos a hacer preguntas
+
+Buenas tardes
+
+Ya estamos en el octavo ciclo
+
+En el octavo ciclo aprenderán a saludar, buenas tardes, si afuera no quieren saludar no hay problema
+
+¿Cierto?
+
+Vamos a saludar ¿Cierto?
+
+Bien
+
+Este es el curso de, por ahí de investigación ¿Cierto?
+
+Ok, es un curso transversal a las tres carreras
+
+Mecatrónica, biomédica, electrónica
+
+¿Cierto? y por lo que tengo entendido hay las tres carreras
+
+Buenas tardes
+
+¿Aca? ¿Cierto? ¿Quiénes son de mecatrónica?
+
+De biomédica, de electrónica
+
+Ok, de acuerdo a lo que se ha visto ayer, 34 alumnos creo
+
+Bien, este es un curso transversal ¿Cierto?
+
+Este es el primer curso, digamos, donde se comienza a formular su tesis
+
+Sí, su tema de tesis
+
+Por lo tanto es muy importante este curso
+
+Lo que evaluamos acá es la parte, como estaba mencionando, la parte de formulación
+
+Ok, no se va a implementar todavía nada
+
+Ok, no hay ninguna implementación, lo que tiene que ver es la formulación
+
+¿Cierto? si el proyecto es viable
+
+¿Cuál va a ser el problema que se va a resolver?
+
+¿Cuáles son los objetivos?
+
+¿Cuánto, un aproximado de lo que te puede costar?
+
+¿Cierto?
+
+¿Qué métodos voy a utilizar?
+
+¿Cuál va a ser la variable que voy a evaluar?
+
+¿Cuáles van a ser las métricas que podría utilizar para validar mi proyecto?
+
+Sí, todas esas partes las vamos a ver acá
+
+De tal manera que cuando ingresen a proyecto 1
+
+¿Cierto?
+
+Si pasan el curso ¿Cierto?
+
+Entonces ya estarían, digamos, por así decirlo, listos para poder comenzar la implementación
+
+¿Está bien?
+
+Digamos que el curso no es complicado, finalmente se les va a dar todas las pautas
+
+Ok, entonces, lo complicado acá es encontrar el tema
+
+¿Cierto?
+
+Una vez que se tiene el tema, el resto fluye
+
+Digamos, todo bien
+
+Hay que buscar información, artículos, hay que buscar patentes, hay que buscar productos comerciales
+
+Todo lo que tiene que ver con lo que se le llama el estado del arte
+
+¿Por qué es importante el estado del arte?
+
+Vamos a preguntar a su compañero que justo ha estado buscando
+
+¿Su nombre cuál es?
+
+No, no, no
+
+El que ya ha estado buscando en el nombre virtual si todo eso puede ingresar desde su celular
+
+¿Si se puede ingresar el nombre virtual?
+
+Ah, ya, perfecto
+
+Igual, tengo la pregunta
+
+¿Saben qué es el estado del arte?
+
+¿En algún momento está escuchado que es el estado del arte?
+
+¿Por qué crees que es importante el estado del arte?
+
+El estado del arte, en mi opinión, es importante para que haya un registro previo de un concepto similar
+
+Dígase, esto es un proyecto que implementa PDI, busca proyectos que relacionen PDI
+
+Capaz el tema que se ve en los PDI capaz de ser el de armadones
+
+Para que temas agrarios y investigaciones con respecto a temas que tienen que ver con agricultura
+
+Es simplemente robots, etc.
+
+¿Es importante eso?
+
+Por supuesto que es importante
+
+Casi un 90% de lo que he mencionado
+
+El estado del arte lo que me va a servir es para saber qué es lo que se ha hecho
+
+¿Cierto?
+
+Y para partir de ahí, obviamente, siempre un tema de tesis tiene que ver con un aporte
+
+¿Cierto?
+
+Entonces, ¿cómo yo voy a saber de dónde comenzar?
+
+¿Cierto?
+
+¿Cómo saber si lo que estoy haciendo verdaderamente es algo distinto a lo que ya se ha hecho a partir del estado del arte?
+
+El estado del arte me va a indicar ya se ha hecho tal cosa
+
+Dependiendo obviamente del área, ¿cierto?
+
+Si el procesamiento de señales, imágenes, la parte de IoT, en fin
+
+Dependiendo de cada una de las áreas de acuerdo a la carrera
+
+¿Sí?
+
+Asimismo también, ojo, como ustedes saben
+
+Hay distintas, en cada uno de esos temas, ¿cierto?
+
+Hay distintos métodos que se aplican
+
+Nosotros no necesariamente vamos a aplicar todos esos métodos
+
+Y cuando buscamos en el estado, una de las partes del estado del arte es buscar artículos de investigación
+
+Y dentro de los artículos de investigación hay bastantes artículos que son desarrollados por estudiantes de post-grad
+
+Y nosotros estamos en post-grad
+
+Entonces puede ser que encontremos artículos muy complejos, ¿cierto?
+
+Por los métodos que se aplican ahí, por los conocimientos que se aplican
+
+Y también hay otra gran parte de artículos, pues donde
+
+Con técnicas similares o métodos similares que nosotros vamos a utilizar
+
+Pues sobre eso nos guiaremos y a partir de eso podemos proponer que se puede mejorar, que se puede adaptar
+
+¿Qué otra técnica puedo aplicar o comparar varios métodos?
+
+Entonces, todo eso nos vamos a ver acá en el curso
+
+Como les decía, lo más importante es definir el texto
+
+Espero que ya tengan por lo menos alguna idea
+
+De lo que quieran, digamos, implementar, desarrollar
+
+Recordemos que acá sí, el curso van a tener, digamos, el profesor Evaluador
+
+El profesor César Mayor, el profesor César Salvador, el profesor José Becerra
+
+Y quien les habla
+
+Mi nombre es Cristian del Carmen
+
+Entonces, pero el profesor no es el que te va a decir allá hasta el tema, ¿cierto?
+
+El profesor no te indica demasiado
+
+De repente algún profesor les puede sugerir, ¿cierto?
+
+Perfecto, pero tal vez no
+
+Ustedes son los que tienen que, digamos, plantear el tema
+
+Y de acuerdo a eso se indicará, pues, perfecto
+
+Pero el tema sí aplica para tema de tesis, ¿cierto?
+
+Y, bueno, ya a partir de eso, de acuerdo a una estructura que ya se ha realizado, ¿cierto?
+
+Se va a comenzar a hacer la formulación, ¿sí?
+
+Bueno, ya habilité
+
+Este es el aula virtual de la sección
+
+Recordemos que la sección es la 61-40
+
+El sílabo todavía, bueno, el sílabo todavía en el láser no está listo
+
+Bueno, está ahí, ahorita les voy a habilitar esta parte de acá
+
+Acá en esta carpeta de información general
+
+He colocado todo este material
+
+Bueno, acá hay unos requisitos específicamente solo para los de mecantrónica
+
+Después acá está el reglamento que es lo que vamos a revisar el día de hoy
+
+Después acá hay un SLAC nacional de acuerdo a Consitec
+
+La ficha de acta de asesoría
+
+Pues acá tenemos unas plantillas, o sea, los formatos que vamos a seguir para cada una de las evaluaciones
+
+Tanto para el informe como para las diapositivas
+
+Así mismo también hay unos ejemplos, ¿sí?
+
+Para cada una de las evaluaciones
+
+Por el momento ahorita solamente habilitado para la exposición 1
+
+El resto ya se les estará apuntando de acuerdo a cómo vayamos avanzando
+
+Y también hay algún otro material que se encuentra acá en la unidad 1
+
+Esto ya lo vamos también a ir viendo, por ejemplo, normas IEEE
+
+Que es el formato que nosotros vamos a utilizar para hacer las referencias
+
+Vamos a utilizar IEEE
+
+Lo mismo, bueno, que estoy mencionando también está la parte de introducción
+
+Porque después como vos esto ya lo vamos a ir viendo a partir de la próxima semana
+
+Ahora lo más importante es ir revisando el reglamento
+
+Eso es lo más importante porque ya en el reglamento está por así decirlo casi todo
+
+De cómo se viene el curso, cómo se obtiene la nota
+
+Qué requisitos se debe cumplir para digamos que sea un tema de tesis
+
+Sea electrónica, biomédica, mecatrónica
+
+También está qué es lo que se debe entregar en cada una de las evaluaciones, etc
+
+Todo ya está mencionado
+
+Entonces, que eso se encuentra
+
+Yo lo he decadrado
+
+Vamos a ir viendo entonces
+
+Este es el reglamento
+
+También ya está como ven colocado ahí en el aula virtual
+
+Entonces vamos a digamos a explicar algunos de los artículos
+
+Otros ya ustedes ya lo pueden digamos revisar
+
+Y también hay partes que más adelante lo vamos a ir detallando
+
+En primer lugar, se entiende por digamos proyecto de ingeniería
+
+Porque finalmente lo que ustedes van a hacer es un proyecto
+
+Sea de electrónica, mecatrónica o biomédica
+
+Un trabajo de investigación o desarrollo tecnológico
+
+Que involucra la aplicación de conceptos, fundamentos, métodos y procedimientos de ingeniería
+
+Orientados a resolver a partir de reglamentos establecidos
+
+Un problema o una necesidad de vida médica
+
+¿Está bien?
+
+Lo ideal o por qué surge digamos alguna solución o algún proyecto
+
+Se supone porque vamos a tener un, dar solución a un problema
+
+¿Sí?
+
+Habrán algunos proyectos que tendrán digamos algún
+
+Llamémosle un cliente cierto, ¿no?
+
+Ha habido proyectos donde los alumnos en una empresa o una institución trabajan
+
+Y en esa institución o empresa ha habido una necesidad
+
+Y en base a eso se ha desarrollado pues el proyecto
+
+¿No?
+
+También me puedo de acuerdo a este el área de mi interés
+
+¿Cierto?
+
+Yo puedo buscar alguna, alguna problemática
+
+Y de acuerdo a eso plantear mi proyecto
+
+¿Cierto?
+
+¿Cómo se, cómo se?
+
+Ya ok, tengo la problemática, identifique la problemática
+
+Y cómo se hasta, qué es lo que debo proponer o en base a qué
+
+Justamente en base al estado del arco
+
+¿Cierto?
+
+Ok
+
+¿Qué se ha hecho?
+
+Y qué es lo que se podría digamos mejorar
+
+¿No?
+
+A partir de ahí
+
+Así mismo para el proyecto se supone que yo tengo que utilizar todos los conocimientos
+
+Que yo adquirí durante la carrera
+
+¿Cierto?
+
+Y bueno, y algunos que todavía están en octavo ciclo
+
+¿Cierto?
+
+Con el curso de octavo ciclo
+
+En el frente algunos están, están adelantando
+
+En fin, van a seguir teniendo ciertos cursos de carrera
+
+Pero todos esos conocimientos que ustedes van a llevar en los cursos
+
+Lo pueden aplicar o lo van a aplicar mejor dicho para el desarrollo de su proyecto
+
+Tengamos en cuenta que de acuerdo a eso
+
+Que pues yo no voy a digamos pretender darles o proponer algún proyecto
+
+Que involucra algún conocimiento que yo no he llevado en la universidad
+
+O algún tema que yo no he llevado en la universidad
+
+¿Cierto?
+
+Que podría ser de repente algún tema de postgrado
+
+¿No?
+
+Y que bueno, obviamente para eso yo necesitaría no sé
+
+Pues un año más de estudio ¿No?
+
+O llevar esos cursos de manera paralela
+
+Entonces no, ese no es el hecho
+
+Se supone que todo o el proyecto que nosotros vamos a desarrollar
+
+Está de acuerdo a los conocimientos que nosotros llevamos
+
+¿Está bien?
+
+Eso no quita que bueno, yo de repente
+
+Yo sé que por ejemplo en la carrera
+
+Le preguntas si hay algún curso específico
+
+Por ejemplo donde ven este impresión 3D
+
+Hay algún curso donde dice curso de impresión 3D
+
+No, ¿Cierto?
+
+Pero yo creo que la mayoría ha aprendido ¿Cierto?
+
+Y también puede llevar un curso en el FABLA ¿Cierto?
+
+De una semana tal vez
+
+Y ya sabes ¿Cierto?
+
+O sea ya sabes cómo hacer un diseño
+
+Eso no es un problema ¿Cierto?
+
+Igual podrían llevar algún otro curso ¿Cierto?
+
+De unas semanas o de repente ¿No?
+
+De repente de algún conocimiento que yo puedo requerir para mí
+
+En ese caso no hay ningún problema
+
+Ya cuando hablamos de otros conocimientos ¿Cierto?
+
+Ya, llámese de postgrado
+
+Ahí ya viene, digamos, el problema
+
+Ok, eso es lo que hay que tener en cuenta
+
+Asimismo también tenemos que tener en cuenta
+
+Que los temas que planteemos
+
+Tienen que estar de acuerdo a las áreas de conocimientos
+
+Que se ven en la universidad, en la universidad, en un PC
+
+¿Si?
+
+Y por eso estas se están mencionando acá
+
+Bueno, en el caso de electrónica
+
+Es un poco más amplio
+
+No está especificado cada una
+
+Dentro del procesamiento de señales
+
+También puede estar la parte de división computacional
+
+Adicionalmente eso también puede estar la parte de
+
+Algoritmo de Inteligencia Artificial
+
+Se llaman Machine Learning, Big Learning, etc.
+
+¿Cierto?
+
+También hay la parte de control
+
+Hay varios proyectos que tienen que ver con la parte de biomédica
+
+¿No?
+
+En el caso de mecatrónica
+
+Si se ha detallado un poco más las áreas
+
+Que se menciona acá
+
+Y asimismo también en el caso de biomédica
+
+¿Bien?
+
+Entonces, de acuerdo a esto
+
+Es que ustedes tienen que ver su tema de esto
+
+¿No?
+
+¿Por qué?
+
+Porque se sobreentiende que ustedes llevan cursos
+
+Que están relacionados con estas áreas
+
+Y también hay docentes, profesores y artes ingenieros
+
+Que son sus áreas
+
+¿No?
+
+Yo no voy a pretender llevar un tema
+
+Que no está acá específicamente
+
+Y quien me va a asesorar
+
+¿Ok?
+
+Entonces es por eso y aquí digamos que está
+
+Digamos dentro de estas áreas
+
+¿Ok?
+
+¿Qué otra cosa más?
+
+Después dice ¿No?
+
+Bueno
+
+El curso apunta que los estudiantes de la carrera
+
+¿Cierto?
+
+Digamos electrónica, mecatrónica, biomédica
+
+Aprenden con buenas prácticas
+
+Todos los conocimientos
+
+Bueno, lo que les he mencionado
+
+Todos los conocimientos que he llevado en el curso de
+
+En los cursos previos
+
+¿Cierto?
+
+Y todo eso lo van a volcar
+
+¿No?
+
+Lo van a
+
+Digamos
+
+Aplicar
+
+Aplicar
+
+En los cursos de
+
+Proyecto 1
+
+Proyecto 2
+
+Que son los cursos que se le llaman
+
+Cursos integradores
+
+¿No?
+
+O los cursos
+
+Capstone
+
+¿Cierto?
+
+En cada una de las
+
+De la carrera
+
+¿No?
+
+Porque se sobreentiende que ahí
+
+Aplican todos los conocimientos
+
+¿Sabéis?
+
+Después
+
+Bueno
+
+El proyecto está orientado a diseñar
+
+Implementar
+
+¿Cierto?
+
+Una nueva o innovadora solución tecnológica
+
+¿Cierto?
+
+Para los conocimientos
+
+Particulares establecidos
+
+De acuerdo a la problemática
+
+Que se pueda presentar
+
+En el caso de nosotros
+
+Me refiero al caso de pregrado
+
+¿Cierto?
+
+Una tesis de pregrado
+
+Tiene que ver con que
+
+No es que se va a generar nuevo conocimiento
+
+¿Sí?
+
+Normalmente cuando hablamos de
+
+Generar nuevo conocimiento
+
+Son tesis pues de doctorado
+
+¿No?
+
+Ahí son
+
+Donde se genera nuevo conocimiento
+
+El tesis de maestría
+
+También digamos que se plantea
+
+Algunas soluciones nuevas
+
+Y en el caso específico
+
+De tesis de pregrado
+
+Lo que se espera digamos es
+
+Una mejora respecto a lo que
+
+Algo que ya existe
+
+Una actualización
+
+Aplicar otra técnica diferente
+
+De repente puede ser
+
+Se puede cambiar de escenario
+
+Donde se desenvuelve, etc
+
+Entonces
+
+Normalmente eso es lo que
+
+A lo que aplica una tesis
+
+De pregrado
+
+¿Sí?
+
+Obviamente tiene que haber
+
+Un diseño
+
+¿Cierto?
+
+Tenemos que aplicarlos
+
+En la parte matemática
+
+Modelar matemáticamente
+
+¿Cierto?
+
+Si yo estoy aplicando cierto
+
+Conocimiento
+
+O mejor dicho a ciertas
+
+Metodos, etc.
+
+Todo eso lo tengo que plantear
+
+O modelar se dice
+
+Matemáticamente
+
+Tengo que hacer validaciones
+
+No es solamente decir
+
+Ya funcionó
+
+¿Por qué funcionó?
+
+¿Cómo está seguro?
+
+Si funcionó correctamente
+
+Entonces tengo que
+
+Evaluarlo
+
+Y tengo que validar
+
+¿Está bien?
+
+Así mismo también
+
+Ese tema lo tenemos
+
+Que identificar dentro de
+
+Las áreas
+
+¿Cierto?
+
+Las áreas que establece
+
+En el plan nacional
+
+Estratégico de necesidad de tecnología
+
+Entonces
+
+¿Sí?
+
+Esas áreas
+
+Están acá
+
+Bueno, las áreas están más abajo
+
+Los sectores productivos
+
+Y las áreas
+
+O sea, no quiere decir
+
+Ojo
+
+Que nosotros tenemos que
+
+Basarnos en esto
+
+Sino que el tema que escojamos
+
+De ahí lo vamos a tener que ver ya
+
+Ese tema en dónde encaja
+
+En qué sector encaja
+
+Y en qué área
+
+¿Está bien?
+
+Esto
+
+Más que todo lo vamos a ver ya
+
+A partir de la práctica
+
+Dos
+
+¿Sí?
+
+Pero bueno
+
+Acá están los sectores
+
+Y ahí es un resumen
+
+Si yo deseo hacer una revisión
+
+Más profunda de esto
+
+Está acá
+
+Esto es lo mismo
+
+Solamente que acá ya está más detallado
+
+Hay ejemplos
+
+Está justamente lo mismo
+
+¿No?
+
+Están los ejemplos de PESCA
+
+En el reglamento
+
+Solamente está en el encabezado
+
+¿Cierto?
+
+Y el detalle
+
+Bueno, obviamente
+
+Se va a transcribir completamente
+
+Ya se puede revisar aquí
+
+¿Ok?
+
+Bien
+
+Regresamos
+
+Al otro
+
+Entonces
+
+Acá están los sectores
+
+Y las, ¿no?
+
+Hay sectores prioritarios
+
+Después hay otros sectores
+
+Social, ambiental y también
+
+Hay áreas de conocimiento
+
+Bueno, esto ya lo identificaremos
+
+En su debido momento
+
+¿Ven?
+
+Ahora, el curso no solo evalúa
+
+¿Cierto?
+
+La parte de conocimiento
+
+Sino que también se evalúa
+
+La responsabilidad
+
+¿Cierto?
+
+La actitud
+
+Llegar temprano a clase
+
+¿Cierto?
+
+La buena práctica
+
+La comunicación
+
+La ética
+
+Etc.
+
+Eso también se toma
+
+En cuenta en la evaluación
+
+Bien
+
+Ahora
+
+Con respecto al desarrollo
+
+Del proyecto
+
+De acuerdo a
+
+Lo que indica Sunedu
+
+¿Si?
+
+Un tema de tesis
+
+Puede estar
+
+Digamos
+
+Que se ha formado
+
+Hasta por un grupo de
+
+Dos estudiantes
+
+Los dos estudiantes
+
+Tienen que ser de la misma
+
+Carré
+
+¿Va bien?
+
+Entonces, por lo tanto
+
+Desde ahora, ¿no?
+
+Ustedes pueden formar
+
+O van a formar
+
+Mejor dicho
+
+Grupos
+
+De dos
+
+¿Si?
+
+Obviamente
+
+Los dos inmigrantes
+
+Repito
+
+Tienen que ser de la misma
+
+Carré
+
+¿Está bien?
+
+Bien
+
+Recuerden que
+
+A esa persona
+
+La van a ver
+
+Casi durante un año y medio
+
+En su casa
+
+En vacaciones
+
+¿Cierto?
+
+De madrugada
+
+En fin
+
+¿Está bien?
+
+Porque
+
+Proyecto de investigación
+
+Proyecto uno
+
+Proyecto
+
+Y si quieren
+
+Quieren llevar
+
+Otra vez
+
+Bueno
+
+Otra vez
+
+¿Está bien?
+
+Entonces
+
+Es importante
+
+¿Cierto?
+
+Obviamente
+
+Seguramente
+
+Podrán haber
+
+Algunos contratiegos
+
+Pero
+
+Todo se soluciona
+
+Se conversa
+
+¿Cierto?
+
+En fin
+
+Entonces
+
+Eh
+
+Hasta
+
+Justamente
+
+¿No?
+
+Se indica
+
+Ojo
+
+A
+
+No puede haber
+
+No puede haber
+
+Alguien que diga
+
+No
+
+Yo voy a trabajar solo
+
+O sola
+
+¿Si?
+
+Se supone que
+
+Tienen que ser
+
+Salvo que
+
+En un tema aritmético
+
+No se podría
+
+Exactamente
+
+El número exacto
+
+De melatrónica
+
+Biomédica
+
+Electrónica
+
+Hay a uno
+
+Bueno obviamente
+
+En ese caso
+
+Pues no queda de otro
+
+¿Cierto?
+
+No será
+
+Una sola persona
+
+¿Está bien?
+
+Por si acaso
+
+Y eso también se menciona
+
+Acá están
+
+Un saludo que ponen
+
+En un tema aritmético
+
+El número que ellos ya
+
+Desean
+
+Y va
+
+Obviamente
+
+Respecto a la carencia
+
+Ahora
+
+Dicho esto
+
+Dicho esto
+
+Entonces
+
+Lo que trabajamos
+
+Acá en el
+
+En el curso
+
+Acá
+
+Ahorita van a poder
+
+Ingresar
+
+Acá hay una
+
+Lista de grupos
+
+Si yo
+
+Presiono ahí
+
+Me va a dar
+
+¿Está bien?
+
+En este excel
+
+Ahorita se va a habilitar
+
+Que ustedes van a
+
+Ingresar
+
+Su edad
+
+Ojo
+
+Dice bien claro
+
+Apellido sin nombre
+
+No dice el nombre
+
+Y apellido
+
+Apellido sin nombre
+
+Su código
+
+Ojo
+
+Su código
+
+No comienza
+
+Con la U
+
+Bien
+
+Yo sé que es un
+
+Equipo favorito
+
+Pero
+
+Sin la U
+
+Ok
+
+La MRC
+
+La MRC
+
+De acá
+
+¿Cuál es?
+
+61 40
+
+Si ustedes acá
+
+Presionan
+
+Por si acaso
+
+Ahí está
+
+¿No?
+
+Ahí está la
+
+La sección
+
+¿Está bien?
+
+Igual acá
+
+Si es la carrera
+
+También presionan
+
+¿Cierto?
+
+Esa es la carrera
+
+Es un correo
+
+Un correo
+
+Un PC
+
+El correo un PC
+
+Si comienza con
+
+U
+
+Y el código alfanumélico
+
+Y un correo
+
+IMEI
+
+Hasta acá no más
+
+Llega
+
+El resto de acá
+
+Ya de acuerdo a eso
+
+Se le va a asignar
+
+Su profesor
+
+Evaluador
+
+Y bueno ya vamos
+
+Ahí viendo
+
+Pero esto es lo único
+
+Que debe
+
+Llenar
+
+Si
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+17
+
+18
+
+19
+
+20
+
+22
+
+24
+
+26
+
+27
+
+28
+
+29
+
+30
+
+32
+
+Creo que están
+
+Casi todos
+
+Faltan algunos
+
+Creo que faltan dos
+
+Personas más
+
+Y ahí también
+
+Podrían ver
+
+Si es que alguien
+
+No tiene
+
+Pareja
+
+Cierto
+
+Y ven que también
+
+Ese otro compañero
+
+Está libre
+
+Y es de la misma
+
+Carrera
+
+Podrían conversar
+
+Cierto
+
+Para poder
+
+Unirse
+
+Cierto
+
+Y trabajar
+
+¿Está bien?
+
+¿Qué?
+
+Entonces
+
+¿Cuál es el único requisito
+
+Para poder ingresar
+
+Esa lista
+
+Que esté enloqueado
+
+Como
+
+Un PC
+
+¿Está bien?
+
+Tienen que
+
+Les va a pedir
+
+En cualquier caso
+
+¿Ok?
+
+Bien
+
+Ojo a
+
+Solamente
+
+Va a estar disponible
+
+El día de hoy
+
+Como par edición
+
+¿Ok?
+
+Después de esto
+
+Yo lo voy a
+
+Lo voy a descargar
+
+Otra vez lo voy a
+
+Volver a colocar
+
+Pero solamente
+
+Va a estar
+
+En modo
+
+De visualización
+
+Para ustedes
+
+¿Si?
+
+Los únicos que
+
+Podemos
+
+Modificar
+
+Después
+
+Este archivo
+
+Son los profesores
+
+¿Está bien?
+
+Entonces
+
+Ya venido
+
+Vamos revisando
+
+Conforme vayamos
+
+A avanzar
+
+Hay alguna
+
+Consulta
+
+Pregunta
+
+¿Todo claro?
+
+¿Si?
+
+Bien
+
+Bien
+
+Bueno
+
+Como estaba mencionando
+
+Acá
+
+El curso promueve
+
+El trabajo del equipo
+
+¿No?
+
+Como les estaba mencionando
+
+¿No?
+
+A ustedes
+
+A su compañero
+
+¿No?
+
+Los van a ver
+
+Digamos
+
+Van a
+
+Trabajar
+
+Este
+
+Digamos
+
+Bueno
+
+Luego
+
+Recuerden que
+
+La persona
+
+Con la que trabajen
+
+También va a seguir
+
+Eso en el proyecto 1
+
+Y en el proyecto 2
+
+¿No?
+
+Entonces
+
+Puede ser que haya
+
+Pues
+
+Algunas
+
+Algunos
+
+Eipases
+
+¿No?
+
+Que esperemos
+
+Siempre se puedan
+
+Este
+
+Conversar
+
+¿No?
+
+Ya a ustedes
+
+Digamos
+
+Conversarán
+
+También
+
+Quien avanza
+
+La idea
+
+Lo ideal es que
+
+A los dos
+
+Digamos
+
+Que participen
+
+En cada una
+
+De las evaluaciones
+
+Me refiero
+
+Generando
+
+La información
+
+Que se les pide
+
+Ya
+
+Pero si ustedes
+
+Dicen
+
+No
+
+Ya yo hago
+
+La parte de
+
+La primera práctica
+
+El otro
+
+No
+
+La otra evaluación
+
+Se encarga
+
+A vos
+
+Bueno eso ya
+
+Ustedes
+
+Lo van a manejar
+
+¿Está bien?
+
+Recordamos
+
+No más que
+
+Las exposiciones
+
+En las exposiciones
+
+Participan los dos
+
+Integrantes del grupo
+
+Digo
+
+Que es
+
+La parte de
+
+La primera práctica
+
+El otro
+
+No
+
+La otra
+
+De la
+
+La otra
+
+De la
+
+La otra
+
+Pero
+
+Un segundo
+
+No
+
+No
+
+On
+
+O
+
+Me
+
+Me
+
+Lo
+
+Lo
+
+Lo
+
+Lo
+
+Lo
+
+El
+
+Lo
+
+Pero
+
+No
+
+hay cuatro clases que no se va a tomar asistencia porque son las evaluaciones
+
+en las evaluaciones, ya me dicen práctica 2 y práctica 3, no se toma
+
+asistencia, entonces nos quedan 10 clases, y contando esta, sin contar esta nos quedan 9 clases
+
+pues solamente tenemos que asistir 9 clases, la clase es una sola vez a la semana
+
+y recordemos que ahora dice que está habilitado la desaprobación o mejor dicho
+
+lo que se llama DPEI, no es específicamente DPEI porque antes era desaprobación por inasistencia
+
+ahora simplemente si ustedes pasan más del 25% de la asistencia que pasa automáticamente
+
+el trabajo final ya no lo pueden rendir, y bueno como en el curso el trabajo final vale 40%
+
+entonces así sacaran 20 en todas las evaluaciones previas, tiene 12
+
+entonces gracias a probar el curso, 25% está abierto al oído
+
+tu nombre, que le tienes al oído?
+
+mi nombre es Narista pero se puso extraño en mi código
+
+tiene que poner como texto, porque está como formato numérico
+
+les mencionaba respecto a la asistencia, entonces el 25% aproximadamente son 4 clases
+
+3, 4 clases y más no recuerdo, ahora para que son esas 4 clases?
+
+o esas 4 faltas, bueno en otro curso también dependiendo de cuántas clases tengan en la semana
+
+va a variar el número de faltas que puedan tener o en el caso de acá son 4, está bien
+
+porque no es el 100% de asistencia sino porque te da el máximo de 25
+
+porque siempre podemos tener algún imprenso, cierto? de repente tenemos que ir al doctor
+
+de repente tenemos alguna cita por el trabajo, de repente ese día no quise venir a clase
+
+entonces para eso son esas faltas que se les permiten
+
+entonces si es parejo por favor envíen correo indicando profesores
+
+si a un día de hoy no voy a poder asistir porque he ido al medio, perfecto
+
+pero no se le va a tosar, no por eso se le va a marcar asistencia
+
+porque para eso justamente son esas, bueno estamos asumiendo 4
+
+entonces voy a faltar por X, bueno si voy a faltar que sea verdaderamente por algo, digamos, inmortal
+
+al lado B, perfecto, no sé, hoy día no me provocó ir a clase de papel pero ojo que eso va a sumar
+
+está bien entonces no es porque yo mando correo indicando que tengo cita, médica o el trabajo
+
+para eso son... qué otra cosa más? o que a veces hace, no?
+
+yo voy a tomar una lista que normalmente las clases van a hacer o la forma en que vamos a llevar el curso es
+
+ustedes saben que son tres horas de clase entonces la primera hora u hora y media
+
+vamos lo máximo, la idea es una hora, hora y cuarto, voy a dar una digamos clase inicial
+
+y posteriormente cada grupo va a pasar con su profesor evaluador que se le va a asignar
+
+el profesor va a tener sus asesorías para ir viendo, para ir monitoreando cómo va el avance con su
+
+qué es lo que a veces pasa? yo tomo la lista inicial, el alumno está presente y dice bueno
+
+y terminamos la clase y a la hora de la asesoría se va, entonces el profesor ya va a saber qué grupos están con él
+
+si ve que no asiste el profesor ojo puede ponerle falto, entonces eso que quiere decir que bueno
+
+si por A o B ustedes tienen que retirarse, no se pueden quedar, tendrían que decirle a su profesor evaluador
+
+cierto? que se van a retirar por un X, etc. y ya el profesor les dirá sí o no, está bien?
+
+porque eso ha pasado, yo termino la clase como yo, esto pasó lista y después se va
+
+y después el profesor conversamos y cómo van los grupos, hasta ahorita no conozco a tal grupo
+
+y ya estamos cerca al parcial, entonces tengan en cuenta eso por favor
+
+bien, ahí está lo que he mencionado, cierto? lo que he indicado también respecto a A o B
+
+ya sabemos que ya les he mencionado que somos cuatro profesores en el curso, todos somos profesores en el curso
+
+pero también digamos hay lo que se llama el profesor evaluador, el profesor evaluador es el que va a hacerle el seguimiento
+
+a los grupos que le son asignados, está bien? puede tener profesor evaluador 3, 4, máximo hasta 5 grupos
+
+dependiendo y ahí los vamos a dividir, está bien? entonces a eso se le llama profesor evaluador
+
+mi profesor evaluador de cada proyecto, de cada grupo es el encargado o es el responsable de ingresar o darle su nota al grupo
+
+está bien?
+
+así mismo también dentro del curso, cierto? se van a tener que generar actas de asesoría
+
+esas actas de asesoría con quien las voy a generar? algunas de ellas con mi profesor evaluador para que quede registrado
+
+los acuerdos que hayan llegado y otras actas que lo podemos generar con otro profesor del curso
+
+que no sea obviamente su profesor evaluador o también podría ser un profesor de la carrera
+
+cierto? ajeno al curso o también podría ser un profesor ajeno a la universidad, cierto? bueno un profesional ajeno a la universidad
+
+dependiendo obviamente de su proyecto, puede ser que usted necesite alguna asesoría de alguien, de algún profesional externo
+
+entonces se puede generar una acta de asesoría
+
+ahora cuando se generen estas actas de asesoría, bueno como el curso es presencial, lo ideal es que las actas se generen de forma precisa
+
+ahí está bueno también está como archivo el acta que se tiene que generar
+
+y bueno esa acta la firma los alumnos y también la firma el profesor evaluador
+
+esa acta se escanea y se va a subir a su portafolio digital que va a tener cada grupo, ya les voy a decir algo respecto al portafolio
+
+esa acta que está digitalizada puede estar en formato JPG o en formato PEDE
+
+ojo a, miren a, el nombre del acta tiene un nombre, tiene una estructura
+
+el número de acta, el profesor con quien ha generado el acta y la fecha
+
+si no lo ponemos así en el portafolio hay penalidad, si? por todo se baja a punto
+
+sobre la nota general, ojo que esta penalidad es sobre la nota total
+
+entonces no es poner, ah ya yo subo el bongo, acta uno, después no sé, la primera, etc, no, tiene un formato, hay un formato
+
+bien, ahora, puede darse el caso, bueno en este caso no es una sección virtual
+
+pero puede darse el caso de que hay algún paro o algo en que la clase se haga de manera virtual
+
+entonces si la clase se hiciera de manera virtual entonces obviamente se puede generar una asesoría de forma virtual
+
+o también de repente con ese especialista o ese profesor que no es del curso
+
+puede generar también una asesoría virtual y por lo tanto ahí generarían el acta correspondiente
+
+está bien, la idea, o digamos que generan el acta, ojo en este caso ya no tengo que llenar
+
+físicamente o mejor dicho ya no tengo que llenar esa hoja, el formato del acta está acá
+
+bueno también está ahí en el reglamento pero acá está, acá está el acta
+
+se pone la fecha, la hora, el profesor especialista, los alumnos y bueno acá se ha colocado hasta tres preguntas
+
+pregunta, respuesta, pregunta, respuesta, pregunta, respuesta
+
+ahora no necesariamente tiene que tener llenar las tres preguntas, suficiente puede ser
+
+con dos preguntas ya es un acta valido, uno, segundo, ahí no indica en el reglamento
+
+o sea el acta de asesoría no es preguntar si va a llover cierto al fin de semana,
+
+cuántas actas tenemos que subir al sistema, no, se supone que es en parte técnico
+
+entonces ya y ustedes son los que tienen que proponer las preguntas
+
+no, yo no le voy a decir al profesor que quiere que le preguntes
+
+ustedes ya tienen que venir con sus propuestas de preguntas
+
+o también si es de forma virtual ya tendrían que tener sus preguntas
+
+y el profesor de acuerdo a esas le responderá, ¿cierto?
+
+ustedes lo llenan, ¿cierto? ustedes llenan y si es en formato digital también igual
+
+y con eso el profesor les indica, valida que las respuestas que él ha dado son
+
+lo que ustedes han mencionado acá y bueno en el caso de que sea presencial
+
+el profesor firmará y en el caso que sea digital, ¿qué va a pasar?
+
+ustedes que está la transcribida en el correo, ¿ok?
+
+la tipea tal cual vamos a decir ¿no? fecha, horarios, hora de inicio, duración
+
+el profesor fue dos puntos tal, el alumno uno tal, el alumno dos
+
+a la pregunta número uno tal, la respuesta del profesor tal, algo así
+
+bueno no se ve tanto acá, yo le he puesto acá, hay un ejemplo de alta de asesoría
+
+por ejemplo acá, bueno ellos también mandaron
+
+pero la idea no es que manden el acta, yo la descargue, la firme, yo otra vez la vuelva a subir
+
+¿para qué? la idea es que miren ahí está, ¿verdad?
+
+el profesor recibió el acta, fecha, profesor, alumno y le traen
+
+¿cierto? a eso me refiero con las tipeas
+
+me mandan banda en el correo y lo único que voy a hacer que es
+
+obviamente leo el correo y como voy a decir, conforme
+
+ya está, esa es como una firma y ustedes simplemente van a tomar una captura de pantalla
+
+obviamente bueno, que se vea todo cierto, barcaya porque está acá
+
+¿cierto? y de acuerdo a eso, esa captura de pantalla la guardan en el formato
+
+y la suben al correo, que ahorita ya vamos a ver qué es el correo
+
+esas son las actas de asesoría
+
+¿cierto? hay alguna consulta
+
+profesor, una consulta
+
+no entendí, bueno no estuve tan tratando
+
+pero entendí de que también se pueden recibir altas de otros especialistas de afuera
+
+¿qué pasaría si alguien se encuentra, digamos no dentro del país
+
+se podría hacer tema virtual?
+
+si claro, por supuesto, si ha habido ese caso
+
+o sea, no hay problema
+
+obviamente como el profesor del curso
+
+si por A o B yo tengo una asesoría como algún otro docente que está fuera del curso
+
+entonces hago esa alta de forma virtual
+
+ahora otra cosa
+
+si es de forma virtual
+
+¿cierto? si es de forma virtual
+
+bueno también podría ser
+
+también otra cosa que se ha dado
+
+también es que bueno ya estamos en la asesoría
+
+¿cierto? presencialmente como hoy supongamos
+
+y agarramos y no pedimos tiempo ya para llenar el arte
+
+le digo ya profesor, le voy a mandar de manera virtual
+
+¿no? pues si el profesor acepta
+
+no hay problema
+
+o si el profesor te dice no, genera lo acá o lo llevas hasta el sitio
+
+o eso es otra cosa
+
+¿está bien?
+
+bueno, ¿qué pasa si ya, ok, vas a mandarlo de manera virtual?
+
+que día estamos hoy día? martes, ¿cierto?
+
+se supone que debe, ahí lo indica en el reglamento
+
+deben mandarlo el mismo día
+
+deben mandar el acta el mismo día
+
+pero ¿qué es lo que sucede?
+
+pues en el caso de ustedes es que hacen el martes
+
+¿por qué así mandan el acta cuando? el día martes
+
+perdón, el día domingo por la noche
+
+o lo mandan el día lunes
+
+cuando tenemos el martes
+
+lo mandan el lunes a las 10 de la noche
+
+profesor, le envío el acta para su pronta respuesta
+
+¿no?
+
+entonces espera
+
+¿y por qué?
+
+porque al día siguiente, que en la evaluación martes
+
+hay que subir un número respectivo de actas como mínimo
+
+porque si no subo ese número de actas
+
+tengo que mandar
+
+¿no?
+
+entonces si lo mandan contrapuntos
+
+y después dicen no, el profesor tiene la curva porque no me ha respondido
+
+entonces por eso se indica que se debe enviar el acta
+
+si el profesor le responde
+
+así ustedes lo manden tarde
+
+y el profesor le responde
+
+y bueno
+
+pero si el profesor no le responde
+
+ya no le responde el profesor
+
+¿ok?
+
+y eso es lo que dice el reglamento
+
+entonces siempre pasa
+
+por eso les comento
+
+y aparte
+
+ustedes pues también
+
+sé que tienen otras cosas que hacer, etc
+
+y se les pasa
+
+mejor ese mismo día
+
+que generan la asesoría
+
+hagan la notar
+
+si ustedes lo mandan hoy día martes
+
+el profesor no le responde
+
+ustedes le mandaran otro correo
+
+profesor le he mandado el acta
+
+por favor para que me de la conformidad
+
+bueno, ya
+
+si ese no le responde
+
+bueno ya no hay problema
+
+pues ustedes han cumplido
+
+a enviar con su debido tiempo
+
+ya no sería digamos ahí
+
+si no habría problemas
+
+digamos de algún reclamo
+
+¿ok?
+
+bueno, consulten
+
+bien, regresamos acá entonces
+
+bueno, todo eso lo menciono acá
+
+acá está el número de actas
+
+que se debe presentar durante el ciclo
+
+el mínimo número
+
+el número mínimo
+
+si alguien desea salir, hablar por teléfono
+
+ir a los servicios
+
+pedimos permiso
+
+¿si? para todos
+
+no hay problema si ustedes quieren salir
+
+tienen que ir a los servicios ¿cierto?
+
+o desean hablar por teléfono, etc
+
+pedimos permiso
+
+bien
+
+acá está el número de actas
+
+mínimo que se debe presentar durante el ciclo
+
+ojo, miren ah
+
+para la práctica 2
+
+la práctica 1 no se pide actas
+
+¿si? la práctica 1 de la semana 3
+
+ya vamos a ir armando
+
+para la práctica 2, la práctica 2 de la semana 5
+
+de la semana 6
+
+¿cuántos actas se piden?
+
+1, eso no quita
+
+que ya ustedes si quieren
+
+hacer más clases
+
+puedan generar alguna
+
+no hay problema
+
+pero no se les va a pedir como requisito
+
+para la evaluación de la práctica 1
+
+recién ¿dónde me piden una acta?
+
+en la práctica 2
+
+después en el examen parcial
+
+o el trabajo parcial
+
+¿cuántas actas me piden?
+
+3, 3 en total
+
+3 con el profesor de valor 2
+
+¿eso qué quiere decir?
+
+que si yo genero una acta con otro profesor
+
+o con un profesor
+
+o un profesional externo
+
+no tiene validez
+
+porque acá hasta el parcial
+
+todas las actas tienen que ser con
+
+el profesor, su profesor
+
+de valor
+
+acá por su caso
+
+hay un error, acá es 8
+
+pero acá es 6 y 2
+
+para la exposición de la práctica 3
+
+son 6 actas
+
+5 con el profesor de valor 2
+
+y ya una con otro profesor del curso
+
+el trabajo final
+
+son 8 actas
+
+6 con el profesor
+
+acá no es 7 por su caso es 6 con el profesor de valor 2
+
+y 2 con otro profesor del curso
+
+¿está bien?
+
+ojo, todas son acumulativas
+
+no quiere decir que si yo cambio
+
+todas estas se van a acumular
+
+en total
+
+al final del ciclo
+
+tenemos que tener
+
+tenemos que tener como mínimo
+
+como mínimo 8
+
+no hay número
+
+¿está bien? ¿está claro?
+
+la primera acta debe ser de
+
+con el profesor de valor 2
+
+hasta el parcial todas esas actas
+
+debe ser con el profesor de valor 2
+
+si yo genero una alta con otro
+
+profesor
+
+porque necesito la generé
+
+o con alguien externo la puedo ir subiendo
+
+pero no cuenta dentro de
+
+esto de acá es cuando
+
+se evalúa
+
+las prácticas se revisa esto
+
+porque si no cumplo con esto
+
+hay penalidad
+
+la penalidad máxima por no presentar al profesor
+
+es hasta de menos 3
+
+sobre la nota final
+
+para la exposición a práctica 2
+
+se puede presentar una acta
+
+que sea de otro profesor
+
+pero para la siguiente tiene que estar detrás
+
+de tu evaluador
+
+va sumando, acá hay 3, acá hay 5
+
+si ya tuviste 3 acá te faltan 2 más
+
+y él tiene las 5
+
+y la sexta
+
+si o si la tengo que generar
+
+con otro profesor del curso
+
+o otro profesor
+
+que no es del curso
+
+obviamente de la universidad
+
+o también podría ser ojo con un profesionalista
+
+algo que se consulta
+
+puede ser un técnico especial
+
+puede ser, por supuesto
+
+en algunas áreas
+
+ellos tienen muchos más conocimientos
+
+por eso acá dice no
+
+se acepta también un número máximo de dos actas
+
+en todo el ciclo con profesores
+
+o profesionales externos
+
+que pueden contabilizar con más actas de otro profesor
+
+y este último solo será
+
+consignar la especialidad del profesor al que atendió el grupo
+
+y el número de registros del colegio
+
+o la institución profesional
+
+está bien
+
+una última consulta
+
+se puede correr con las actas
+
+antes de la PC2
+
+yo puedo usar 4 actas antes de la PC2
+
+y ya mostrarlo luego en el parcial
+
+o sea
+
+estamos en la práctica 2
+
+y tú ya puedes tener 5 actas
+
+lo ideal es
+
+se supone que la idea es
+
+ir conforme se va avanzando
+
+y generando las actas
+
+lo que normalmente pasa
+
+y que no debe ser así
+
+es que esperamos hasta la última semana
+
+previa de evaluación
+
+para recién generar las actas
+
+se supone que las actas se deben generar acá
+
+en el salón de clase
+
+en el ciclo pasado eran 10
+
+y coincidía toda con las clases
+
+pero ya bueno ya
+
+se ha bajado esa vez a 8 en total
+
+ok
+
+entonces la próxima
+
+semana que la semana 2
+
+ya deberíamos
+
+ya deberíamos tener
+
+asignado
+
+el profesor Evaluador
+
+entonces ya ustedes pueden tener su primera
+
+digamos reunión con el profesor Evaluador
+
+y pueden generar
+
+alguna
+
+entonces
+
+la idea es eso
+
+conforme van avanzando van generando
+
+había también algún compañero
+
+que generaba actas, coleccionaba
+
+entonces cada
+
+un acta, profesor que tal como está
+
+acta y así no
+
+ahí también dice que el profesor va a decidir
+
+si eso vale como acta o no
+
+ok
+
+entonces no esperemos al último
+
+y lo que estaba mencionado
+
+la idea también es
+
+acá en el curso
+
+dentro del horario de clase mejor dicho
+
+porque después puede ir a buscar
+
+profesor en que salón va a estar
+
+están haciendo la guardia del profesor en otro curso
+
+cierto
+
+salvo que el profesor por a o b
+
+en ese día no lo puede atender y les indica
+
+ok vayan estoy en el salón
+
+perfecto
+
+pero la idea es que las actas se
+
+generen dentro del
+
+horario de clase
+
+así mismo también
+
+la idea también es generar
+
+como cuando tal dice como otro profesor
+
+obviamente estamos hablando de otro profesor
+
+del curso, cierto
+
+si ustedes desean generar como otro profesor que no es del curso
+
+cierto, bueno ya ahí
+
+tiene que verse el profesor
+
+como no es del curso si los desea atender
+
+o no los desea atender
+
+cierto
+
+ya eso también va a depender de eso
+
+bien
+
+cada proyecto va a tener
+
+asignado un
+
+portafolio digital
+
+ese portafolio digital
+
+yo se lo voy a compartir
+
+ok
+
+el portafolio digital va a estar en el one drive
+
+y para eso necesito
+
+que todos coloquen correctamente
+
+su correo
+
+sus nombres para poder
+
+asignarles a cada grupo
+
+ahí voy a mostrar
+
+el ejemplo del portafolio para que ustedes lo vean
+
+ok
+
+ustedes tienen acceso a ese portafolio
+
+solamente tienen acceso a ese portafolio
+
+los alumnos
+
+integrantes del grupo
+
+y su profesor evaluado
+
+nadie más tiene acceso a ese portafolio
+
+está bien
+
+bueno y yo que administro el resto
+
+pero bueno ya eso es
+
+digamos personal de cada grupo
+
+ya
+
+así mismo también no pueden modificar
+
+la información que está en el portafolio
+
+si ustedes ya subieron cierta información
+
+y ya esa información
+
+ha sido evaluada
+
+yo no puedo borrar nada
+
+si yo borro información
+
+que ya está en el aula virtual
+
+etcétera sea
+
+informes, ppt,
+
+audios,
+
+actas, fichas de evaluación
+
+eso tiene una penalidad
+
+de acuerdo ya ahí se aplica
+
+el reglamento de disciplina
+
+de la universidad
+
+ok
+
+pueden visualizar sus carpetas
+
+revisar la información cierto
+
+actualizarla
+
+donde se le ha dado el permiso de edición
+
+y de acuerdo a ello es la responsabilidad de cada alumno
+
+mantener sus carpetas actualizadas
+
+ok
+
+es una falta grave repito
+
+eliminar información de las carpetas
+
+sin la autorización del conocimiento
+
+está bien
+
+bien
+
+durante el planeamiento del proyecto
+
+se debe tomar en cuenta el aspecto legal
+
+el aspecto de impacto ambiental
+
+normas técnicas
+
+tengan en cuenta respecto
+
+a el tema que van a
+
+plantear
+
+tiene que estar de acuerdo en las tornas
+
+por tanto cualquier componente o sistema
+
+o procedimiento que sea considerado
+
+en el proyecto deberá tomar en cuenta
+
+es importante
+
+por ejemplo
+
+este
+
+si alguien va a querer hacer
+
+alguna
+
+alguna máquina
+
+algún equipo que produzca
+
+aceite de cannabis
+
+hay que seguir
+
+cualquiera no lo puede hacer
+
+hay que seguir un protocolo
+
+hay que tener permisos
+
+no
+
+otra
+
+no es que está prohibido
+
+pero no se plantean proyectos
+
+que involucren drones
+
+si el proyecto que ustedes van a plantear
+
+tiene que ver con drones
+
+uno de los dos integrantes
+
+tiene que tener su licencia
+
+recordemos que ahora se pide
+
+licencia para volar el drone
+
+entonces
+
+si uno de los autores no tiene la licencia
+
+entonces el proyecto
+
+no va
+
+eso hay que tenerlo en cuenta
+
+ya hay permiso
+
+el permiso del MTC
+
+es dependiendo donde voy a volar
+
+eso no es el problema
+
+el problema si es que la persona que vuele
+
+tiene que tener
+
+licencia
+
+lo del permiso donde voy a volar
+
+yo lo puedo volar en mi casa
+
+no es un área restringida
+
+pero si tiene que tener
+
+licencia
+
+está bien
+
+los dos integrantes del grupo
+
+suficientemente
+
+ahora si dicen
+
+no profesor
+
+si lo voy a sacar
+
+si no lo llega a sacar hasta el trabajo final
+
+y así cualquier otro tema
+
+que tenga que ver
+
+con algún permiso
+
+por ejemplo
+
+el ciclo pasado
+
+el proyecto de investigación
+
+hay un proyecto de
+
+electrónica que va a trabajar
+
+por ejemplo con leche materna
+
+y lo primero que yo le digo a los chicos
+
+es donde van a sacar
+
+la leche materna para sus pruebas
+
+y todo eso
+
+no es cuestión de que si tengo algún familiar
+
+o alguna amiga
+
+que de repente
+
+eventualmente durante el superior
+
+de lactancia
+
+no es así
+
+uno por un tema que eso es muy variable
+
+y otro
+
+eso es un corto tiempo
+
+y otro si yo
+
+después
+
+la idea es que todos después
+
+en proyecto 1 o 2 van a generar un artículo de investigación
+
+y yo voy a indicar
+
+que estoy trabajando con leche materna
+
+y lo primero que me van a decir
+
+y como has obtenido la leche
+
+la leche etc
+
+etc
+
+entonces los chicos que han tenido que hacer
+
+hay un banco de leche
+
+y han obtenido los permisos
+
+para que les puedan brindar las muestras
+
+indicando lo que va a ser
+
+para una investigación
+
+entonces
+
+son obviamente
+
+proyectos particulares
+
+no necesariamente
+
+vamos a hacer así
+
+pero para que lo tengan en cuenta
+
+para que lo tengan en cuenta
+
+bueno
+
+esto ya lo había mencionado al respecto
+
+a lo que se pueda basar el proyecto
+
+es una idea completamente nueva
+
+o
+
+darles un valor agregado
+
+que es lo que normalmente que puede ser
+
+en la parte de hardware o software
+
+que es normalmente lo que está orientada
+
+en las tesis de pregrado
+
+no se puede copiar
+
+y presentarlo parcialmente
+
+procesos de diseño de internet
+
+y presentarlo como propuesta del proyecto
+
+digamos que ahora
+
+es un poco tonto decir
+
+ya he encontrado un artículo
+
+justamente lo que yo quiero
+
+y ese artículo no se me enseña el profesor
+
+demuestro el resto todo
+
+pero no le enseño
+
+ahora es muy fácil buscar información
+
+y puede encontrar
+
+se puede encontrar algo
+
+si uno no lo menciona
+
+simplemente se puede encontrar otro artículo
+
+ahora nosotros
+
+y eso no hay ningún problema
+
+obviamente siempre y cuando se cite
+
+nosotros podemos
+
+tener como referencia algunos
+
+artículos
+
+este artículo es exactamente lo que
+
+yo quiero hacer
+
+se cita, se menciona
+
+pero obviamente a partir de eso ustedes van a decir
+
+ah pero a este le falta tal cosa
+
+entonces eso es lo que se le va a agregar
+
+o se va a probar este
+
+como otro método nuevo etc
+
+entonces ahí no hay ningún inconveniente
+
+está bien entonces tengan cuidado
+
+por favor, bueno ya no ha pasado
+
+la verdad, último
+
+lo que ha pasado
+
+y yo les sugiero también que con su tema
+
+de investigación
+
+lo tengan
+
+sean prudentes
+
+es que
+
+justo en una sección
+
+presentan un tema de proyecto
+
+ok
+
+que pasó que ese compañero
+
+le comentó a otro compañero
+
+ah si yo voy a hacer esto
+
+que pasó el otro compañero estaba en otra sección
+
+y pensó que
+
+para suerte
+
+estaba conmigo
+
+y presentó lo mismo
+
+yo había tenido
+
+primero las esperas
+
+en el grupo que estaba conmigo
+
+y presentaron un tema
+
+y me pareció interesante
+
+después en otra sección
+
+donde también estaba
+
+y el grupo, ojo, ese grupo no estaba conmigo
+
+pero justo me pidió asesoría
+
+y me plantea lo mismo
+
+pero
+
+este tema ya está planteado
+
+¿quién ha sido el profesor?
+
+tala es lo mismo
+
+le había comentado eso
+
+entonces
+
+el aluno pensó que como estaban
+
+en secciones diferentes
+
+y yo no era el profesor evaluador
+
+entonces no se iba a dar cuenta
+
+después como van a ver
+
+ahí en la lista
+
+de la excel al final
+
+no ahorita todavía, vamos a esperar todavía
+
+la semana 15
+
+se van a colocar todos los temas
+
+de todos los proyectos
+
+y se supone que ninguno tendría que ser
+
+igual
+
+exactamente igual o muy muy parecido
+
+sí puede ser tal vez
+
+digamos en la misma área, etc
+
+pero lo pueden desarrollar por métodos diferentes
+
+etc
+
+pero tengan cuidado con eso
+
+sea
+
+digamos
+
+cauteloso
+
+y hasta que ya más adelante
+
+de repente a ella le pueden comentar
+
+su tema a su compañero
+
+que dice que es su amigo y todo pero después ya
+
+presenta también el ojo y el tema
+
+se supone que presente
+
+en primer lugar quien lo presenta
+
+ha pasado que
+
+creo que llevan el curso de
+
+sistemas envenido
+
+con el profesor Rubén
+
+vamos a ver si el profesor Rubén
+
+ha planteado
+
+temas
+
+ese tema lo voy a plantear
+
+por este investigación
+
+pero ese tema ya lo he escuchado
+
+y de donde salió el idea
+
+ah no, el profesor Rubén nos ha dejado en el curso
+
+entonces
+
+tengan en cuenta
+
+eso, ojo, alguno de los
+
+proyectos, no digo no todos, pero varios
+
+de los proyectos que se plantean
+
+en ese curso de mi curso
+
+u otros
+
+normalmente pueden ser temas
+
+pero que solamente aplican para
+
+tema de fin de curso
+
+no como tema de test
+
+si ha habido uno o dos temas
+
+que se han planteado ahí y han llegado
+
+ya está despatente
+
+o sea, tomaron ese tema
+
+se trabajó en proyecto de investigación
+
+por el proyecto 1, el proyecto 2
+
+como una publicación
+
+un producto final
+
+que sea patentado
+
+ok
+
+pero hay que tener en cuenta eso
+
+bien, bueno, acá está el acta
+
+que ya les había mostrado
+
+después
+
+un proyecto podrá ser mejor
+
+valorado y calificado, ojo
+
+que eso queda a criterio, ojo que eso
+
+es opcional, eso queda a criterio
+
+del profesor, si se cuenta
+
+con la participación genuina y formal
+
+a través de una carta de un patrocinador
+
+institución o empresa
+
+ok
+
+este
+
+ojo, eso queda a criterio del profesor
+
+no
+
+entonces, bueno, si ustedes están trabajando
+
+con alguna empresa, alguna institución
+
+no, etc, pues puede
+
+generar un acta cierto y bueno
+
+cumpliendo todo lo mencionado acá
+
+no
+
+ojo, no es obligatorio
+
+el profesor lo puede tomar en cuenta
+
+de repente darle algún plus
+
+y esto todavía se sumará
+
+esa nota o ese plus
+
+a la nota de trabajos finales
+
+porque esto dice
+
+debe ser entregada a lo máximo
+
+semana 15, no
+
+para que la semana 16 que es la evaluación
+
+de trabajos finales se tome impunidad
+
+está bien, y bueno acá hay un ejemplo
+
+de esa carta de compromiso
+
+ojo que es opcional
+
+no es obligatorio, antiguamente
+
+hace muchos años
+
+pero obligatorio que si o si
+
+todos los proyectos tengan un cliente
+
+ok
+
+y bueno parecía en las empresas del tío
+
+del amigo, etc, etc
+
+entonces bueno, ya no es obligatorio
+
+cierto, bueno
+
+después en caso de que, ojo, otra cosa
+
+si ustedes trabajan con alguna empresa
+
+alguna institución, obviamente esa
+
+empresa o institución les puede
+
+digamos tener
+
+algunos objetivos, cierto, allá yo deseo
+
+llegar o que se cumpla con eso
+
+pero, no
+
+hay que tener en cuenta eso, dicen no, en caso de que
+
+los objetivos del cliente impliquen el desarrollo
+
+de un proyecto netamente tecnológico
+
+un poco y generil, es decir
+
+no requieren conocimientos mínimos de diseño
+
+fundamentos y el tipo, etc
+
+se debe priorizar
+
+por encima de todo la parte y
+
+contribución respecto al
+
+estar ordenado, si
+
+o sea, no es que, ah no, pero la empresa
+
+solamente me pide hasta acá
+
+si, pero eso lo que te pide es algo
+
+sencillo, etc
+
+entonces, el profesor va a
+
+evaluar el proyecto, cierto
+
+el alcance que tiene el proyecto
+
+respecto a el estado
+
+y los aportes que ustedes obviamente
+
+mencionen ahí
+
+hay que tener en cuenta eso
+
+bien
+
+acá es lo que les he mencionado
+
+respecto a los profesores,
+
+cierto, profesor de curso
+
+digamos
+
+en este caso
+
+como les mencionaba
+
+inicialmente, vamos a tener una clase
+
+este
+
+digamos de introducción, para ir
+
+revisando el material
+
+que se tiene que desarrollar
+
+en todas las pautas
+
+respecto a las evaluaciones
+
+vamos a ir revisando como hago una búsqueda
+
+de artículos en Scopus, en Woz
+
+como trabajo, por ejemplo
+
+con el Sotero, que es un este
+
+para ver lo que son las
+
+referencias, las citas, etc
+
+ver la parte, por ejemplo, de patentes
+
+etc, etc
+
+y posteriormente vamos a tener
+
+las asesorías
+
+las asesorías son
+
+vinitalas por el
+
+bueno, por todo el proceso del curso
+
+pero cada grupo va a tener su profesor evaluado
+
+está bien
+
+esas asesorías, por ejemplo, que se van
+
+vamos a tener, va a durar
+
+debe de durar un máximo de 15 minutos
+
+por grupo, o sea, no es que media hora
+
+o una hora, recordemos que
+
+hay que atender a todos los grupos que pueda atender
+
+el profesor evaluado
+
+sus grupos, ¿cierto?
+
+entonces
+
+es necesario que los anuncios acumulen
+
+un número mínimo de actas, ya lo que hemos mencionado
+
+para que no sean pues penalizados
+
+los profesores del curso son los únicos autorizados
+
+para aceptar o no un proyecto
+
+quien decide si te acepta el proyecto
+
+o no, tu profesor evaluado
+
+está bien, así mismo
+
+el responsable de ingresar su nota
+
+al sistema
+
+de la nota que ustedes van a tener por cada evaluación
+
+es su profesor evaluado
+
+está bien
+
+entonces, bueno
+
+obviamente en mi caso yo voy a ser
+
+responsable por no ser de los grupos que estén
+
+que esté yo como profesor evaluado
+
+pero yo no soy responsable
+
+de los grupos, está bien
+
+bueno, ahí está
+
+respecto al seguimiento
+
+obviamente los profesores
+
+nosotros estamos coordinando y viendo cómo van
+
+los avances de todos los proyectos
+
+bien, los entregados
+
+vamos a revisar acá específicamente
+
+con respecto a la exposición 1
+
+ya después vamos a ir
+
+revisando la exposición 2
+
+cuando va a ser la exposición 1
+
+la primera evaluación
+
+la primera evaluación es la semana 3
+
+si, vamos semana 1
+
+la semana 3 va a ser la primera evaluación
+
+que es lo que se va a presentar
+
+en esta evaluación
+
+en esta evaluación ustedes van a presentar
+
+sus propuestas
+
+o su propuesta de tema de
+
+su proyecto
+
+está bien
+
+solamente en esta evaluación pueden presentar
+
+hasta dos propuestas
+
+ok
+
+si tiene ojo
+
+no quiere decir que si uno presenta una propuesta
+
+y otro presenta dos
+
+el que presentó dos tiene más nota
+
+si ya ustedes
+
+tienen su tema claro
+
+y no han conversado previamente
+
+con algún profesor y es indicado que si
+
+que me parece interesante el tema
+
+etc, etc
+
+pues pueden presentar ese único tema
+
+y si ustedes de repente no están tan seguros
+
+cierto
+
+prefieren presentar por lo menos
+
+dos para ver cual de los dos
+
+puede quedar
+
+pero es máximo
+
+dos propuestas
+
+y solamente es en esta primera evaluación
+
+si en esta primera evaluación
+
+si no lo aceptan en ninguno de los dos temas
+
+no hay problema
+
+vuelven a presentar otro tema en la siguiente evaluación
+
+cierto que es la
+
+la practicada
+
+y si vuelven a rechazar no hay problema
+
+lo presentan en el parcial
+
+y si vuelven a rechazar no hay problema
+
+lo presenten en la practica 3
+
+ahí si se preocupan
+
+porque si no lo aceptan en la practica 3
+
+pues ya jalaron el curso
+
+porque ya no se puede presentar en el trabajo final
+
+ok
+
+eso ha pasado
+
+bueno
+
+es el uno por ciento
+
+la mayoría
+
+no hay problema
+
+presenta su tema
+
+se le aprueba de repente a veces
+
+todo bien si en la primera practica ya se me aprueba el tema
+
+perfecto
+
+lo normal la media por así decirlo
+
+es en la practica 2 o parcial
+
+no se preocupen que todo
+
+es acumulativo
+
+está bien
+
+pero
+
+a partir de la practica 2 en adelante
+
+o la exposición 2 en adelante
+
+solamente pueden presentar
+
+un solo tema
+
+la única opción que pueden presentar más de uno
+
+es hasta dos
+
+es en la exposición
+
+que se debe presentar en la exposición 1
+
+el archivo ppt de las dispositivas
+
+eso ya ahorita vamos a ver
+
+que hay un formato
+
+el archivo tiene un nombre en particular
+
+tiene que llevar este nombre
+
+sí
+
+exposición 1 ppt pi
+
+la sección que es el nrc
+
+semestre 2026
+
+2 0
+
+apellido
+
+primer apellido del integrante 1
+
+primer apellido del integrante 2
+
+así
+
+pero si yo no me da gana y lo pongo
+
+diferente penalidad
+
+poner de otra forma
+
+está bien
+
+así mismo como la ppt
+
+eso está la dispositiva
+
+voy a presentar la dispositiva
+
+pero ya no en ppt sino en pdf
+
+de ahí
+
+el informe, el informe está en word
+
+también tiene un nombre específico
+
+cierto y también
+
+presento el informe en formato pd
+
+entonces hasta ahí tengo
+
+4 archivos
+
+se pide en pdf porque a veces si se abre
+
+línea se
+
+mueve todo dependiendo de la versión
+
+entonces por eso montamos también
+
+pdf
+
+para que no haya ese problema
+
+bueno, ojo
+
+solamente en esta evaluación
+
+ya ustedes saben que el curso es de
+
+forma presencial
+
+y las evaluaciones son
+
+síndrome, ojo las evaluaciones son
+
+síndrome pero
+
+solamente en la exposición 1
+
+ustedes van a presentar
+
+un video con su
+
+exposición
+
+es decir yo agarro
+
+no sé pues utilizo el
+
+mid, el pins, el zoom
+
+el webex o cualquier
+
+otra plataforma o el obs
+
+como quieran, cierto
+
+y comparten su
+
+dispositiva y cada uno expone
+
+esa dispositiva
+
+y
+
+descargan el video
+
+cierto y ese video
+
+lo cargan a su
+
+repositorio y lo que comparten
+
+es el enlace
+
+no es el video
+
+si yo subo el video
+
+hay penalidad si suben el video
+
+no es el video
+
+es el enlace
+
+ahorita voy a poner un ejemplo
+
+solamente en esa evaluación
+
+no necesitan que los dos integrantes
+
+estén físicamente en un mismo lugar
+
+cada uno puede estar en su casa
+
+se conectan, cierto
+
+obviamente no solamente
+
+los únicos tienen acceso a
+
+esa sesión
+
+comparten la dispositiva
+
+prenden la cámara porque hay que estar con la cámara
+
+encendida de la webcam
+
+y hacen la exposición
+
+está bien
+
+en eso consiste
+
+la evaluación
+
+porque esa evaluación
+
+es de esa forma porque
+
+generamos otra
+
+sesión de evaluación
+
+sincrona pues perderíamos
+
+otras clases
+
+porque cuando hay evaluación
+
+no hay clases
+
+no es que hacemos clases y después viene la evaluación
+
+no, los días que hay evaluación
+
+no hay clases
+
+solamente se viene a su evaluación
+
+a su exposición
+
+y se puede retirar
+
+o puede ser en algunos casos también que esa evaluación
+
+sea de forma virtual
+
+pero sin
+
+pero sin
+
+está bien
+
+alguna consulta
+
+duda
+
+la primera consulta virtual
+
+se puede grabar en la exposición en ese momento
+
+para poder grabar
+
+claro que lo van a grabar en ese momento
+
+ustedes, es que esa evaluación
+
+ese video no es
+
+la evaluación no es sincrona
+
+esa sincrona, usted lo graba
+
+usted lo graba, el enlace puede estar de
+
+youtube, no
+
+menos youtube, está bien
+
+porque no youtube
+
+cierto, recordemos y eso
+
+lo vamos a ir viendo durante todo el curso
+
+recordemos que lo que
+
+si bien es cierto acá, formulamos
+
+y vamos a evaluar, porque evaluamos
+
+artículos, porque evaluamos patentes
+
+porque de eso nosotros
+
+lo que vamos a hacer es buscar
+
+generar con nuestro trabajo
+
+un artículo de investigación
+
+generar una patente también
+
+de ser posible, o no digo que si o si
+
+debe ser, pero de ser posible generar
+
+una patente, está bien
+
+entonces, por temas de
+
+confidencialidad, lo ideal es mejor
+
+así sea el youtube en
+
+privado, está bien
+
+entonces lo mejor es
+
+graben ustedes, descargan
+
+el archivo, lo suben a su repositorio
+
+sea OneDrive,
+
+Media, lo que puede ser
+
+y compartan
+
+está bien, a ver
+
+una consulta
+
+anteriormente dijo que eran 12
+
+se podían presentar los temas
+
+esos temas son por
+
+grupo
+
+y por lo tanto
+
+dijo que se presentaba
+
+para la exposición
+
+en ese video presentan las dos, si van a presentar
+
+dos propuestas, las dos propuestas
+
+y sobre las PPT, las PDF
+
+también aparte
+
+de cada tema o solamente uno
+
+acá ven
+
+ya que estamos acá en la exposición
+
+acá está la plantilla
+
+ya está todo listo ya
+
+para que ustedes
+
+dado que de repente
+
+un grupo lo hacía con su fondo
+
+amarillo paquito
+
+otro lo hacía con otro color azul
+
+entonces ya está
+
+uniformizado la exposición
+
+y también acá ya están
+
+todos los ítems que debe tener
+
+cada dispositivo, así que yo no
+
+no tengo que inventarme
+
+no tengo que ponerme a
+
+como lo presento, qué presento
+
+ya está acá la estructura de la
+
+lo único que tienen que hacer ustedes es llenar
+
+la información, está bien
+
+acá ya está
+
+apellidos y nombres
+
+y obviamente tienen que ponerle a NRS
+
+y obviamente
+
+ya para esa fecha ya van a saber su profesor
+
+evaluador, colocarán el nombre del profesor evaluador
+
+ojo a mes y el año
+
+cierto, ya está
+
+siguiente dispositivo
+
+distribución de tareas, ojo
+
+esta es la distribución de tareas, seis puntos
+
+y acá ya está todo esto, acá
+
+lo único que ustedes iban a cambiar
+
+de repente los dos íntegres
+
+el que va a ver la propuesta del tema de investigación
+
+pondrán el nombre y apellido de SLS
+
+si los dos van a ver la propuesta
+
+entonces pondrán los dos nombres
+
+y así, está bien
+
+ojo a mes
+
+primera propuesta del tema de investigación
+
+ahí está
+
+si hubiese otra segunda propuesta
+
+entonces hay esta dispositiva
+
+cierto, segunda propuesta
+
+y acá lo mismo
+
+ojo, si no hay segunda propuesta
+
+se elimina esta dispositiva
+
+no vayan a mantener esto
+
+lo digo porque ya lo han hecho
+
+bien
+
+propuesta uno
+
+ya está, entonces tema de propuesta uno
+
+el tema de la propuesta
+
+ojo, todo lo que va a estar en azul
+
+es un comentario que ustedes van a borrar
+
+está más adelante
+
+pero bueno, es para que tengan una idea
+
+normalmente siempre voy a colocar
+
+desarrollo de
+
+un sistema, un equipo
+
+un software, un hardware
+
+o una máquina
+
+etcétera
+
+solamente es colocar el tema
+
+nada más
+
+que otra cosa más
+
+descripción e importancia del problema a resolver
+
+entonces, que está pasando
+
+donde ocurre el problema
+
+ojo, es contestar, acá lo dicen
+
+no está en azul, esto no se debe borrar
+
+deben contestar esas preguntas
+
+y por eso acá no debe contestar cada uno
+
+de los ítems, la descripción del problema
+
+debe estar sustentada
+
+ahí también colocan eso
+
+de ahí viene la importancia
+
+igual, contestan estas preguntas
+
+por qué el problema es relevante, qué consecuencias trae
+
+a quién beneficia resolverlo
+
+qué aporta al conocimiento
+
+no solamente es ya solucionar el problema
+
+sino desde el punto de vista
+
+digamos, qué método puede aplicar
+
+o qué nueva técnica se podría mejorar
+
+entonces debe contestar, igual cada uno de los ítems
+
+importa el problema de estar sustentado
+
+dice, breve descripción de la solución
+
+propuesta para resolver el problema
+
+hay que explicar cuál sería la contribución
+
+en este caso, o sea, yo hago la descripción
+
+ojo, breve descripción
+
+una o dos diapositivas
+
+pueden colocar imágenes, ciertas figuras
+
+etcétera
+
+después, la viabilidad
+
+ojo, esto es importante, contestar estos cuatro puntos
+
+viabilidad técnica
+
+se puede resolver con herramientas
+
+o sea
+
+la viabilidad técnica tiene que ver con que
+
+tengo los
+
+conocimientos
+
+los dispositivos
+
+para poder
+
+desarrollar el proyecto
+
+cierto
+
+entonces, no quiere decir
+
+sí, se afirma
+
+se tiene en cuenta
+
+los conocimientos de los alumnos
+
+integrantes del grupo, tienen los conocimientos
+
+necesarios para resolver el problema
+
+la parte económica
+
+el costo es asumible
+
+no necesitan hacer un cuadro
+
+económico
+
+pero deben tener alguna idea
+
+respecto a la parte económica, cierto?
+
+bueno, si un proyecto cuesta
+
+50.000, 60.000 soles
+
+y ustedes lo pueden asumir
+
+perfecto, ustedes dirán, sí, sí
+
+ojo, no necesito poner
+
+montes
+
+pero eso entiende que de acuerdo a lo que están
+
+planteando
+
+esto de acá se va a volver a preguntar más adelante
+
+este es un premio
+
+para la primera parte
+
+la viabilidad temporal
+
+lo que tiene que ver esto
+
+dice, se puede completar en un determinado tiempo
+
+cuanto tiempo tienen para desarrollar proyecto 1
+
+proyecto
+
+8 meses
+
+8 meses, cierto?
+
+4 veces de proyecto 1
+
+4 meses de proyecto 2
+
+promiverano
+
+es mentira, no avanzan nada
+
+son muy pocos grupos
+
+los que hemos terminado
+
+proyecto 1 en diciembre, cierto?
+
+y aquí van avanzando
+
+viene marzo, comenzamos marzo
+
+y hay que es avanzado
+
+profe lo he dejado ahí todo
+
+entonces algunos
+
+se han avanzado, otros no, pero que fin
+
+entonces
+
+lo que ustedes van a
+
+presentar, cierto? lo que ustedes van a
+
+proponer, se puede hacer en esos
+
+8 meses
+
+más que todo
+
+no es que les falte tiempo
+
+la cosa es que a veces
+
+digamos plantean que su proyecto
+
+es muy extenso
+
+que no lo van a poder terminar
+
+en los 8 meses
+
+bueno, ya si quieren quedarse más tiempo, ya eso es un problema
+
+no es cierto, pero tienen que ver eso
+
+si, profesor el tema de la viabilidad
+
+económica en el peso
+
+que la empresa pueda subir en cierta parte
+
+o en la totalidad del proyecto, tenemos que presentar algún tipo de cuento
+
+acá no
+
+acá ustedes dirán, si se cuenta con
+
+los recursos de conocer, los alumnos
+
+y aparte se pueden indicar si es así
+
+se tiene un patrocinio
+
+de una empresa, etc
+
+acá secreto, ojo que ustedes
+
+se supone que están
+
+asegurando todo eso
+
+esto es para
+
+plantear el problema, cierto?
+
+y el profesor Revalvador obviamente lo va a
+
+revisar, perfecto
+
+todo bien, pero más adelante
+
+ya si se
+
+justifica todo eso
+
+con documentos y todo
+
+pues ahí si tu mentises acá, o de gente
+
+bueno, una mentira pide dos a siete
+
+bueno, después vas a tener que poner costos y todo eso
+
+y si no va
+
+y si no es viable, entonces el proyecto no va
+
+y si el proyecto no va
+
+no pasan de curso
+
+se supone que pasa el curso
+
+porque su proyecto está aprobado
+
+si el proyecto no está aprobado
+
+no es que bueno, ya el proyecto no lo provee
+
+pero pasa el curso, no
+
+y la verdad que la tasa
+
+de
+
+de que alguien no pase el curso
+
+es muy muy baja
+
+no hay
+
+este
+
+casos en que no
+
+voy a jalar el curso, miren los que
+
+de repente no lo han seguido bien
+
+es por dos cosas, uno porque
+
+de verdad que ha sido muy
+
+digamos
+
+se desatendió mucho
+
+de repente por otros cursos o por el trabajo
+
+y lo descuidó mucho
+
+no se cumplió con los entregables
+
+presentar a tiempo, etc
+
+ok
+
+y lo otro
+
+es porque cuál es la otra causa
+
+que a veces ha pasado
+
+en que quieren desarrollar
+
+un tema, un proyecto
+
+y ese proyecto, ese tema
+
+le dicen no va
+
+obviamente el profesor de valor
+
+les va a decir que ese proyecto
+
+no puede darse
+
+pero que ha pasado
+
+el grupo no que yo quiero hacer ese tema
+
+que yo quiero hacer ese tema
+
+entonces bueno, insiste, insiste
+
+insiste, insiste, insiste
+
+se le recomienda que no, pues cada uno ya toma la decisión
+
+entonces cuál es la forma
+
+para decirle al alumno que el proyecto
+
+no va
+
+desaprobarlo
+
+hubo un caso, bueno no ha sido último tampoco
+
+donde querían hacer
+
+un exespeleto completo
+
+entonces, y para suerte
+
+siempre me toca ese grupo
+
+y bueno se les dijo
+
+había temas de ética
+
+porque tenían que hacer pruebas en personas
+
+y bueno, se les dijo
+
+profesor que usted me está limitando
+
+que yo déjeme por favor ser
+
+cierto que yo ya he dicho todo el diseño
+
+ya el diseño lo he hecho con el profesor
+
+Sergio
+
+Sergio González Lincar
+
+para los de mecatrónica saben que es el profesor
+
+de diseño
+
+entonces, agarro y lo llamo al profesor
+
+de repente, de repente es cierto
+
+eso lo llamo al profesor Sergio
+
+le digo, nada es cierto
+
+tengo un alumno que dice que está llevando el curso
+
+ah, pero si el alumno no viene a clase
+
+me pregunto
+
+y cuantos alumnos tienes en tu clase
+
+él solo, por él solamente
+
+se había llevado el curso
+
+y encima el curso era presencial
+
+pero como él
+
+por el trabajo le pidió al profesor a ver
+
+si podían hacer la clase y ya se hizo virtual
+
+y no presentó
+
+no había planos, no había nada
+
+entonces, pero sin embargo
+
+se les comentaba, mire hay este problema
+
+vas a tener este inconveniente
+
+vas a tener un problema de ética
+
+respecto a que tienes que hacer pruebas en personas
+
+y eso es muy delicado
+
+etcétera, etcétera, etcétera
+
+pero él, el grupo, seguía y existía
+
+y seguía y existía
+
+bueno, conclusión, no y aparte de eso
+
+que hacía
+
+ya generaban alguna acta o una reunión conmigo
+
+y después iban con otro profesor
+
+y decían que yo había dicho otra cosa
+
+y comenzaban a hacer
+
+entonces en conclusión
+
+bueno, no pasaron el curso
+
+porque por enfrentarse
+
+cerrarse, que querían hacer eso
+
+tomen en cuenta
+
+las recomendaciones de su profesor
+
+por algo
+
+por algo
+
+el profesor le recojo, el profesor le recomienda
+
+no le va a decir no, pero bueno
+
+si siguen insistiendo
+
+bueno, puedo insistir tal vez una vez más
+
+cierto
+
+me refiero a que de repente
+
+el profesor puede tener alguna duda
+
+y bueno, ustedes buscan más información
+
+mejor su propuesta
+
+y tal vez ahí ha pasado
+
+ahora, tampoco tenemos que esperar
+
+hasta la evaluación, miren la práctica
+
+1 es en la semana 3
+
+la práctica 2 es en la semana
+
+5
+
+vamos a ver porque son 5 y 6
+
+entonces de repente
+
+yo en la semana 4 le justifico mejor
+
+al profesor, cierto, nuevamente
+
+si me dijo que no en la evaluación 1
+
+en la semana 4 le justifico mejor
+
+etcétera, etcétera
+
+y nuevamente bueno, si lo convenzo
+
+si digamos
+
+el profesor las dudas que tenía
+
+las absolvi y ya está
+
+y si vuelve a decir que no
+
+entonces le recomiendo
+
+cágnete
+
+y obviamente el profesor le va a indicar el porqué
+
+no de ese tema, etcétera
+
+entonces, la verdad
+
+esas son las dos causales posibles
+
+de que
+
+algún grupo
+
+integrante
+
+va a halar el curso
+
+está bien, después
+
+la mayoría, por no decir todos
+
+no es porque no pasa nada
+
+también porque no necesito
+
+aprender algo de memoria
+
+es una exposición
+
+tienen la ayuda de la diapositiva para exponer
+
+y se supone que es un tema
+
+que ustedes lo manejan
+
+normalmente tienen que hacer
+
+y la diapositiva, el informe
+
+lo hacen en grupo
+
+tienen cierto tiempo
+
+para ir buscando la información
+
+ahora tienen más herramientas
+
+su amigo en chat
+
+que ya vamos ahí viendo
+
+si lo puedo utilizar
+
+obviamente con la debida
+
+responsabilidad
+
+y todo eso
+
+no es problema
+
+bien
+
+bueno, acá seguimos
+
+y finalmente la videoperativa que tiene que ver con
+
+el acceso a los datos que necesite
+
+o si de repente
+
+no se puede sindicar
+
+si es que necesita por ejemplo alimentación trifásica
+
+tal vez mi equipo
+
+etc. o alguna
+
+infraestructura especial
+
+bien, ojo
+
+todo lo que está de color azul se debe borrar
+
+para que sirve para alimentar simplemente
+
+profesor, una consulta
+
+¿hay existe algún
+
+fondo económico de acá del OPC
+
+para soportar proyectos?
+
+un fondo que te dé dinero?
+
+o sea como que tú puedas concursar
+
+con tu proyecto y te pueden dar algún sorbento
+
+para poder darle esa habilidad económica
+
+si
+
+hay concurso de investigación
+
+pero ese concurso
+
+de investigación lo hace
+
+la universidad, cierto
+
+cada año ahora está haciendo
+
+un concurso
+
+ok, pero
+
+quien es el responsable de ese dinero
+
+que se asigna? el profesor
+
+así que
+
+si el profesor
+
+que puede trabajar
+
+como algunos alumnos
+
+tenemos proyectos específicos
+
+postulas que dan a los alumnos
+
+pero el responsable
+
+de todo es el profesor
+
+no los alumnos
+
+porque finalmente si no cumplen
+
+a quien
+
+lo votan no tiene a profesor
+
+el alumno no tiene
+
+pero eso de ahí
+
+normalmente
+
+se da en proyectos
+
+proyecto 1
+
+9
+
+está bien
+
+pero si hay fondos
+
+y la universidad también te apoya
+
+el tema de cuando
+
+digamos también hay fondos
+
+para lo que son las publicaciones
+
+porque las publicaciones también se pagan
+
+también te puede apoyar en los
+
+trámites todo lo que tiene que ver con patentes
+
+en la universidad hay varios alumnos
+
+que han sacado patentes
+
+y bueno todo ese gasto que hay que hacer
+
+coji
+
+gasto notarial y todo eso
+
+obviamente también
+
+y la universidad puede apoderar en ese sentido
+
+y te brinda
+
+esos fondos
+
+bien
+
+que más? bueno acá se ponen los
+
+productos comerciales
+
+que más?
+
+acá están las publicaciones, cuantas publicaciones
+
+deben colocar acá? 5
+
+publicaciones
+
+esto ya lo vamos a detallar más también en la próxima clase
+
+son 5 publicaciones
+
+y finalmente las
+
+obviamente si tengo dos propuestas
+
+termina el 6.1
+
+y comienza el 2.2
+
+el 1.2
+
+el 1.2, el 2.2, el 3.2
+
+y así
+
+de acuerdo con cómo está la
+
+distribución inicial
+
+profesor pero
+
+quiero una mejor idea
+
+también hay
+
+ejemplos
+
+solamente he bajado la ppt
+
+pero también está
+
+esto es un ejemplo
+
+del ciclo pasado
+
+porque el ciclo pasado ha habido cambios
+
+entonces el ciclo pasado hubo ejemplos
+
+del anterior pero era un distinto
+
+porque bueno
+
+el ciclo anterior hemos hecho
+
+algunas modificaciones
+
+entonces he tratado de agarrar
+
+digamos bueno uno de los grupos
+
+que obviamente ha venido la lleva conmigo
+
+no es perfecta
+
+no es perfecto
+
+pero bueno está bien ordenado
+
+es un proyecto
+
+un grupo de mecatrónica que
+
+tocó el ciclo pasado
+
+entonces
+
+está como ejemplo
+
+acá ellos presentaron solamente un tema
+
+ahí está la distribución de tareas
+
+ahí está su propuesta solamente
+
+bueno como digo uno
+
+de ahí miren
+
+la descripción del problema miren todas
+
+las figuras
+
+se usan figuras enumeradas
+
+a veces solamente ponen las figuras y
+
+tienen que enumerar las figuras
+
+si son ficaios que se usan figuras
+
+propias no había problema con referencia
+
+cierto
+
+están contestando cada una
+
+de las preguntas
+
+igual con la importancia
+
+bueno ahí la breve descripción de su solución
+
+la viabilidad
+
+técnica, económica, temporal, operativa
+
+acá está la tabla
+
+de productos comerciales
+
+entonces se les pide mínimo 3
+
+esto como ya no es
+
+una imagen de ellos
+
+ponen la referencia
+
+miren las tablas también están enumeradas
+
+cierto
+
+es la misma tabla 1
+
+sino que es otro 3
+
+porque acá pusieron que tengo que estar 4 o 5
+
+productos comerciales
+
+después están las publicaciones científicas
+
+cuánto se les pide 5
+
+1
+
+2
+
+3
+
+4
+
+y su referencia
+
+tienen ejemplos
+
+tienen la plantilla tanto del informe
+
+como de la diapositiva
+
+y tienen ejemplos también de la PPT
+
+para que tengan una orientación
+
+más cómoda
+
+tengan una idea de cómo lo que se hace
+
+ahora hay que respetar la plantilla
+
+si no se respeta la plantilla
+
+también hay penalidad
+
+para eso se ha hecho
+
+si no hay profesor
+
+y cómo lo hacemos
+
+si se hace la plantilla
+
+yo quiero hacerlo de otra forma
+
+hay ejemplos actualizados
+
+esa diapositiva tampoco
+
+que esté perfecta
+
+pero bueno
+
+es una idea
+
+por eso habla de referencia
+
+hay un ejemplo de referencia
+
+hay otras
+
+plantillas o ejemplos de otras carreras
+
+hay de varias
+
+yo solamente he colocado
+
+suficiente como una
+
+no voy a buscar de cada uno
+
+yo he buscado
+
+en particular porque son los que yo he evaluado
+
+entonces de todas las secciones
+
+porque todas las secciones son de todos los grupos
+
+he querido convener
+
+la idea
+
+lo único que puede
+
+variar ahí entre carrera es el tema
+
+después es lo mismo
+
+la idea es más o menos cojones
+
+la diapositiva que es la figura
+
+que puedo colocar
+
+ayúdense bastante
+
+yo les recomiendo
+
+no pongan, hubo algún caso donde
+
+primero la diapositiva, pon una imagen
+
+no tenía nada de texto
+
+yo voy a hablar
+
+tiene que poner la figura
+
+y puedes poner un texto pequeño
+
+tampoco que este cuesta tanto cargado
+
+tan cargado
+
+entonces
+
+es para que tengan una idea
+
+pero como les digo
+
+ya lo que era en posición 2, 3
+
+eso ya lo vamos a ir después
+
+revisando poco a poco
+
+después acá está
+
+lo más importante
+
+cómo salen las notas del curso
+
+ya esa fórmula
+
+ha servido ya por varios siglos
+
+y está así
+
+10% en posición 1
+
+10% en posición 2
+
+15% de trabajo parcial
+
+15%
+
+en posición 3
+
+10% en la dd
+
+y finalmente 40% de trabajo
+
+recuerden entonces
+
+qué pasa si yo falto mucho el curso
+
+y tengo
+
+desaprobado por inasistencia
+
+si tengo desaprobado por inasistencia
+
+entonces quiere decir que automático
+
+no es que yo le voy a poner 0
+
+automáticamente en el sistema
+
+ya no se va a poder
+
+poner las notas del trabajo final
+
+ya sale 0
+
+60%
+
+si así tuvieran todo 20
+
+saldrá cuánto
+
+12
+
+necesito de trabajo final
+
+y así mismo también
+
+las primeras
+
+evaluaciones
+
+tienen este puntaje pequeño
+
+porque puede ser
+
+que no me vaya bien
+
+de repente no desaprobado
+
+pero no tan buena
+
+el problema
+
+voy avanzando
+
+igual manera también tengo todavía esperanzas
+
+de aprobar el 1
+
+entonces ya acabo ir mejorando
+
+normalmente acá es donde
+
+sale justamente
+
+con la mejor nota
+
+y eso hace también que me protege el sumo
+
+porque tiene el mayor puntaje
+
+igual yo digo siempre
+
+no todo sumo
+
+bueno si ustedes les van viendo
+
+las de todas las abuelas, perfecto
+
+si por ahí
+
+igual hay esperanzas
+
+hasta el final
+
+perfecto
+
+que más
+
+las notas
+
+lo que les mencionaba al respecto
+
+el profesor evaluador
+
+ahí están las fichas de evaluación más abajo
+
+las parciales
+
+todas las evaluaciones
+
+son evaluadas por el profesor evaluador
+
+ya vamos a hablar al respecto
+
+de la evaluación de desempeño
+
+desempeño que es la donde se evalúa
+
+la competencia específica de ABET
+
+la competencia específica de ABET es la número 3
+
+que tiene que ver con comunicación
+
+esa se evalúa
+
+como ven en la semana
+
+la semana 14 acá está
+
+acá están las fichas
+
+esta es la ficha por ejemplo
+
+para la práctica 1
+
+cada evaluación tiene su
+
+ficha de evaluación acá está
+
+si por ahí veo alguna pequeña
+
+modificación bueno no hay problema
+
+puede variar
+
+digamos acá los ítems
+
+exposición
+
+diapositiva
+
+y la formulación
+
+todo eso suma cuánto
+
+17
+
+más 3 puntos del informe
+
+ahí está bien
+
+bueno acá están las fichas también
+
+de las otras evaluaciones
+
+de todas las evaluaciones están acá
+
+después lo vamos a ir revisando
+
+esas son las rubricas
+
+de esta manera
+
+viendo la rubrica ustedes van a saber
+
+cómo salió su nombre
+
+cuándo me pusieron en exposición
+
+cuándo me pusieron en la práctica
+
+cuándo fue por la formulación
+
+cuándo fue por el informe
+
+todo está en esa rubrica
+
+cuéntate de la
+
+competencia
+
+todo lo que tiene que ver con
+
+las inasistencias acá
+
+a otra cosa acá
+
+ahí están las fichas de informe
+
+también acá está el cronograma
+
+de evaluaciones
+
+como les había mencionado la exposición
+
+número 1 es en la semana
+
+3
+
+la exposición 2 es la semana
+
+5 la semana 6 porque semana 5
+
+semana 6 bueno
+
+un profesor puede tener
+
+4 o 5 grupos
+
+contamos entonces
+
+la mitad de grupos va en la semana
+
+5 y la otra
+
+mitad va en la semana 6
+
+ok
+
+y eso después se invierte o sea
+
+me refiero los que pusieron en la semana
+
+5 ahora después se pondrán en la semana
+
+13 y los que pondrán
+
+en la semana 6 ahora se pondrán en la semana
+
+la semana 5
+
+la semana 6 no hay clases solamente son
+
+evaluaciones la semana 12
+
+la semana 13 tampoco hay clases
+
+solamente hay evaluaciones
+
+solamente tienen que asistir
+
+en la semana que les toca su evaluación
+
+o si es virtual no hay problema
+
+los entregables que ustedes
+
+van a tener en cada evaluación
+
+se presentan recién en su semana de evaluación
+
+bueno obviamente la semana 8 es el trabajo
+
+parcial y finalmente en la semana
+
+16 es el trabajo parcial
+
+entonces ahí también está el cronograma
+
+de la evaluación
+
+y obviamente las evaluaciones
+
+son dentro del horario de clases
+
+acá también están los tiempos
+
+por cada evaluación
+
+exposición 1
+
+el tiempo es
+
+20 minutos obviamente no va a haber
+
+preguntas porque es
+
+sincrona de evaluaciones
+
+las dos
+
+se presentan hasta dos propuestas
+
+todo el tiempo es
+
+20 minutos
+
+no 20 minutos y un segundo
+
+20 minutos y un segundo penalidad
+
+y 20
+
+también haciendo aclaración
+
+20 minutos en 1x
+
+a que me refiero
+
+porque ya han pasado
+
+ellos creen que no suben el video
+
+y ahí se ven 15 minutos en saco
+
+y de aquí piensan que el profesor no va a hacer play
+
+al video, ponen en play que
+
+estamos en 2x
+
+entonces
+
+bueno tengan en cuenta
+
+eso por favor
+
+bueno la exposición 2
+
+10 minutos de exposición
+
+máximo 20 de exposición
+
+10 minutos de preguntas
+
+en el parcial y el final como ven acá
+
+no hay tiempo de preguntas porque
+
+como son todos los grupos
+
+a veces no hay tiempo para hacer preguntas
+
+entonces solamente exponen
+
+y ya las
+
+digamos la del feedback del profesor
+
+se hará en este caso en la semana
+
+9
+
+en el final obviamente ya no
+
+ya quedará en todo caso en la guía
+
+hay que dar allá todo indicado
+
+está bien
+
+bien
+
+bueno todas las exposiciones
+
+y presentaciones de curso deben ser grabadas
+
+ojuá solamente
+
+la exposición 1 es en un
+
+video y ese video
+
+repito no se sube el video al
+
+portafolio si no se sube
+
+el enlace
+
+pero en las otras
+
+evaluaciones si se debe
+
+grabar el audio
+
+como video el audio y ese audio
+
+si se sube al portafolio
+
+oju solamente el audio
+
+está bien entonces
+
+porque bueno en la exposición
+
+cierto el profesor le está dando las
+
+indicaciones y ustedes en ese momento no van a estar
+
+apuntando entonces ya queda en registro
+
+de ese audio ustedes pueden revisarlo
+
+posteriormente y ya
+
+hacer las observaciones levantar las
+
+observaciones que les podría hacer el profesor
+
+bueno los entregables
+
+vamos a ver cuáles son los entregables
+
+ya hemos mencionado la PPT
+
+audio videos informes
+
+respecto a las penalizaciones
+
+ya hemos dicho por ejemplo bueno la parte
+
+por indisciplina
+
+vocabulario inapropiado que también ha
+
+pasado cierto falta
+
+de respeto como argumento impropio etc
+
+son digamos
+
+penalidades que se puedan tener en cuenta
+
+y ya bueno si la falta es
+
+muy grave bueno eso tiene que ver ya
+
+se derivará pues a las autoridades
+
+de la universidad al
+
+respecto
+
+los reclamos si hay algún reclamo
+
+respecto a una nota
+
+ese reclamo se hace guía
+
+correo electrónico a su profesor
+
+evaluador
+
+el profesor evaluador también la responderá
+
+por correo ya con la
+
+respuesta cierto ahí se cierra el
+
+reclamo y el profesor bueno si es que
+
+hay alguna reclamo por nota
+
+si el reclamo procede bueno
+
+actualizará su nota y si no ya queda
+
+tal cual está
+
+ojo no hay que hacer un
+
+testamento el reclamo se supone que debe
+
+ser máximo en cinco líneas
+
+cinco ya bueno cinco seis siete
+
+pero tampoco van a hacer un testamento completo
+
+que ya ha pasado
+
+debe ser directo
+
+bien
+
+obviamente el profesor va a revisar el reclamo
+
+y de acuerdo a eso va a considerar si
+
+procede bien
+
+preguntas
+
+todo claro
+
+vamos a
+
+ver entonces
+
+vamos a ver como va la lista
+
+tienen miedo de ponerse en grupo 1 o 2
+
+yo teniendo ya los grupos
+
+definidos voy asignando
+
+a los profesores ya van a tener su profesor evaluador
+
+si no llenan eso
+
+entonces no hay como asignarlo
+
+ok
+
+les pido por favor que vayan completando
+
+bien a ver
+
+para mostrarles aca
+
+voy a abrir un portafolio del
+
+ciclo pasado para que tengan una idea
+
+profesor
+
+si no tengo el email
+
+te creas un email ya
+
+pero si
+
+puedes poner el email
+
+profesor
+
+justo hablar ese tema
+
+de los portafolios
+
+y si un archivo
+
+lo subes lo puedes cambiar en ese momento
+
+o tienes que avisar al profesor
+
+si estan dentro de
+
+los tiempos
+
+es como decir
+
+en el caso de ustedes
+
+el deadline o sea la fecha
+
+maxima para subir todos los entrenables
+
+es el dia martes hasta la una
+
+de la tarde
+
+pasado la una de la tarde ya estas fuera de tiempo
+
+entonces
+
+si tu por error desde el dia anterior
+
+subiste la dispositiva
+
+y esa dispositiva
+
+tenia algún error o de repente
+
+después se actualizaron y estan dentro
+
+del tiempo no hay problema lo puedes
+
+sobreescribir en ese momento
+
+el problema es
+
+cuando ya paso el tiempo
+
+y agarran y que hacen
+
+actualiza y ahi aparece la
+
+actualizacion dice la fecha
+
+no profesor que solamente
+
+me olvidé porque no tenia una copa
+
+eso no lo sabemos
+
+entonces ya hay penalidad
+
+y obviamente si ya esta evaluado
+
+eso ya tiene una nota
+
+y se borra
+
+ahi si ya eso se
+
+tiene ya es una falta de carta
+
+vamos a entrar aca
+
+al
+
+proyecto de investigación
+
+voy a entrar aca a
+
+esta es la seccion del ciclo pasado
+
+entonces voy a entrar aca a los protocolos
+
+en los
+
+portafolio aca tenemos la seccion
+
+que era la seccion de esta seccion
+
+de la
+
+seccion de la ciclo pasado era la
+
+2681
+
+vamos a entrar por ejemplo
+
+los que estaban antes de verte son los grupos que estan conmigo
+
+vamos a entrar a este
+
+entonces miren ve aca este es el portafolio
+
+asi esta el portafolio
+
+su seccion
+
+la nrc el ciclo
+
+y los primeros apellidos
+
+hay una carta
+
+dentro del portafolio hay una carpeta
+
+que se llama actas de reunion
+
+entonces en esa carpeta ustedes tienen
+
+que poner todas las actas
+
+si entramos aca
+
+vean que todas las actas tienen un formato
+
+de acuerdo a lo que habiamos mencionado
+
+si no esta con ese formato
+
+hay penalidad
+
+despues bueno
+
+obviamente aca estan las filas de evaluacion
+
+y aca hay una carpeta que dice
+
+el informe
+
+ojo si yo me equivoco
+
+porque ha pasado a veces
+
+donde es la carpeta que dice informe
+
+ponen las actas de reunion
+
+entonces si tambien hago eso
+
+no coloco correctamente tambien hay penalidad
+
+si
+
+no profesor que disculpen no hay problema yo te disculpo
+
+pero igual hay penalidad
+
+esta bien
+
+miren entramos aca a los informes
+
+voy a entrar a la exposicion 1 para que veamos
+
+entonces miren aca se entrego
+
+el informe en word
+
+el informe en pdf
+
+la pft en word
+
+la pft en pdf
+
+la pft en pdf
+
+la pft revisada
+
+y aca esta bien
+
+aca esta el enlace
+
+en un archivo txt
+
+aca esta el enlace
+
+copiar
+
+pegar
+
+entonces
+
+es eso
+
+no
+
+bueno no lo han hecho en el mid creo
+
+cierto
+
+bueno
+
+la idea que tambien aparezca en la barra
+
+cuando ya eso es referente
+
+y aparecen los 2
+
+integrantes con su camara encendida
+
+y ya esta
+
+hay dudas respecto a esto
+
+si
+
+bueno
+
+perfecto buena pregunta
+
+bueno la vestimenta es de vestir
+
+venir con camisa
+
+pueden que si quieren venir con
+
+kim, camisa, zapatillas
+
+ya no hay problema pero
+
+para el trabajo final
+
+si es con termo
+
+y las señoritas en traje
+
+con termo
+
+pero para las otras evaluaciones
+
+de vestir
+
+osea no venir con shorts
+
+no venir con sandalias
+
+ahora
+
+si les toca habitual
+
+se pondrán solamente la camisa
+
+si quieren venir con shorts
+
+lo que se ve por la cara
+
+esta bien
+
+eso tambien lo dice
+
+en el reglamento
+
+en el reglamento dice especificamente
+
+para el trabajo final
+
+alguna otra duda
+
+entonces aca esta un ejemplo
+
+del video
+
+como ven
+
+lo que se coloca es el enlace
+
+en un archivo TXT
+
+ok
+
+eso es lo que se coloca
+
+a esto es lo que le llamamos portafolio
+
+todo es en digital
+
+todo es en digital
+
+y
+
+si
+
+las actas ahi estan en digital tambien?
+
+tambien
+
+vamos a entrar a una acta
+
+de un grupo mio
+
+ah las actas
+
+aca estaban las actas
+
+las actas estaban aca
+
+esta la
+
+en ese caso fue
+
+presencial porque lo he firmado
+
+lo escanean
+
+y lo suben a mi repositorio
+
+y asi mismo tambien
+
+por cada evaluacion
+
+ustedes deben tener por ejemplo
+
+en fichas de evaluacion
+
+si buscamos en fichas de evaluacion
+
+buscamos por ejemplo la exposicion 1
+
+esta es la ficha de evaluacion
+
+osea donde esta la rubrica
+
+cierto?
+
+y esta rubrica
+
+esta rubrica
+
+esta va a tener tres partes
+
+la ficha de computo
+
+que es donde va a estar la nota final
+
+esta es la nota que aparece en la ficha de computo
+
+esa es la nota que va al sistema
+
+que involucra esto
+
+nota de exposicion
+
+y la nota del informe
+
+recuerda que la exposicion esta sobre 17
+
+el informe esta sobre 3
+
+17 y 3 es 20
+
+si no presento actas
+
+el maximo es 0
+
+osea la maxima nota
+
+es 0 osea no tengo penalidad
+
+y me pueden quitar hasta menos 3 puntos
+
+por no tener armas
+
+de la misma manera penalizaciones
+
+hasta menos 3 puntos
+
+llegar tarde
+
+a la exposicion
+
+subir fuera de horario
+
+digamos
+
+se modifica algun archivo
+
+se modifica algun archivo sin
+
+digamos haberle
+
+avisado a su profesor
+
+de aca tenemos aca el informe
+
+aca esta el informe
+
+bueno esto de aca se divide entre 60
+
+y aca va a aparecer sobre 3
+
+y esta es la ficha del profesor
+
+cierto?
+
+pues aca es la ficha del profesor
+
+lo que tiene que ver la exposicion
+
+lo que tiene que ver la diapositiva
+
+lo que tiene que ver la formulacion
+
+si no hay algun comentario
+
+eso es
+
+eso es la
+
+eso es aca
+
+eso es la ficha de evaluacion
+
+como pueden darse cuenta
+
+en esta ficha de evaluacion
+
+ustedes pueden saber como ha salido
+
+su nota
+
+no es que solamente aparece ya tengo
+
+15 o 17 o 13 o 12
+
+ya como salio esa nota
+
+ahi esta detallo
+
+hay alguna consulta
+
+consulta pregunta duda
+
+profe el profesor evaluador escoge
+
+el proyecto mas orientado a su persona
+
+o en este momento elige
+
+no necesariamente
+
+el profesor
+
+evalúa a su persona
+
+de acuerdo a que lo que el desea
+
+ustedes oponen el proyecto
+
+el profesor les indicara
+
+si ese proyecto complica para
+
+el tema de 3
+
+no la pregunta era si el profesor
+
+evaluador escoge el
+
+grupo antes de
+
+decidir el tema
+
+yo voy a hacer la division
+
+de acuerdo
+
+a los profesores
+
+de acuerdo
+
+si es de
+
+por medio medica
+
+a veces puede haber mas proyectos
+
+veo que hay mas grupos
+
+de mecatronica
+
+puede ser que alguno de los profesores
+
+también tenga grupo de mecatronica
+
+o como han visto
+
+y bueno
+
+tambien esta el profesor
+
+joseb cerrak
+
+pero bueno
+
+en esta seccion
+
+somos 4 profesores
+
+y eso por si acaso
+
+no
+
+el primero
+
+va a colocar
+
+yo agarro y voy sorteando
+
+y dependiendo de la carrera
+
+y ahi se va a asignar
+
+se puede ver
+
+por eso esta aca
+
+de medio medica tenemos
+
+maria fernanda
+
+esta maria fernanda
+
+que no tiene por ejemplo
+
+hasta el momento compañero
+
+o compañera
+
+que mas
+
+de medio medica
+
+este grupo ya esta formado
+
+otro aca
+
+tambien ya esta formado
+
+usted todavia
+
+no colocó su nombre
+
+si alguien esta
+
+sin compañero o compañera
+
+entonces ahi esta su correo
+
+y si bueno estamos en la seccion
+
+presencial
+
+usted puede ver ahi y puede conversar
+
+bien
+
+como he mencionado
+
+solamente hoy va a estar
+
+en paralelidad
+
+despues yo voy ya
+
+si lo van a poder ver
+
+porque es importante
+
+este archivo
+
+vamos a regresar aca
+
+este archivo
+
+vamos a salir de aca del portafolio
+
+ahi donde dice la lista de grupos
+
+por ejemplo
+
+es el mismo archivo
+
+aca como pueden darse cuenta
+
+este archivo ustedes tienen
+
+acceso es el mismo
+
+entonces
+
+aca va a salir todo
+
+aca va a salir quien va a ser su profesor evaluador
+
+y aca
+
+se coloca
+
+en que fechas
+
+en que horario me toca
+
+este donde esta mostrado
+
+pero suena una pregunta
+
+los alumnos tambien pueden escuchar a su profesor evaluador
+
+perdon
+
+los alumnos tambien no
+
+ahi se va viendo
+
+donde realmente ha trabajado va
+
+si
+
+yo le digo ahi esta
+
+lo unico nomas
+
+que no se repite bueno si alguien
+
+ahi ha
+
+jalado el curso
+
+como les digo es
+
+muy poco probable
+
+lo unico nomas que no se repite
+
+los profesores evaluadores
+
+pero aca creo que todos
+
+estan llevando por primera vez el curso
+
+salvo que hayan estado en virtual
+
+que no los he visto
+
+porque no estan con la camara prendida
+
+todos estan llevando por primera vez
+
+si?
+
+entonces miren por eso es importante
+
+este archivo
+
+aca voy a saber en que horario me toca
+
+si me toca virtual no me toca presencial
+
+en que horario
+
+entonces todo eso esta aca
+
+y ustedes entonces ya no tienen que estar
+
+mandando correos
+
+a que hora me toca no? entran
+
+visualizan
+
+pero ojo solamente ya
+
+ustedes van a tener acceso
+
+de visualizacion ya no de edicion
+
+solamente los profesores
+
+tienen acceso de
+
+esta bien? como les digo
+
+ahora despues se va a colocar el tema
+
+el tema se coloca al último
+
+para ir recientemente
+
+ah mira estos son temas iguales entonces
+
+preguntas
+
+todo claro
+
+te voy a llevar lista
+
+como va?
+
+si esta lentito
+
+si esta lentito no?
+
+no me calma mi
+
+culo, mi saco
+
+a ver por favor atentos
+
+miren que ahora en el nuevo portal
+
+ahora
+
+en la ultima columna
+
+aparece el porcentaje de inasistencia
+
+son 14
+
+5 por ciento
+
+entonces bien
+
+apeña
+
+bayon
+
+candela
+
+carvajal
+
+castro
+
+chavarri
+
+chukimango
+
+leonades
+
+damian
+
+fernandez
+
+flores
+
+ian
+
+hockins
+
+losano
+
+medina
+
+olivera
+
+pasco
+
+pingo
+
+purisaka
+
+quispe
+
+raimundo
+
+robles
+
+saravia
+
+taipe
+
+tamayo
+
+ticona
+
+torres
+
+y vasquez
+
+cuantas son en la electronica
+
+electronica hay
+
+2,3,4,5,6
+
+hay 6
+
+sin mal no recuerdo
+
+creo que había pares en todos
+
+sin mal no recuerdo
+
+si no ya tenia la ultima actualización
+
+el viernes
+
+no hay preguntas no hay consultas
+
+esta todo claro por favor les pido
+
+que
+
+por eso de acuerdo a esto
+
+cierto ustedes ya vayan viendo
+
+que compañero
+
+compañera no tiene grupo
+
+para que puedan conversar
+
+cierto y trabajar juntos
+
+si bien es cierto
+
+es el curso de proyecto de investigación
+
+no te demanda tanto
+
+en el sentido de que bueno no hay que
+
+implementar si hay que buscar información
+
+obviamente el hecho ya
+
+de trabajar entre dos ya este
+
+bueno parte de las ideas
+
+entre los dos cierto
+
+este digamos ya
+
+la carga para sus otros cursos
+
+cierto ya se puede ir
+
+repartir la tarea
+
+pero ya en proyecto
+
+uno cierto ya es mejor que ya
+
+conozcan a cierto
+
+a esa persona con la que van a trabajar desde ahora
+
+no porque bueno
+
+ya más adelante proyecto uno van a necesitar
+
+implementar bueno también la parte de
+
+repartir los cursos cierto
+
+para la implementación
+
+entonces
+
+es recomendable
+
+ok y que bueno
+
+equitativamente bueno ya ustedes
+
+conversen cierto a los
+
+los problemas
+
+comunes que ha pasado paso el
+
+siglo pasado
+
+cierto este bueno que no
+
+mi compañero nunca bajaba yo hacía todo
+
+cierto entonces
+
+bueno conversen
+
+no
+
+y bueno ya ustedes
+
+se divide las tareas
+
+me consultas no hay dudas
+
+si
+
+a ver por favor
+
+silencio
+
+si el profesor
+
+me comentó lo que pasa es que
+
+había dos cosas ahí
+
+el correo nos decía en que sección estaba
+
+el otro compañero
+
+está el jueves que me imagino
+
+aparte de eso bueno
+
+a ver les comento para que
+
+y bueno fue también lo que le comenté al profesor
+
+este
+
+en el siglo pasado
+
+cierto
+
+se permitió
+
+que pueda alguien trabajar con un compañero
+
+de otra sección
+
+compañera de otra sección
+
+es factible eso
+
+si se puede
+
+está bien ahora pero
+
+hay que tener en cuenta varias cosas
+
+los alumnos no escoge
+
+en cual de las dos secciones van a estar
+
+si la otra sección
+
+si es el día jueves por ejemplo
+
+hay menos alumnos
+
+entonces lo más factible es que entonces
+
+vayan allá y con el profesor
+
+que les toque ya
+
+yo quiero ir porque creo que ahí mencionaba
+
+él que si podía venir
+
+pero
+
+no es que yo escoge
+
+de acuerdo a la separación
+
+si no hay tantos
+
+grupos por ejemplo en este caso del
+
+médico y se puede repartir
+
+puede ser factible
+
+como le dije al profesor
+
+todavía no se puede
+
+decidir antes
+
+por eso es importante eso
+
+cuando ya vamos a poder ver
+
+eso el
+
+día es viernes cierto
+
+cuando ya vienemos todos
+
+ustedes es
+
+un caso pero por ejemplo
+
+si usted menciona acá ya yo voy a trabajar
+
+con la persona que queda quien más es el
+
+médico que no tiene grupo
+
+usted creo que es señorita no
+
+ya está
+
+quien más de mi médico no tiene grupo
+
+ya por ejemplo
+
+si es la sección virtual yo te
+
+acepto que su compañero me gana
+
+para
+
+desintensificar un poco la sección virtual
+
+que hay cualidad
+
+en todo caso podrías
+
+su nombre y habita en la lectura
+
+si es así
+
+entonces tú tienes que comentar con tu compañero
+
+que todas las evaluaciones son
+
+presenciales o
+
+virtual si acuerdas lo que
+
+dijo el profesor
+
+ustedes se acomodan a ese
+
+verano en que no hay profesor pero yo tengo
+
+que ese día tengo otro curso
+
+si ustedes aceptan
+
+las condiciones
+
+así que claro ahorita entonces
+
+pon el nombre de su compañero
+
+que sabe su apellido el nombre y todo
+
+ya de repente no sé si sabe su código
+
+pregúntele y pone la sección
+
+que le toca el día
+
+jueves que me imagino
+
+le debe salir su boleta
+
+todavía no conozco todas las secciones
+
+porque recién es la primera semana
+
+igual de usted
+
+entonces en el caso
+
+ya les voy diciendo
+
+en el caso de la sección virtual
+
+su compañero o compañera tendría que venir
+
+ojo
+
+si puede venir
+
+como hay asiento
+
+si puede venir a la clase
+
+porque hay asiento
+
+ya están todos
+
+hay dos carpetas
+
+por ahí debe haber una más
+
+si es así
+
+aceptamos
+
+y lo mismo
+
+en el caso de su compañero dice que puede venir a la segunda
+
+y acá
+
+si
+
+ya
+
+y si no tiene su nombre
+
+eso no tiene su nombre
+
+usted quiere trabajar con vos y yo quiero trabajar solo
+
+no no
+
+si yo casi no voy a las escuelas
+
+no no claro por eso le expresamos
+
+yo te refiero entonces
+
+a saltar y regresar
+
+todo va a depender
+
+todo va a depender
+
+por ejemplo acá ya va a haber
+
+entonces
+
+3 grupos
+
+con 3 grupos yo creo que si no había problemas
+
+en este horario
+
+pero su compañero tendría que venir entonces
+
+y asistir a ese horario
+
+si su compañero no viene
+
+yo le pongo falta
+
+en jueves que se supone que le toque
+
+porque yo lo voy a ver
+
+en todas las secciones
+
+el problema es
+
+que tiene que salir una hora creo
+
+de 2 a 3
+
+claro es que uno tenía que deducir
+
+en su correo porque él hablaba
+
+yo he podido ir de 4 a 5
+
+pero no decía que tenía cruce y que día estaba
+
+y usted o la otra persona no decía en que sección estaba
+
+entonces
+
+como decía martes
+
+se debe referir a que
+
+es un compañero o compañero
+
+y tampoco creo que mencionó su nombre
+
+solamente digo
+
+la persona que va a trabajar está en los mar o no
+
+ni siquiera eso
+
+pues es tratando ahí de armar el rompecabezas
+
+entonces yo le diga al profesor
+
+lo que te estoy mencionando a usted
+
+todavía hasta esa fecha
+
+no sabíamos cuántos alumnos
+
+iba a ver en cada sección
+
+bueno no está llena
+
+entonces bueno
+
+se puede manejar pero
+
+las condiciones las tenemos nosotros
+
+ustedes aceptan eso
+
+y las evaluaciones son en esta
+
+o la sección que se le deciden que yo creo que va a ser esta
+
+está bien
+
+ya
+
+así
+
+viéndolo como está si ya son 6
+
+y acá están los 6
+
+lo más probable es que sea
+
+el 99
+
+los ellos ya se
+
+pongan entonces por favor de que sección
+
+para ellos no
+
+alguna otra consulta chicos
+
+bueno la única sección que está a full
+
+es la virtual
+
+entonces bueno ahí como de
+
+repente sí va a faltar
+
+los profesores entonces ya bueno
+
+que converse
+
+bueno ya por hoy día le faltaría asistencia
+
+pero en todo caso
+
+en el caso de usted
+
+coméntenle que su apellido de ustedes
+
+quispe
+
+este
+
+ya que vayan se ven acá
+
+y acá hay espacio
+
+me imagino que no se mantengulo con un tema
+
+de que quiso primero virtual
+
+no quiso ver si le pones una práctica
+
+si está una práctica
+
+entonces no puede poner el que no
+
+que tengo prácticas
+
+entonces no puedo
+
+ustedes quieren trabajar juntos
+
+pasar a la virtual
+
+no porque está súper saturado
+
+entonces bueno si ya quedan
+
+los que están ahí se acomodarán
+
+pero sería de esa manera
+
+esa es una opción y la otra opción
+
+es que todas las teorías
+
+o sea todas las clases asistan presencialmente
+
+a esto o sea perdón
+
+asista a su teoría ya y venga
+
+las evaluaciones tienen que estar
+
+si o si en especial
+
+preguntas todo claro
+
+proje
+
+para cuando se va
+
+se va a asignarlos
+
+pero si todo esto está listo
+
+el fin de semana no
+
+creo que ya está todo
+
+entonces como funcionaría para el tema
+
+ya de decidir el tema
+
+por eso la siguiente semana en clase
+
+ya tú vas a ver tu profesor evaluado
+
+o sea para la siguiente semana
+
+para este mismo martes
+
+ya debería estar el grupo
+
+los profesores de asesor
+
+la próxima semana ya no vamos a extendernos
+
+toda la clase sino
+
+una hora vamos a ir viendo lo que es scop
+
+cruz voz y de ahí asesorías
+
+y para eso es importante
+
+que este todo esto
+
+entonces ya se puede separar a cada profesor
+
+entonces a partir del martes
+
+ahí recién voy a conversar con mi asesor
+
+por eso de una vez ya
+
+ya en la lista le he colgado
+
+le he explicado para que vayan
+
+entonces ya con eso queda
+
+por ejemplo acá
+
+hot queens falta es de megatronica
+
+pero
+
+porque se ha creado acá esto
+
+a cambio de tres líneas
+
+tres personas en un grupo
+
+quien ha creado una línea más
+
+quien ha sido rodas o hot queens
+
+¿todos son hot queens o hot queens?
+
+¿ah?
+
+creo que dicen nada
+
+¿pero tú eres hot queen o no?
+
+yo soy rodas
+
+¿por qué haces eso?
+
+bueno ya
+
+a ver por favor
+
+exacto así es para saber quién
+
+yo trae en la receta
+
+por eso sospeza si estaba separado
+
+no la de carrera
+
+no la de carrera
+
+bueno
+
+y ahí está el gaso disparador
+
+por ejemplo
+
+a ver chicos
+
+o sea las notas que yo sí son
+
+hipotéticamente en la exposición
+
+para intentar de otro
+
+claro la nota
+
+a ver por favor
+
+la nota puede ser diferente
+
+si puede ser diferente ¿por qué?
+
+porque en la exposición
+
+es la diferenciación
+
+la nota de informe se supone que es grupal
+
+la nota de la formulación
+
+se supone que es grupal
+
+la nota de la diapositiva es grupal
+
+la única nota que es separada
+
+es la de la exposición
+
+que pueden ser dos o tres puntos
+
+ahorita es tres puntos más adelante son dos puntos
+
+entonces ahí es donde
+
+y aparte de eso
+
+¿qué podría diferenciar?
+
+por ejemplo son los dos integrantes
+
+les toca exponer el próximo martes
+
+a las cuatro de la tarde
+
+si está presente a las cuatro y el otro llega
+
+cinco minutos, diez minutos tarde
+
+esa persona tendrá penalidad
+
+puede variar la nota por las penalidades
+
+o por la exposición
+
+¿alguna otra consulta?
+
+¿alguna otra consulta?
+
+profesor
+
+yo podría
+
+digamos ser ya proactivo y venir
+
+para el día martes con algunas propuestas
+
+en un papel
+
+eso es lo ideal
+
+eso es lo que está planteando
+
+traer un papel
+
+de los temas que...
+
+si quieres hacer tu presentación de la diapositiva
+
+vamos a consultar
+
+el profesor
+
+que ya vas a terminar asignando
+
+y profe
+
+yo no tengo correo gmail
+
+pero tengo un correo hand made que
+
+en teoría si funciona como gmail
+
+ok ya está colocado
+
+lo importante es el correo
+
+los portafolios
+
+ha pasado que a veces sean
+
+equivocados pero ya con el nombre
+
+igual yo cuando pongo en el
+
+all driver ahí va a salir sus correos
+
+yo sé que hay algunos que tienen
+
+hasta tres correos
+
+porque bueno ha habido
+
+cambio de carrera
+
+que tienen a veces
+
+más de un correo
+
+entonces esto es importante
+
+lo del correo, los nombres
+
+es apellido y nombre
+
+ya apareció el primero
+
+y acá que ha dicho
+
+¿y quién es Rodas?
+
+Rodas
+
+Rodas
+
+ya te escogí
+
+ya lo sé
+
+ya te escogí
+
+bien
+
+consulta chicos todo claro entonces
+
+hay obviamente muchas cosas
+
+todavía por ver pero ya no nos va a
+
+alcanzar todo el tiempo ya
+
+si no después quedan las otras clases
+
+entonces
+
+eso sería todo
+
+y ya nos vemos
+
+si tienen alguna pregunta puntual después
+
+no hay problema con los profesores que estamos acá
+
+delegando Rodas
+
+ah bueno están todos, una vez escogemos
+
+menos Rodas mi hijo
+
+a quién le falta crédito
+
+quienes no tienen crédito
+
+Rodas
+
+pero terminas el curso
+
+vamos
+
+bueno
+
+quién desea hacer
+
+ya le falta crédito
+
+María Fernanda
+
+está bien que María Fernanda
+
+su compañera sea delegada al curso
+
+debate debate
+
+promesas promesas
+
+usted también que se ha llegado
+
+ah gracias
+
+perfecto entonces
+
+sin nadie, sin nadie
+
+otra propuesta
+
+entonces su compañera está delegada
+
+perfecto ya alguna vez registramos
+
+no hay problema mejor
+
+aquí está mi cuello
+
+por favor tranquitos
+
+no más
+
+hormonas
+
+hoy tan grande
+
+y donde va eso
+
+acá o acá
+
+si tu tomas mucho agua
+
+no te haces así
+
+cuidado que se callen
+
+o no
+
+no sé si pueda compartir

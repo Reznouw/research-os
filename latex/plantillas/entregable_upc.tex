@@ -1,0 +1,66 @@
+% Plantilla generica para entregables del curso 1AEL0260
+% Uso: copiar a latex/proyecto/main.tex y rellenar
+% Compilar: latexmk -pdf main.tex
+
+\documentclass[12pt,a4paper]{article}
+
+% --- Paquetes basicos ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{caption}
+\usepackage{subcaption}
+
+% --- Metadatos ---
+\title{[TITULO DEL ENTREGABLE]}
+\author{Renzo Francisco Albatrino Aza \\ Universidad Peruana de Ciencias Aplicadas}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+[RESUMEN DEL ENTREGABLE - 1 parrafo]
+\end{abstract}
+
+\section{Introduccion}
+[CONTENIDO DE LA INTRODUCCION]
+
+\section{[Seccion principal]}
+[CONTENIDO]
+
+% --- Para figuras ---
+% \begin{figure}[ht]
+%     \centering
+%     \includegraphics[width=0.8\textwidth]{figuras/figura1}
+%     \caption{Descripcion de la figura.}
+%     \label{fig:figura1}
+% \end{figure}
+
+% --- Para tablas ---
+% \begin{table}[ht]
+%     \centering
+%     \caption{Descripcion de la tabla.}
+%     \label{tab:tabla1}
+%     \begin{tabular}{lcc}
+%         \toprule
+%         Columna 1 & Columna 2 & Columna 3 \\
+%         \midrule
+%         Dato 1 & Dato 2 & Dato 3 \\
+%         \bottomrule
+%     \end{tabular}
+% \end{table}
+
+\section{Conclusiones}
+[CONCLUSIONES]
+
+\bibliographystyle{ieeetr}
+\bibliography{references}
+
+\end{document}

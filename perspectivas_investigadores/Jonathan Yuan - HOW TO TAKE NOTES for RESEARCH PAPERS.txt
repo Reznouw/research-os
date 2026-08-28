@@ -1,0 +1,1292 @@
+0:00
+in today's video I want to talk about
+0:01
+how to read academic papers and more
+0:03
+importantly how to take notes for them
+0:05
+hi if you're new to the channel my name
+0:07
+is Jonathan I'm a third year PhD student
+0:08
+from the University of Waterloo I study
+0:11
+financial accounting and reading papers
+0:13
+synthesizing research and taking notes
+0:15
+is pretty much what I do every single
+0:17
+day as an academic reading papers is the
+0:19
+primary way to learn about a certain
+0:20
+topic and in order to become an expert
+0:23
+in a particular area and develop your
+0:25
+own research you need to get a good
+0:27
+understanding of the literature now a
+0:29
+particular topic within the area you're
+0:30
+interested in can have tons of papers
+0:32
+that were published by researchers in
+0:33
+the past and your job is to read through
+0:35
+all those papers synthesize the data and
+0:38
+eventually identify a potential Gap
+0:39
+within the literature where you can
+0:41
+insert your interesting research
+0:43
+question now when I started my PhD
+0:45
+program nobody really taught me how to
+0:47
+read academic papers or how to take
+0:49
+notes for them because it's very
+0:50
+different taking notes for these types
+0:52
+of papers compared to taking notes from
+0:54
+a textbook or from a lecture that's why
+0:56
+in today's video I think that it'll be
+0:58
+really helpful for me to show you how I
+1:00
+read my papers and how I take notes now
+1:03
+just a disclaimer everybody learns
+1:04
+differently and what works for me may
+1:06
+not actually work for you and honestly
+1:08
+I've only started using this method this
+1:10
+year because for the past two years of
+1:12
+my PhD program I've been experimenting
+1:14
+with various different types of studying
+1:15
+methods and finally I'm able to find one
+1:18
+that kind of Suits my learning style so
+1:20
+right now in front of you we see my
+1:22
+template that I use to take all the
+1:24
+notes every time I read an academic
+1:26
+paper and as you can see it's in a table
+1:28
+format it's in notion but you can
+1:30
+definitely use Microsoft Excel to create
+1:32
+the exact same table and I think that
+1:35
+this template is the best way for me to
+1:38
+essentially summarize a 20 to 40 page
+1:40
+academic paper down to a table that only
+1:44
+contains the core information that's
+1:46
+relevant for me to get the key takeaways
+1:49
+out of each study I strongly think that
+1:52
+handwriting your notes when it comes to
+1:54
+academic papers is the most wasteful use
+1:57
+of time that you can do some simply
+2:00
+because handwriting your notes has been
+2:02
+proven to not actually help you with
+2:03
+memorization or understanding the
+2:05
+concepts the whole point of note-taking
+2:07
+in my opinion is really just to identify
+2:10
+and record the key takeaways out of each
+2:13
+study and copy and pasting straight out
+2:16
+of the paper into this template is
+2:18
+honestly the most efficient way to get
+2:20
+that done and then after you extract all
+2:22
+the relevant information and put it into
+2:24
+this template then you can spend
+2:26
+additional time actually trying to
+2:28
+memorize and understand the material so
+2:31
+note-taking is one piece of the puzzle
+2:34
+but note-taking is separate from
+2:37
+actually memorizing and understanding
+2:38
+the material in my opinion and so right
+2:40
+now what I'm going to do is I'm going to
+2:42
+show you guys how this template works
+2:44
+and why the template that I'm using
+2:47
+today might be a little bit different
+2:49
+from the template that's going to work
+2:51
+for you so as you can see here I have a
+2:54
+couple studies about manager ability so
+2:56
+I have one separate template for each
+2:59
+subject area within Financial Accounting
+3:02
+so this template is specifically for
+3:03
+manager ability but I have other
+3:05
+templates for other subjects for example
+3:07
+I have a template for a CFO compensation
+3:09
+Bank efficiency and so forth now every
+3:12
+time I read a paper that is creating one
+3:15
+additional entry in my template which is
+3:18
+represented by that row
+3:19
+so for example I have back in all 2011.
+3:23
+so that's the author in the year that
+3:25
+the paper was published I obviously have
+3:27
+the title of the paper so CEO ability
+3:29
+and management earnings forecast I want
+3:32
+to keep track of the journal that the
+3:34
+paper is published in I also want to
+3:36
+keep track of the topic area that the
+3:38
+paper is talking about so this one is
+3:40
+talking about manager ability and
+3:42
+management forecast but you can also see
+3:43
+that for example the paper below even
+3:46
+though it's also within manager ability
+3:47
+but it's talking about another topic
+3:49
+called income smoothing
+3:51
+um sometimes papers will have key words
+3:53
+in order to help you search that paper
+3:55
+in a certain database for this
+3:57
+particular paper it didn't provide any
+3:58
+keywords but for other ones that they do
+4:01
+provide something so here we jump into
+4:04
+some of the columns that I have so first
+4:06
+one I have is key takeaway so am I able
+4:09
+to summarize a paper in one or two
+4:11
+sentences and what is the key piece of
+4:14
+learning that I got from reading this
+4:16
+paper
+4:17
+and I think it's really important to
+4:19
+have a key takeaway because it really
+4:21
+tests you on your understanding of the
+4:23
+paper and if you are able to pretty much
+4:25
+summarize 20 to 40 pages of the study
+4:29
+into a couple sentences so first I have
+4:31
+key takeaways next I have the key
+4:33
+findings so these are the key findings
+4:35
+of the paper so these are obviously
+4:37
+going to be a little bit more detailed
+4:38
+than the key takeaway itself and I'll
+4:41
+show you guys where I typically collect
+4:43
+the key findings out of the actual paper
+4:45
+next I have something called purpose so
+4:48
+purpose is all about what is the purpose
+4:50
+of the studying being done you know is
+4:52
+it trying to show us a new methodology
+4:54
+of doing something is it trying to
+4:56
+establish a new relationship like what
+4:58
+is the whole point of this paper and
+5:01
+that's really important because if you
+5:02
+can understand what's the point of the
+5:03
+paper then typically that can kind of
+5:05
+speak to the contribution of the paper
+5:07
+itself some papers will also talk about
+5:09
+the motivation behind their studies so
+5:10
+the authors will try to rationalize why
+5:12
+they think that their study is important
+5:14
+why they think that it's going to
+5:16
+contribute to the literature
+5:18
+um so understanding the motivation in my
+5:20
+opinion is also pretty important next we
+5:22
+have something called hypothesis
+5:23
+development and Theory
+5:25
+um and then the bright next so we have
+5:27
+something called hypothesis so if you
+5:29
+are doing research then the hypothesis
+5:31
+represents pretty much the prediction
+5:33
+that the author is trying to make in the
+5:35
+study and so I will typically typically
+5:38
+just copy and paste the hypothesis
+5:40
+directly from the paper into the cell
+5:41
+and then the authors also will try to
+5:44
+explain why they're making that
+5:47
+particular prediction you know like is
+5:49
+what's the underlying mechanism or
+5:51
+underlying reason they think that this
+5:53
+prediction is going to behave in a
+5:55
+particular way so that prediction could
+5:57
+be because of an existing theory that
+5:59
+was established in the literature in
+6:01
+this case there's something called The
+6:03
+Truman 1986 theory that the authors in
+6:06
+this paper referenced it might also be
+6:08
+because of results of previous studies
+6:10
+that were done within the area
+6:12
+that might help the authors motivate
+6:15
+their hypothesis so not only
+6:17
+understanding the prediction of the
+6:18
+paper but also understanding the reason
+6:20
+why that prediction is made is also
+6:22
+really important the next set of columns
+6:24
+kind of deals with uh data collection as
+6:27
+well as a research design so because my
+6:30
+field of research is financial
+6:33
+accounting using empirical slash
+6:35
+archival methods this is going to be
+6:37
+really specific to my area of research
+6:40
+but for example if you do another type
+6:42
+of research maybe using Behavioral or
+6:44
+field experiment then maybe these column
+6:47
+names won't be as appropriate for you so
+6:49
+feel free to definitely change the
+6:51
+column that fits the type of research
+6:53
+that you're conducting but because I'm
+6:55
+all about empirical and archival methods
+6:57
+it's important to me to keep track of
+6:59
+you know what kind of databases they're
+7:00
+using how they create their sample out
+7:02
+of the population and what kind of
+7:05
+regressions or ectometric techniques are
+7:08
+using so I always keep track of the
+7:10
+sample so specifically I take keep track
+7:12
+of the years that the sample is covering
+7:15
+so the period that the study is covering
+7:17
+I keep track of the different types of
+7:20
+data sources so you know where are they
+7:22
+getting this data from is that a
+7:23
+database that my university is
+7:25
+subscribed to
+7:27
+um as I talked about I do a lot of
+7:28
+archival research so that's why my
+7:30
+method is mostly archival but sometimes
+7:31
+I might read a paper that's using
+7:34
+empirical method sorry that's using
+7:36
+experimental methods or maybe
+7:37
+qualitative research that's still within
+7:40
+manager ability by simply using another
+7:42
+type of technique to perform their study
+7:45
+and then because I am all about using
+7:47
+archival data so the next set of columns
+7:50
+is going to be about the regression or
+7:53
+the empirical techniques that the study
+7:55
+uses so I have a column for research
+7:57
+design so you know are they using an OLS
+8:00
+are they are they using maybe propensity
+8:02
+to score matching maybe they're using a
+8:05
+diff and diff that kind of gets all
+8:07
+tracked in this research design problem
+8:09
+and then I also kind of like to mention
+8:10
+you just just what dependent variables
+8:13
+being regressed on what independent
+8:14
+variable so for example on this one the
+8:17
+paper does you know three different
+8:18
+types of three different types of
+8:20
+regressions within their paper so I just
+8:22
+make a note of what those three
+8:24
+different research designs are and the
+8:26
+next piece I like to kind of keep track
+8:29
+of the dependent variables and the
+8:31
+independent variables and the control
+8:32
+variables so when you're doing research
+8:35
+you might have heard something called
+8:36
+the Libby boxes where it's pretty much
+8:38
+this diagram that lets you keep track of
+8:41
+what is the key independent and
+8:43
+dependent variable that you're
+8:44
+interested in on a conceptual level as
+8:47
+well as on an operational level so
+8:48
+conceptual level typically refers to you
+8:51
+know what are the concepts that you're
+8:52
+interested in studying
+8:54
+and operational level will just refer to
+8:56
+how exactly is the author measuring that
+8:59
+conceptual construct and that's really
+9:02
+important for you to keep track of as a
+9:05
+researcher because it's very possible
+9:07
+that you may want to measure a similar
+9:09
+construct or the same construct and you
+9:11
+may want to measure it the same way that
+9:13
+the author did in their paper or if you
+9:16
+feel that the author's way of measuring
+9:17
+something is not ideal then maybe this
+9:20
+is your opportunity to actually tweak it
+9:22
+and make a better way of measuring that
+9:24
+same construct so for example here
+9:27
+one of the constructs that the paper
+9:28
+looks at is the likelihood of issuing a
+9:30
+management earnings forecast and the way
+9:32
+that they operationalize it or measure
+9:34
+it in the regression is to have this
+9:36
+variable
+9:38
+um a dummy variable that equals one if
+9:39
+an annual management earnings forecast
+9:41
+in year T and zero otherwise so just
+9:44
+keeping track of the constructs and how
+9:46
+they operationalize it in the paper is
+9:47
+really important and I do that for both
+9:49
+the dependent variable I also do that
+9:52
+for the key independent variable of
+9:54
+interest and then I also like to keep
+9:56
+track of the different types of control
+9:58
+variables that the author controls for
+10:00
+in the regression again because if I'm
+10:03
+interested in this area and I'm looking
+10:04
+to do a study in this area I may have to
+10:06
+use some of these same control variables
+10:08
+in my study and when it comes to
+10:11
+identifying what's the appropriate
+10:12
+control variables looking at other
+10:14
+studies within the area and relying on
+10:17
+prior literature is a great starting
+10:19
+point I also like to keep track of
+10:20
+robustness tests and robustness tests
+10:22
+are pretty much additional tests that
+10:23
+the authors do to essentially try to
+10:25
+convince you that what they find in and
+10:27
+their main test still exists so they
+10:31
+might you know expand the sample they
+10:32
+might perform other empirical tests they
+10:34
+might try to rule out alternative
+10:36
+explanations they might measure things
+10:38
+differently to see if they get the same
+10:39
+results keeping track of robustness
+10:41
+tests in my opinion is pretty important
+10:42
+because you may have to do those similar
+10:45
+robustness tests in your in your study
+10:47
+and then here I have some other columns
+10:49
+that sometimes I'll fill out but
+10:51
+sometimes I won't depending on the paper
+10:54
+itself and whether I find that
+10:55
+information informative so for example
+10:57
+here I have a column for cross-sectional
+10:59
+tests so typically in the empirical
+11:01
+archival World a lot of scientists will
+11:03
+have cross-sectional studies to
+11:04
+essentially split up this main sample
+11:07
+into smaller sub samples to see whether
+11:10
+or not the results that they find and
+11:12
+their main results is driven by a
+11:14
+certain sub Sample versus another
+11:15
+subsample so sometimes if the paper
+11:17
+doesn't have cross-sectional tests I'll
+11:19
+leave this column blank
+11:20
+I have a column for background so if
+11:22
+there's any sort of background
+11:23
+information in the literature review
+11:25
+part of the paper that maybe I didn't
+11:27
+know beforehand but I find really
+11:28
+interesting or I feel that the
+11:30
+information is really important then
+11:32
+I'll kind of keep it in this column and
+11:34
+then I have something called important
+11:35
+quotes where sometimes you read a paper
+11:38
+and there's and sometimes papers will
+11:41
+kind of quote whether it's you know
+11:43
+important people in the government or
+11:45
+practitioners or maybe it's a quote that
+11:47
+I read in someone else's paper and I
+11:49
+really want to use that quote in my
+11:50
+paper then I'll just kind of keep it
+11:52
+keep a note of that quote within this
+11:54
+template so these are the types of
+11:57
+things that I kind of track currently
+11:59
+sometimes I will make adjustments to
+12:00
+this table for example I might have a
+12:03
+future research question column where if
+12:05
+I think of a research question that's
+12:06
+related to the paper I might want to
+12:08
+just to keep a note of that but overall
+12:10
+this is the template that I use to
+12:14
+essentially take notes on a paper and
+12:17
+all these information that you see
+12:19
+within the template this is all simply
+12:21
+just copy and paste it directly from the
+12:23
+paper into this template right now
+12:25
+obviously when you're actually writing
+12:26
+your paper please do not plagiarize the
+12:29
+studies that you're referencing right
+12:31
+you're obviously going to have to write
+12:32
+things in your own words but for the
+12:34
+sake of just synthesizing the
+12:36
+information and just getting it on paper
+12:39
+I think copy and pasting is totally fine
+12:42
+and here these are usually the key
+12:45
+pieces of information that I'm trying to
+12:47
+extract
+12:49
+um out of the paper now you may feel
+12:51
+that there are certain columns here that
+12:53
+don't apply to your area of research or
+12:55
+you might feel that I don't have enough
+12:57
+columns and you want to add more columns
+12:58
+to the template definitely take this
+13:01
+template with a grain of salt and
+13:03
+customize it to the type of research
+13:04
+that you typically do you also notice
+13:08
+that the way that the template is
+13:09
+formatted it's really geared towards
+13:11
+academic papers for example I do read a
+13:14
+lot of business press articles for
+13:16
+example from The Wall Street Journal or
+13:17
+from the New York Times I'm talking
+13:19
+about accounting and the way that
+13:22
+business press articles are written that
+13:24
+doesn't really fit the template that I
+13:26
+have right here so for those types of
+13:28
+Articles whenever I read those I would
+13:29
+typically just use a Microsoft Word
+13:30
+document and kind of take notes the old
+13:33
+fashion way
+13:34
+um if you will but when it comes to
+13:36
+academic papers then this is definitely
+13:38
+the template that I think is going to be
+13:40
+really helpful and what's great about
+13:41
+this is that not only can you use this
+13:43
+for any type of literature review that
+13:45
+you do for a working paper or if you're
+13:47
+taking a PhD seminar or Master seminar
+13:50
+where you are reading papers and you
+13:51
+have to kind of engage in discussion
+13:53
+with Professor this is a great tool to
+13:56
+have especially in class because let's
+13:58
+say you want to talk about a particular
+14:00
+paper then you have all the key points
+14:02
+right here in front of you on your
+14:03
+laptop screen and so it's very easy for
+14:05
+you to kind of recall that information
+14:07
+and be more active and more confident
+14:09
+when you talk about the paper in
+14:11
+addition if you're writing if you are
+14:13
+planning to write your comprehensive
+14:15
+exam and your comprehensive exam is open
+14:16
+book and tests a lot of the papers that
+14:19
+you talked about in your previous
+14:21
+seminars then this again is a great way
+14:24
+to synthesize all the papers that you've
+14:26
+read in class especially when you're
+14:27
+dealing with like 50 to 100 papers have
+14:30
+everything organized in this really
+14:31
+clean template and I think that this is
+14:34
+a great tool for any sort of Masters or
+14:37
+PhD students to have honestly even if
+14:39
+you've already completed your PhD degree
+14:40
+and you're a you know you're working as
+14:43
+a professor I I think this template can
+14:45
+definitely be really helpful to you
+14:48
+okay so the next part of the video I do
+14:50
+want to show an example of an academic
+14:52
+paper specifically within financial
+14:55
+accounting and I just want to show you
+14:57
+guys how I annotate the paper and how I
+15:00
+take the information from the paper and
+15:02
+put it into that template so here I have
+15:04
+an example of a typical Financial
+15:06
+Accounting paper within the accounting
+15:09
+literature you'll notice that a lot of
+15:11
+papers are written in a particular way
+15:13
+and you might notice that about the
+15:15
+papers that you read in the journals
+15:17
+that you're interested in so when it
+15:18
+comes to accounting papers we typically
+15:20
+have you know an abstract an
+15:22
+introduction there's typically then a
+15:24
+background or literature review section
+15:26
+then maybe a theory development or
+15:28
+hypothesis development then it goes into
+15:30
+sample selection data sources research
+15:34
+design results cross-sectional tests
+15:36
+robustness tests and then a conclusion
+15:38
+so those are kind of the main headings
+15:40
+that exist within the accounting
+15:42
+literature and I strongly recommend that
+15:43
+as you are digging to your area of
+15:45
+Interest try to keep a mental note of
+15:48
+what are the headings or subheadings
+15:49
+within the papers because those can
+15:51
+actually be potential columns in that
+15:54
+note template that I showed you guys so
+15:56
+here we have the abstract so the
+15:58
+abstract is a high level uh summary of
+16:00
+the paper it's usually just about a
+16:02
+paragraph and typically within the
+16:03
+abstract you can kind of pick out key
+16:06
+pieces of information that you can
+16:07
+actually throw into your template so for
+16:09
+example right now I made a note of the
+16:11
+theory that they used within the paper
+16:13
+so Capital crunch Theory I also
+16:16
+highlighted the results
+16:18
+um with the from the paper the abstract
+16:20
+can also kind of give some hints about
+16:23
+what the key dependent variable and
+16:25
+independent variable of the study is and
+16:27
+that's again stuff you can always put
+16:29
+into your template and you can see here
+16:31
+what I'm doing when I'm taking notes is
+16:32
+I'm just highlighting the key pieces of
+16:34
+information that I'm planning to copy
+16:36
+and paste into my template and I'm just
+16:38
+making some sort of little notes on the
+16:40
+side indicating okay where do I want to
+16:43
+slot this piece of information into my
+16:45
+template so this is obviously saying
+16:46
+that I want to copy and paste this into
+16:48
+my theory column whereas this is going
+16:50
+to be copy and pasted into my results
+16:52
+column
+16:56
+so here comes the introduction So within
+16:59
+the introduction again it gives a high
+17:01
+level uh view of the paper a lot more in
+17:04
+depth compared to the abstract but still
+17:06
+pretty high level
+17:07
+and the introduction has a lot of
+17:10
+information that you can definitely copy
+17:12
+and paste into your paper but you can
+17:13
+see here that I'm just kind of
+17:15
+highlighting things that I find
+17:17
+interesting so right now when I'm
+17:20
+highlighting are essentially pieces of
+17:22
+information that I didn't know about in
+17:23
+the past
+17:25
+um and based on what I'm seeing right
+17:27
+now this information will probably kind
+17:29
+of fall into the background section of
+17:32
+my template because it's kind of talking
+17:34
+about some institutional knowledge about
+17:36
+Banking and lending and things like that
+17:37
+you can also see how I have some little
+17:40
+comments here onto the side
+17:43
+um just about the paper but again I'm
+17:45
+not handwriting a lot of stuff right I'm
+17:48
+just highlighting key pieces of
+17:50
+information that I may want to copy and
+17:51
+paste into my template
+17:55
+we can see a little bit more of that
+17:56
+here so we can see here on the side I
+17:58
+have very nice quote specifically I'm
+18:00
+referring to the quote by the
+18:02
+Comptroller of the currency John C Dugan
+18:05
+right I also highlighted
+18:07
+um you know for example this is the
+18:08
+purpose of the paper I'm going to copy
+18:10
+and paste that into the purpose column
+18:11
+of my template I have I made a note
+18:14
+about an important regulation in banking
+18:15
+right then I want to keep note of so
+18:17
+again just highlighting it for now
+18:19
+and then when I'm reading the paper I'm
+18:21
+also keeping note of these studies that
+18:24
+this paper has cited and whether or not
+18:27
+I think that those cited papers are
+18:29
+things that I need to read in the future
+18:31
+so for example I circled this financial
+18:33
+stability Forum report
+18:35
+um in red because I'm trying to tell
+18:37
+myself that hey I think that this site
+18:40
+is sourced from the paper is really
+18:42
+important and I think that the knowledge
+18:43
+in this report is something that I need
+18:45
+to know as well
+18:46
+so this is just a note to myself to read
+18:48
+this after I finish the current paper
+18:52
+but again just highlighting key pieces
+18:54
+of information for example here I'm
+18:56
+highlighting information about the
+18:57
+hypothesis right
+18:59
+I'm making notes about how things are
+19:01
+being measured so this is the
+19:02
+operationalization of some of the
+19:04
+constructs I'm making note of the
+19:06
+databases that are being used
+19:08
+um this is I'm making notice just some
+19:11
+key pieces of information in the
+19:13
+research design right but again I'm not
+19:15
+spending a lot of Time handwriting these
+19:17
+notes
+19:20
+here I just make note of that you know
+19:21
+they did a cross-sectional test and here
+19:23
+I see this is an example of the main
+19:25
+finding so I just keep a note of that as
+19:26
+well but overall it's very very light in
+19:31
+terms of handwritten notes and really
+19:33
+just picking apart the paper and
+19:35
+identifying which pieces of information
+19:37
+I want to copy and paste into my
+19:39
+template
+19:44
+again here's another example right I'm
+19:47
+using my red pen to indicate that maybe
+19:48
+I want to pay attention to these uh to
+19:52
+accounting standards and maybe I want to
+19:53
+read them after I finish reading the
+19:56
+paper
+20:00
+right here uh we jump into the
+20:02
+hypothesis development section of the
+20:04
+paper and all I'm really doing is just
+20:06
+highlighting in red
+20:08
+um you know where the hypotheses are in
+20:10
+the paper what are some important
+20:12
+theories again here I'm circling a side
+20:14
+of paper that I think might be important
+20:16
+for me to read into the future
+20:19
+foreign
+20:21
+now this part of the research design
+20:22
+specifically for me because I am into
+20:24
+empirical and archival research
+20:26
+sometimes I'll actually take a
+20:28
+screenshot of the actual regression
+20:29
+that's um
+20:31
+that they have in the paper so what I
+20:33
+would typically do is use my Snipping
+20:35
+Tool and just pretty much take a
+20:36
+screenshot of this entire regression
+20:38
+copy and paste it right into notion just
+20:41
+so when I do want to reference back to
+20:42
+the paper and I want to see how they
+20:44
+designed their test then I can just bam
+20:46
+refer to the screenshot within my notion
+20:48
+rather than having to dig through all
+20:51
+these pages of the paper it's just more
+20:52
+efficient and obviously the research
+20:55
+design part of the paper is going to be
+20:57
+really important specifically what type
+20:59
+of variables that they use how they
+21:00
+operationalize it so just having a
+21:02
+screenshot of the regression in my
+21:03
+opinion is a great uh
+21:06
+thing to have in your notes
+21:11
+again here we're just having another
+21:13
+example where again I'm just circling
+21:15
+papers that I think might be important
+21:17
+for me again I would have screenshotted
+21:19
+this uh regression figure as well and
+21:22
+just put that in my notes so when it
+21:23
+comes to actually reading the paper I
+21:25
+will switch between using the laptop or
+21:26
+using a tablet so it's kind of a
+21:29
+day-to-day thing you know some days I
+21:30
+feel that reading on a laptop I'm really
+21:32
+effective and I can focus really easily
+21:33
+but sometimes I do want to kind of
+21:35
+engage in the physical movement of using
+21:38
+a pen and kind of writing it on
+21:40
+something so whenever I feel like that
+21:42
+I'll use my Microsoft Surface Pro 7 and
+21:46
+then I'll just essentially open the PDF
+21:48
+on my tablet and then use the Microsoft
+21:50
+pen and make my annotations there so
+21:53
+overall that's pretty much how I read my
+21:54
+accounting papers and how I take my
+21:56
+notes if you find that this template is
+21:58
+helpful then I definitely suggest that
+22:00
+you incorporate some version of that
+22:02
+template into your day-to-day workflow
+22:04
+especially if you're reading a lot of
+22:05
+papers as a Masters or PhD student
+22:07
+personally this way of studying has been
+22:10
+really effective for me for the past
+22:11
+year and I definitely see myself
+22:12
+sticking with this method for the rest
+22:15
+of my PhD program if you guys found the
+22:17
+video helpful then please hit that like
+22:18
+button and subscribe to the channel I do
+22:20
+appreciate it a lot and if you guys are
+22:22
+interested in following my PhD Journey
+22:24
+well I got a lot more for you guys I'll
+22:26
+see you guys in the next video peace

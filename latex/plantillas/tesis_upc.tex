@@ -1,0 +1,161 @@
+% Plantilla para Trabajo Final (TF1 - 40%) del curso 1AEL0260
+% Estructura completa segun syllabus: resumen, situacion problematica, fundamentos, causas,
+% problemas de ingenieria, justificacion, estado del arte, arbol de objetivos,
+% objetivos especificos, diagrama de bloques, cronograma Gantt, alcances, limitaciones,
+% viabilidad, conclusiones.
+% Uso: copiar a latex/proyecto/main.tex y rellenar
+% Compilar: latexmk -pdf main.tex
+
+\documentclass[12pt,a4paper]{article}
+
+% --- Paquetes ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{ganttchart}  % Para cronograma
+
+% --- Metadatos ---
+\title{[TITULO DEL PROYECTO DE TESIS]}
+\author{Renzo Francisco Albatrino Aza \\
+\texttt{renzo.albatrino@upc.edu.pe} \\
+Universidad Peruana de Ciencias Aplicadas}
+\date{UG-2do Semestre 2026}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+[RESUMEN DEL PROYECTO - 1 parrafo con idea central, problema, propuesta de solucion y viabilidad]
+\end{abstract}
+
+% ============================================================
+\section{Resumen del proyecto}
+% ============================================================
+[Breve resumen ejecutivo]
+
+% ============================================================
+\section{Situacion problematica de ingenieria}
+% ============================================================
+[Descripcion del problema de ingenieria en contexto academico y cientifico]
+
+% ============================================================
+\section{Fundamentos teoricos}
+% ============================================================
+[Conceptos teoricos que sustentan el proyecto]
+
+% ============================================================
+\section{Causas de la situacion problematica}
+% ============================================================
+[Analisis de causas que originan el problema]
+
+% ============================================================
+\section{Problemas de ingenieria}
+% ============================================================
+[Problemas especificos de ingenieria derivados]
+
+% ============================================================
+\section{Justificacion}
+% ============================================================
+[Por que es importante resolver este problema]
+
+% ============================================================
+\section{Estado del arte}
+% ============================================================
+\cite{[referencias del estado del arte]}
+[Revision de trabajos previos, identificaccion de brecha]
+
+% ============================================================
+\section{Arbol de objetivos}
+% ============================================================
+[Descripcion del arbol de objetivos - problema general arriba, objetivos especificos abajo]
+
+% ============================================================
+\section{Objetivos especificos de desarrollo e implementacion}
+% ============================================================
+
+\subsection{Objetivo general}
+[OBJETIVO GENERAL]
+
+\subsection{Objetivos especificos}
+\begin{itemize}
+    \item \textbf{OE1:} [objetivo 1]
+    \item \textbf{OE2:} [objetivo 2]
+    \item \textbf{OE3:} [objetivo 3]
+    \item \textbf{OE4:} [objetivo 4]
+    \item \textbf{OE5:} [objetivo 5]
+\end{itemize}
+
+% ============================================================
+\section{Diagrama de bloques}
+% ============================================================
+[Descripcion de la arquitectura por bloques]
+
+% \begin{figure}[ht]
+%     \centering
+%     \includegraphics[width=\textwidth]{figuras/diagrama_bloques}
+%     \caption{Diagrama de bloques de la solucion propuesta.}
+%     \label{fig:bloques}
+% \end{figure}
+
+% ============================================================
+\section{Cronograma por objetivo especifico}
+% ============================================================
+
+% \begin{ganttchart}[
+%     y unit title=0.7cm,
+%     bar/.append style={fill=blue!30},
+%     bar height=0.5,
+%     group label font=\small,
+%     bar label font=\small
+% ]{1}{14}
+%     \gantttitle{Cronograma 2026} \\
+%     \ganttbar[bar/.append style={fill=red!40}]{OE1: Estado del arte}{1}{3} \\
+%     \ganttbar[bar/.append style={fill=green!40}]{OE2: Arquitectura}{4}{8} \\
+%     \ganttbar[bar/.append style={fill=blue!40}]{OE3: Implementacion}{9}{13} \\
+%     \ganttbar[bar/.append style={fill=orange!40}]{OE4: Evaluacion}{13}{15} \\
+%     \ganttbar[bar/.append style={fill=purple!40}]{OE5: Viabilidad}{15}{16} \\
+% \end{ganttchart}
+
+% ============================================================
+\section{Alcances y limitaciones}
+% ============================================================
+
+\subsection{Alcances}
+[Que abarca el proyecto]
+
+\subsection{Limitaciones}
+[Que no abarca el proyecto - ser honesto]
+
+% ============================================================
+\section{Viabilidad}
+% ============================================================
+
+\subsection{Viabilidad tecnica}
+[Analisis de viabilidad tecnica]
+
+\subsection{Viabilidad economica}
+[Analisis de viabilidad economica]
+
+\subsection{Viabilidad social}
+[Analisis de viabilidad social]
+
+\subsection{Viabilidad operativa}
+[Analisis de viabilidad operativa]
+
+% ============================================================
+\section{Conclusiones y comentarios finales}
+% ============================================================
+[Conclusiones del proyecto]
+
+\bibliographystyle{ieeetr}
+\bibliography{references}
+
+\end{document}

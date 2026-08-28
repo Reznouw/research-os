@@ -1,0 +1,156 @@
+% Plantilla para diapositivas de defensa oral (Beamer)
+% Para DD1 (Evaluacion de Desempeno 1 - ABET 3) y todas las exposiciones
+% Compilar: pdflatex slides_defensa.tex (dos pasadas)
+
+\documentclass[aspectratio=169]{beamer}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{hyperref}
+
+\usetheme{Madrid}
+\usecolortheme{seahorse}
+
+% Quitar simbolos de navegacion
+\setbeamertemplate{navigation symbols}{}
+
+% --- Metadatos ---
+\title{[TITULO DEL PROYECTO]}
+\subtitle{[SUBTITULO - curso 1AEL0260]}
+\author{Renzo Francisco Albatrino Aza}
+\institute{Universidad Peruana de Ciencias Aplicadas}
+\date{\today}
+
+\begin{document}
+
+\begin{frame}
+    \titlepage
+\end{frame}
+
+\begin{frame}{Contenido}
+    \tableofcontents
+\end{frame}
+
+% ============================================================
+\section{Introduccion}
+% ============================================================
+
+\begin{frame}{Introduccion}
+    \begin{itemize}
+        \item [Contexto del problema]
+        \item [Por que importa]
+        \item [Contribucion propuesta]
+    \end{itemize}
+\end{frame}
+
+% ============================================================
+\section{Problema}
+% ============================================================
+
+\begin{frame}{Situacion problematica}
+    [Descripcion del problema]
+\end{frame}
+
+\begin{frame}{Pregunta de investigacion}
+    [Pregunta de investigacion]
+\end{frame}
+
+% ============================================================
+\section{Estado del arte}
+% ============================================================
+
+\begin{frame}{Estado del arte}
+    \begin{itemize}
+        \item [Trabajo previo 1]
+        \item [Trabajo previo 2]
+        \item [Brecha identificada]
+    \end{itemize}
+\end{frame}
+
+% ============================================================
+\section{Solucion propuesta}
+% ============================================================
+
+\begin{frame}{Arquitectura}
+    % \begin{figure}
+    %     \centering
+    %     \includegraphics[width=0.8\textwidth]{figuras/diagrama_bloques}
+    % \end{figure}
+    [Descripcion de la arquitectura]
+\end{frame}
+
+\begin{frame}{Objetivos}
+    \begin{itemize}
+        \item \textbf{Objetivo general:} [objetivo]
+    \end{itemize}
+    \vspace{0.5cm}
+    \textbf{Objetivos especificos:}
+    \begin{itemize}
+        \item OE1: [objetivo 1]
+        \item OE2: [objetivo 2]
+        \item OE3: [objetivo 3]
+    \end{itemize}
+\end{frame}
+
+% ============================================================
+\section{Resultados}
+% ============================================================
+
+\begin{frame}{Resultados preliminares}
+    [Resultados o esperados]
+    % \begin{table}
+    %     \centering
+    %     \caption{Comparacion de resultados}
+    %     \begin{tabular}{lcc}
+    %         \toprule
+    %         Metrica & Baseline & Propuesta \\
+    %         \midrule
+    %         Latencia & X ms & Y ms \\
+    %         Energia & X mW & Y mW \\
+    %         \bottomrule
+    %     \end{tabular}
+    % \end{table}
+\end{frame}
+
+% ============================================================
+\section{Viabilidad}
+% ============================================================
+
+\begin{frame}{Viabilidad}
+    \begin{itemize}
+        \item \textbf{Tecnica:} [viabilidad tecnica]
+        \item \textbf{Economica:} [viabilidad economica]
+        \item \textbf{Social:} [viabilidad social]
+        \item \textbf{Operativa:} [viabilidad operativa]
+    \end{itemize}
+\end{frame}
+
+% ============================================================
+\section{Conclusiones}
+% ============================================================
+
+\begin{frame}{Conclusiones}
+    \begin{itemize}
+        \item [Conclusion 1]
+        \item [Conclusion 2]
+        \item [Conclusion 3]
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{Limitaciones}
+    \begin{itemize}
+        \item [Limitacion 1]
+        \item [Limitacion 2]
+    \end{itemize}
+\end{frame}
+
+% ============================================================
+\begin{frame}[standout]
+    Gracias \\[0.5cm]
+    Preguntas
+\end{frame}
+
+\end{document}

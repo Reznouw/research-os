@@ -1,0 +1,1153 @@
+0:00
+each year Microsoft Research helps hundreds of influential speakers from around the world including leading
+0:06
+scientists renowned experts in technology book authors and leading academics and makes videos of these
+0:12
+lectures freely available
+0:22
+so you're all awake and engaged now what's happened to their little little
+0:28
+thing I need yes so this is this is some you're doing PhDs right so one thing I'm
+0:34
+going to do need to do your PhDs write research papers and that's what this talk is about this is about the process of getting to get get you getting back
+0:41
+together to write research papers that will be accepted by program committees and it kind of is like this it's it's
+Writing papers is a skill
+0:48
+just the skill right it's a really important skill doing the research is important but writing about it also
+0:54
+really important I just want to do in this next now just give you some some thoughts about the process that I go
+0:59
+through when I when I write a paper this is not something about which anybody has a monopoly on truth and so
+1:06
+as I go just just um ask questions or make comments like this you'll have had an experience that's different to me and
+1:12
+just stick your hand up and make ask a question I'll make comment as we go along don't wait until the end because it will always certainly run out of time
+1:18
+we'll have to way too much fun right so just um just know this isn't this isn't
+1:24
+something that anybody has perfect answers to so let's see I want to start off with some non reasons for writing
+1:30
+papers but when you write good search paper you have to know what you're trying to achieve like so here's a knot
+1:35
+is something that most people think this might be about writing babies I think is a very bad reason like you can you could be all these slides will be up you can
+1:41
+read the the cartoon later right so it's not just to sort of impress other people it's because writing research papers is
+1:47
+part of being a good researcher it's fundamental part right now say a bit more about why here's another thing that
+1:54
+people often write papers about they think oh I've done this work and I should write about it so it's like what I did in my summer holidays right but
+2:00
+the trouble is that nobody is really interested in you per se at all while you are but they aren't right why
+2:06
+they're going to read your paper not because they want to know about what you did in your some holidays but because you're going to convey something
+2:12
+interesting to them here's another thing people often write papers about they've built some system and they say of course everybody would want to know about the
+Why write papers?
+2:18
+Wiswall system but sadly this is not true nobody else is interested in the Wiswall system right they it's yours and why
+2:26
+should they care last thing and this is slightly more plausible that you might think you're
+2:31
+writing research paper to describe something new right novelty is you know
+2:37
+it's kind of usually good in science isn't it and you might find you read papers you say the novel feature of the system is X right so now I have to pause
+2:45
+a little bit right because in biology say novelty has value in its own right
+2:52
+if you discover something new about the way cells work the world is a better place what we know more in computer
+2:58
+science it's like a fractal subject it's like a snowflake every place you work the subject expands ahead of you why
+3:05
+because we we kind of make it up as we go along it's purely a sort of invention of our own eyes a bit more like
+3:10
+mathematics so the fact that you have explored a very very minut corner of the
+3:16
+snowflake and it's brand new is not really inherently interesting to other
+3:21
+people does that make sense right so if if novelty just is not in
+3:26
+its own light it's not useful what is you have to have some element of utility right you want to convey through your
+3:34
+paper a reusable idea that will be of some use to your audience so I do
+3:39
+recommend to you this paper by Fred Brooks called the computer scientists this tool Smith he's the guy who wrote the mythical man-month
+3:45
+and that's his most famous book but he also gave this Allen Newell lecture if you just typed this title into Google or
+3:51
+Bing you'll find it very quickly and the first part of the paper is really interesting because it's um it it's
+3:57
+almost poetic actually his visa and interesting computer scientist he writes in very nice style and he says by
+4:03
+InDesign read computer science in contrast with science novelty in itself
+4:09
+has no merit if we recognize our artifacts that is things we build as tools then we test them by their utility
+4:15
+and costs not by their novelty that make sense is really important because when
+4:20
+somebody reads your paper they are not going to be looking just the novelty consciously unconsciously they're going to the you looking for utility for it
+4:27
+goes on to say if we perceive our role of light we see more clearly the proper criterion for success a tool maker
+4:33
+succeeds as the users of his tool succeeds right succeed so you're giving
+4:39
+something is going to be useful to them I like this however shining the blade have a jewel the hilt
+4:45
+however wonderful the Wiswall system its merit is tested by its utility in
+4:51
+cutting that's right its usefulness to its users that's a good good piece of wood a sort of sanity check when you
+4:59
+read your paper now so go back to this thing about an idea like the fundamental thing I think you're trying to do in a
+5:05
+research paper is to take one idea and to transfer it from your head to what what's your neck Dennis to transfer it
+5:11
+from my head into Dennis's head so it's like it's like a virus I'm trying to infect his wetware with a new virus that
+5:21
+is the idea that's in my head right because gonna be so persuasive so exciting so interesting that Dennis will
+5:26
+be unable to think of anything else for the rest of the day right and then he'll tell his friends and soon it'll be all
+5:31
+over the planet that's how to have impact right so I put Mozart on the screen because he's my quintessential
+5:37
+example of somebody who did this really well hundreds of years after Mozart died we are replaying his his memes right his
+5:45
+ideas we actually go to concert halls to hear people read his papers well they they play it right and of course the the
+5:53
+act of performance is important as well but it is well remarkable if people are going to hear readings of my papers in
+5:58
+400 years time they're not going to be doing that but look to Mozart right he's the man so one and the converse is also
+6:07
+true well if you have a fantastic idea but you tell nobody look what would have
+6:18
+happened if Mozart had sort of just sat in the dark room and not told anybody about his amazing music right we
+6:24
+wouldn't be able to enjoy if you keep your brilliant ideas to yourself and you don't tell anybody you might as well
+6:29
+have not had them that's a bit sobering innit right so in other words
+6:35
+communication is part of the process of doing science it's not a kind of thing you do at the end it's part of the very
+6:42
+fabric of the work that we do together as human beings all right yeah
+6:50
+vo five scientists 14 bankers yeah we don't have any like manual
+6:56
+describing it or any papers about it good give an example the perfect the Sun
+7:03
+perfect charges almost which they architect didn't publish anything about this law but given examples like we have
+7:13
+like the planes from the US Air Force and we don't have any papers about them
+7:19
+published so a plane from the US Air Force is actually so so it's it's kind
+7:26
+of inside a wall of secrecy and on the whole that's probably not a good thing for science it might be a good thing for
+7:32
+the US right and I'm sure that information about that airplane is shared within the US military right but
+7:40
+otherwise if the guy who built it was run over by bus no more airplane right so I think I think military security is
+7:46
+a slightly special case but supposing somebody I know not iPhone or something right if if it was purely in a one
+7:53
+person's invention they producing that nobody knows anything about it somehow you'll be lost to mankind the and a
+7:58
+scientist I think those are the commercial imperatives do indeed commercial or military in pepper do do
+8:04
+some has put walls around this right but as scientists I think our goal is to sort of get ideas as widely shared as
+8:10
+possible so that they have their influential and make the world a better place alright though so that's our goal if you
+8:15
+like I would say yes
+8:27
+because we don't know if the fractal doesn't fall it's no play stuff you mean
+8:32
+we might not have utility yet but it might turn out to be useful later something like that so that is true right in the worlds the things people
+8:38
+have particularly brilliant mathematicians who've done work that seem to be very obscure and specialized to begin with that turned out to you
+8:44
+know hold the the meaning you know quantum mechanics is based in some part some part on group theory right but but
+8:50
+as a PhD student you cannot rely on doing that right you can't rely on being
+8:57
+so it can happen it can happen but my suggestion to you is that you focus on
+9:02
+try to focus on things that do have some utility might not be you know useful to every housewife it might be a proof
+9:09
+technique that is useful to somebody in semantics of programming languages right so but useful for something right you
+9:14
+could just be an amazing genius is going to do work that's only recognized in 50 years time but it's a high-risk strategy
+9:22
+all right let's just let's go on so do keep making out asking questions making
+9:27
+comments is good it much more fun for me but so idea idea in a paper try to write
+9:32
+a paper about a single idea right if you have ten ideas like ten papers do not like one paper with ten ideas squished
+9:40
+down to a form in which nobody can understand them right having more ideas is good but try to say if you read a
+9:46
+paper do this whenever you read a paper what is the idea that's in this paper when you write a paper thing what is the
+9:51
+idea I'm trying to convey if you don't have a clear idea of what at that idea is your readers will not either right so
+9:57
+it's a so good sanity check I think and sometimes you may not know exactly what it is to begin with but by there's only
+10:03
+done you must I think and so one way to do this actually is to write a sentence
+10:10
+in your paper somewhere that says the main idea of this paper is right and then your thought then you're forced to
+10:16
+think oh oh how do I finish this sentence so just try putting that at the
+10:22
+beginning of section three or something yes any contribution so they make a couple
+10:28
+of small contributions can you say that one idea but many contributions well so
+10:35
+I want to talk a bit more about contributions in a second but I would I think it is possible to write good papers that have sort of many smaller
+10:41
+ideas somehow but it's harder to do it well so and everything I say today I should have said this to begin with I'm
+10:47
+going to as it were character to your the situation I'm going to make sort of strong unequivocal statements that of
+10:52
+course are not really true about every paper or even every good paper but they're just the direction in which I
+10:58
+have found most profitable to do do of course you can disobey every suggestion I make and still like a great paper but
+11:05
+but yeah so I think the the sense of trying to identify an idea if you can is
+11:11
+really good and if you can't you may say it's still the paper I want to write go for it
+11:17
+right one thing about process two before we get onto content here is the research plan that most people follow they have
+Writing papers: model 1
+11:24
+an idea they do some research and then they write the paper that seems logical right a good scientific way of doing
+11:29
+things completely wrong here's what you should do have the idea like the paper do the research right so what you do is
+Writing papers: model 2
+11:38
+you have a you have an idea you start writing a paper bad you probably do a little bit to put them in work and as you start to write the paper you
+11:44
+discover that oh you know you can't write section three because you haven't done that proof or you haven't built that system there's a there's a it used
+11:50
+the paper as a kind of forcing function to tell you what you need to study next
+11:56
+the world is full of people who've spent a year sort of goofing around in some kind of space generally doing stuff and
+12:02
+then they've got to two weeks before the conference deadline they start writing the paper and they discover there's some major piece that is important for the
+12:09
+paper but it's not done right so use the paper as a forcing function another way which it's a very good forcing function
+12:15
+is that as you write the paper it will become clearer to you what you do not
+12:21
+understand as you write the paper it will become clearer to you what you
+12:27
+don't yet understand this happens to me all the time I start to write the paper and it sort of forces me to crystallize
+12:33
+in actual words the idea that I've been kind of vaguely thinking about I thought
+12:38
+I understood it but when it actually nailing down the details I can't quite say oh it just seems to get complicated
+12:44
+after keep putting in qualifications or caveats right so just writing is a
+12:50
+really good way of finding out whether you know what you're talking about yes oh well so so so I I collaborate
+13:01
+furiously with lots of people like so for I CFP that can't look at the Howell Haskell symposium which I lasted mates
+13:07
+do has involved in four different submissions right but that's because it's a major conference that's in my
+13:12
+area and I was collaborating with four different groups of people all of whom want to delight babe I wouldn't do for single authored papers
+13:18
+one probably just one yeah that's a little unusual but depends how much you collaborate and I wasn't the primary
+13:28
+author on any of those right so if you're the you can't really be the prime rule for more than one paper at a time right in one moment okay now I want to
+13:37
+go just say a little bit about this idea thing that you start with right so I get so one-one fallacies you've got to do
+13:42
+all the work and then like the paper don't do that use the paper as a forcing function the second thing is that you must have a good idea right you think ah
+13:49
+everyone else seems to have good ideas I read their papers their ideas are amazing and I I am a mere worm I only
+13:56
+have measly weedy little ideas that nobody would want to hear about right everybody feels like this everybody
+14:03
+feels like this right so you you you do not need to have a particularly
+14:10
+wonderful idea to write a paper you in fact anytime you have an idea no matter how pitiful you should start to write a
+14:17
+paper about it now it may be that it turns out to be pitiful in which case you just stick it on your web page and it's kind of an
+14:23
+unpublished report or what is much more common is it turns out that things weren't quite as simple as you first
+14:28
+thought you start with an idea that seems simple and it ramifies a bit in kind of interesting ways and it turns
+14:34
+into something right that's a very very common almost universal quite common is
+14:41
+to start with an idea that seems pretty simple and it ramifies into something things are done this is way too complicated you know I thought it was
+14:47
+simple but no it's not I've got to find a way to make it simpler but otherwise I can't write a paper about it so the
+14:53
+the very important thing I want you to get from this slide is do not think that you have to have a good important
+14:58
+interesting impactful world-changing idea be perfectly content with a small
+15:04
+weedy insignificant unimportant idea are
+15:09
+you with me even if it turns out to be that way the exercise of writing your little paper will have made you a better
+15:15
+person than be bet be it better able to rate that exciting important impactful paper mostly impact and you know a sense
+15:22
+of importance in the larger scheme of things is something you only discover later you don't discover it at the beginning right and in fact sometimes
+15:30
+the act of writing is what makes the idea flourish and come into bloom it's like a seed and that the writing the
+15:37
+paper is what what is look that the water that brings it into being so if you wait you think art too we D like
+15:42
+then you're not watering it so it stays weedy alright and this is almost
+15:51
+universal in my experience right okay so enough about sort of getting started
+15:57
+there's a very most important thing is to start writing and not to wait until you have something something but start
+16:03
+lighting early very early so far so good all right now what is it a bit about the
+16:12
+content of the paper and it's going to consider the content in structure because I've found some things that I found work and others that I found don't
+16:18
+work at all so first thing to do is to just sort of set scene for that narrative flow of the paper and what you
+Your narrative flow
+16:23
+want to do is to get your reader hooked remember that readers don't sort of time poor people so they they're not going to
+16:31
+read your paper with close attention from beginning to end you want to get them hooked early so you want to say here is a problem and it's an
+16:37
+interesting problem so in the first few paragraphs they think are if I could solve that problem I'd be happy and then
+16:43
+you say a little bit about your solution and you say oh that's kind of in a cut if you like you present your idea you
+16:49
+know I'd say that's interesting that's quite ingenious I wish I knew more about how that worked well maybe I'll turn the page and read
+16:54
+on a bit more and then you give them the payload and the details like and you do some comparison with what other people have done that's your sort of narrative
+17:01
+flow sort of hook them by and incrementally you don't want to start with a big pile of
+17:06
+going stuff that might seem scholarly but gets in the way of getting your readers addicted to the idea that's in
+17:12
+your head like you remember the virus thing you're trying to convey so here's my I sort of expectation for readership
+17:19
+like so a lot of people will read the title well other people viewer people will read the abstract in the first page
+17:25
+when I say introduction I really mean first page so when you're looking through a conference proceedings or even a journal you might look at you start to
+17:31
+read a paper you think ah well maybe but then you move on right it's not a big deal for you it's a big deal for the author if you're the author you care
+17:37
+about those people right but mostly they they're not very committed to you that's going to move on so you want to hook them on the first page so where are you
+17:44
+going to invest your effort well you want to then it's significant effort on that beginning stuff I'm going to say a
+17:50
+little bit about most of these sections so firstly just about the abstract like this bit at the beginning ah Oh drat oh
+Structure (conference paper)
+17:55
+dear although it comes back to got a little bit yes abstract this first bit are people often invest quite a lot of
+18:01
+effort in abstracts and I think it's not worth investing very much in fact I you think you have structs quite short here
+18:06
+is my little recipe for abstract which I got from a guy called Kent Beck four sentences only four sentences don't
+18:12
+write a long abstract and then repeat it all in the introduction right that's a pain to read instead like full sentences
+18:19
+state the problem say wow it's an interesting problem say what your solution achieves you don't have space
+18:24
+in the abstract to say what your solution is and say what follows from your solution so here's an example for
+18:29
+an incestuous example taken from this talk what's the state the problem number one first sentence many papers are badly
+18:36
+written hard to understand right what was the second thing why is it an
+18:41
+interesting problem oh it's a pity because they're good ideas may go unappreciated so it's an interesting problem to solve this paper put paper
+18:47
+thing well say what your solution achieves well following simple guidelines dramatically improves the
+18:52
+quality of your papers and then what does it say what follows your work will be used more on blah blah blah but you
+18:58
+get the idea for sentences keep it brief that's my advice and I would write the abstract at the end when you're all done
+19:03
+with the paper you know vitae full sentence abstract don't don't lavish too much care and attention on it to begin with because it'll probably change as
+19:09
+the focus of your paper changes so much for abstracts not doctor the interesting yes
+19:15
+a catchy title
+19:23
+yes a catchy title is worth but a lot I don't know how to give advice about how to invent a catchy title but I think
+19:30
+it's worth more than you know if you might very very factual titles like you
+19:35
+know an application of structural by functors to synthetic epi morphisms in a
+19:41
+structured comonad then you've limited your readership to but it was if you say you know mathematics changes the world
+19:49
+or you know computer science theory solves serious problem then you're going to make somebody we do you see the
+19:54
+difference so that that's all I can yeah so sorry Simon do you think it's important to put the right keywords into
+20:00
+the title so then it's like in search engine sound really yes something you
+20:06
+want to put enough to so that your readers know if you're in their area so
+20:11
+some kind of keywords in the title of the abstract incidentally sometimes not always sometimes program committee
+20:17
+members will choose which papers to bid for in the reviewing process just by looking at the title in the abstract so
+20:23
+you want to kind of have enough keywords in there so that an expert will say oh I know about synthetic epi morphisms you
+20:29
+might want to put that in your abstract I'll review that paper nor always most most mostly these days I find as a
+20:36
+reviewer that I have I look at the paper when I'm bidding I look at the papers that the ones that look vaguely
+20:42
+interesting from the abstract I'll then glance at the first page of the paper as well but that varies yeah
+20:51
+oh well of course if you have a catch of you know you know by functors change the
+20:59
+world and then it turns out that it's a very specialized now I think doesn't change the world at all there's a certain danger of that and there's also
+21:04
+a danger and being too jokey right maybe they'll think you're being too flippant it's a balance I don't I don't I don't
+21:10
+sure I can say anything very useful about how to invent a good title you know except that you know a little bit
+21:17
+of humor can help if you don't overdo it now but what the introduction is about I want to focus bit more attention on like
+The introduction (1 page)
+21:23
+which is what are going to introduction this is page one try to fit the title the abstract and the payload of the
+21:29
+introduction on the first page the physical act of turning a page or even flipping to the next screen if you're
+21:35
+reading it online is it is a big hurdle for your readers right so you want to say enough on the first page to catch
+21:40
+them so what are you going to say in this introductory section sometimes introductions start with a you know
+21:46
+background sort of vaguely setting the scene for the paper this is this is death right but the background is not
+21:52
+interesting to your readers they want to know why they should read your paper now so here it is describe what the problem
+21:57
+is briefly and then say what your contributions are so in describing the problem use an exact right ooh use an
+22:04
+example so rather than describing a problem in an abstract way they give a brief description and then give a concrete example so here's a paper that
+22:11
+I wrote a little while ago and you can see that after four lines of text I've got a program fragment to illustrate a
+22:17
+particular example of the problem I was trying to solve right so that that kind of gets your it's a quick way of getting
+22:24
+your readers engaged because then they can think oh well if I could solve that problem I'd be happy and I could see
+22:31
+that there's something more general hiding behind that does that make sense you're going to say more about the problem later in the introduction you're
+22:37
+just trying to sort of get your audience to have a sense of the problem you're trying to do an intuition right not a
+22:44
+fully formal description of what you're trying to do and so examples are really good for that now the other important
+22:51
+thing about setting the problem this is about describing the problem is that not to make it too ambitious right so here's
+22:56
+an example computer programs have sort of possible first line for your paper computer programs have bugs this is that
+23:02
+we will solve them right you're learning terribly passive here
+23:08
+but actually how many papers have you read that play this that play this kind of game they describe a problem that we
+23:14
+that hundreds of people have spent thousands of man years trying to solve and you say that's what my paper is
+23:19
+going to do so it's like describing Mount Everest right and and say that I know you read this paper you love
+23:25
+conquered Mount Everest it's almost certainly folks and so it doesn't really convey any information to your readers
+23:31
+because it just says you know working this general area basically they know you're not going to crack this problem
+23:36
+you see the difference so you want to convey to then something you can crack so that's why I say mole hills not
+23:43
+mountains so here's an example you consider this particular program which has an interesting bug right and you get
+23:50
+so you get your read is the thing I I can see the bug I can see that's not totally trivial to spot in this paper
+23:55
+will show an automatic technique for identifying removing this kind of bug suit I mean about so you want it to be
+24:00
+hard enough to be intriguing but easy enough to be soluble this is a classic
+24:08
+error for research grant proposals as well they'll also describe Mount Everest they say here is this enormous problem give
+24:15
+us some money and we'll tackle it and die in the foothills all right so don't do this okay
+24:21
+well so two things that examples and not being over ambitious here now the second
+State your contributions
+24:28
+thing I put here was one describe the problem second say what your contributions are so I wanted to come
+24:34
+back to your questions about contributions here so I think it is really important to list out pretty
+24:39
+explicitly what your paper delivers right intersect you what you want to do is to say if you read this paper here is
+24:46
+the the payload the benefit that you will get you are the reasons you might want to read this paper and then you're
+24:52
+our goal is it's like sort of menu in a restaurant your goal is to get your run
+24:57
+your readers to sort of salivate at you and think which I could eat that right
+25:04
+so here's an example so this is an example from another paper I vote so I
+25:10
+had a bit of an introduction to the the setting and why it was an interesting and important problem and then I said in
+25:16
+I didn't say in this paper we have following contribution so that's actually a quite a good phrase to say we
+25:21
+make the following contributions here I just said we put the choice on a firmer basis and then I had a list of bullets look right one you know and I think
+25:28
+bullets are helpful in contributions because they forced you to articulate what are my contributions as a list and
+25:35
+they make the reader think oh he's making three contributions here now all contributing perhaps to some glands you
+25:41
+know some grand idea but nevertheless they're the sort of underpinnings of it and the other thing about this
+25:46
+contribution stuff is to try to be refutable what's refutable but I mean it
+25:54
+is possible that you could fail to deliver on this contribution if you say
+25:59
+we will study the properties of system X you're not going to fail surely
+26:04
+somewhere else in the paper there will be some information about the properties of system X right was if you say we
+26:11
+prove that the system is sound of type checking is decidable those are at least for an expert understandable and
+26:17
+refutable you know maybe you didn't prove that it's sound maybe you didn't prove that it was decidable do you see
+26:22
+what I mean and so let's see you know we've used it in practice this is a very thing here it's it's at least
+26:30
+more concrete I mean it clearly you did build the Wiswall system and implemented a text editor and you compared it with
+26:36
+you know these are these are more these are I think think celery rather than
+26:41
+overcooked spaghetti by overcooked spaghetti sort of floppy and and and soggy right celery has some crunch to it
+26:49
+you want your contributions to have crunch all right all right and the other
+26:56
+thing you can do in contributions is to use forward references so here are what
+27:02
+let's see here in the examples that I've given I've given examples here in which each claim like these are like claims
+27:08
+it's like the specification for a program for every claim I give a forward reference right and over here what did I
+27:14
+say you know blah blah blah in sections 5 & 6 this in contrastive in section 7 so for every time I make a claim I make
+27:21
+a forward reference to the evidence for that claim now how many of you read this stuff in blue in papers at the end of
+27:27
+the introduction is this paragraph that says the rest of this picture is structured as follows Tudor's if section 3 does their section
+27:33
+four does this how many of you read that section with your heart pounding in your chest thinking whoa this is a paragraph
+27:40
+that I really want to read because it's going to make my life better you skip it
+27:46
+don't you every time you start that paragraph you think I'll just skip it I'm going to go to the beginning section
+27:51
+two and these are the words that appear we're on page one your hundred reader
+28:00
+page right so you've taken your most precious words and you've devoted them
+28:07
+to a purpose which nobody literally nobody reads why would you do that it
+28:15
+seems to make scholarly sense but in my view is just a waste of space so instead use your list of contributions right
+28:21
+because then it's not only making having a sort of narrative flow like this that people actually want to read it's got
+28:27
+some semantic content but also every time you make a claim you've got a forward reference to the evidence and that's so helpful for a reader right so
+28:34
+they don't have to work out work it and then you can also say ha sections three four and five are not mentioned in my
+28:40
+list of contributions mmm I wonder if sections 3 4 and 5 belong in this paper
+28:47
+entirely what would happen if I left them out you see what I mean you can sort of do a dead like a garbage
+28:53
+collection on your paper no references to it it's out but of course sometimes you need some background section
+28:59
+something to set up so it's not it's not it's not a shortcut but that's the idea okay that's it so that's all about
+29:04
+introduc any questions about this sort of first introductory page stuff or comments indeed yeah
+29:15
+good question yeah so the question is do you would you I said like the abstract at the end should you like the
+29:21
+introduction at the end or when you when you that is when you finish the paper and end in time time time scale or at
+29:27
+the beginning actually here I would suggest that you would least write the list of contributions upfront right
+29:33
+because that's the driving force because you'll find yourself writing when you say you know we prove this that in the
+29:39
+other section for like you're referring to a section you have written yet so it's kind of like the specification for
+29:44
+a program so in this case for the contributions I do think it's a good idea to write you'll iterate like but
+29:51
+it's like otherwise it's like writing an implementation of a program and only then going back and writing the specification right
+29:57
+of course it's not a waterfall model like you write one version of contributions you start to write the paper you go back to the contributions
+30:03
+and change them there's an iterative but stop yeah then something stuff about the initial setting up you might leave until
+30:09
+near the end but I would have a go at the introduction first yeah anybody else yeah
+30:20
+no I wouldn't I don't have any sense of how many paragraphs I want to write it depends on the paper I do try to fit the
+30:27
+the this this sequence of the problem and my I'll count the contributions of
+30:32
+the paper on page one that's all however many paragraphs that takes sometimes I have two contributions sometimes six never twelve but but page
+30:43
+one I wouldn't worry about the paragraphs okay what's next
+30:50
+in any papers they set it up related work what a disaster right here is your
+30:59
+idea this is the payload you're trying to get to this is the virus you're trying to convey into Dennis's mind
+31:05
+and here's Dennis right and you put in the way a huge mound a sort of sandbar
+31:10
+of related work you're going to force him to march through lives or death march to get to the idea right and
+31:17
+moreover the related work at this stage your reader remember is not an expert or may not be a complete expert in this
+31:23
+subject so and yet you're faced with this tension of do in this related work section do you say enough to make it
+31:29
+comprehensible in which case it becomes long or do you make it compress than a bit cryptic because your reader lacks
+31:35
+the intellectual and terminological scaffolding necessary to understand it
+31:41
+right so here's a you know classic bit of stuff from a related work section with lots of references and special and
+31:49
+you know we haven't talked about where vocation protocols and transaction none of this vocabulary is going to be
+31:54
+familiar to your readers or even if it is familiar they'll wonder whether they mean the same thing as you mean see the
+32:00
+problem and this is terrible tension between making it long enough to be understandable but short enough to fit
+32:06
+in a section that's between your reader and your idea so the solution actually
+32:11
+very simple which is don't put the related work section here right it just makes your readers feel tired and worse
+32:18
+it makes them feel stupid right because you've compressed it to make it short enough and then they read it nothing I
+32:24
+don't understand this I must be a very stupid worm and this author you know he's incredible genius I just move on
+32:30
+like I'm never going to understand this paper that's not the message you want to they do your readers you want to make
+32:35
+them feel good about themselves right so let's see what to do so you I want to
+32:41
+say more about related work later that we're to put it like we're going to put it more towards the end of the paper when you have done your intellectual
+32:46
+scaffolding but instead you're going to describe your problem and your idea making references to related work where
+32:53
+it makes sense in that narrative yes
+33:04
+great right so so here's what I suggest
+33:18
+if you were explaining the problem and your solution to a friend on your whiteboard in your office you would
+33:26
+probably not start with this right but you might say the first way you might
+33:32
+think of solving this problem would be like this that's a that's a sort of the first obvious approach and indeed you
+33:38
+might then say you know these guys five years ago did that you would make a big deal about it your purpose for introducing that would be as a launchpad
+33:46
+to explain your idea right so if the
+33:52
+criterion I think is this if it wouldn't make sense to explain something if you
+33:57
+were just trying to explain it to a colleague on the whiteboard then put it in write as part of your description of
+34:04
+your idea and and how it works right if it doesn't really make sense if the if it is not on that most direct path your
+34:11
+your goal is to take your readers by the most direct path to your idea of course
+34:16
+that requires some background and every time that background mentions something
+34:21
+that somebody else did you put a citation right so you say yes expert reader I know about that and I'm going
+34:27
+to come back to it in more detail later don't do much comparison at this stage just make admiring remarks about them
+34:32
+and give a citation right because at the end you can make comparisons when they've seen the full glory of your idea
+34:38
+all right so that's a criterion use your narrative flow as the driver makes
+34:44
+citations where they naturally and don't otherwise there's an I said
+34:49
+don't say something just because it's vaguely in the same area got it yeah
+35:05
+what like for example I wants to introduce the TM natural interaction so
+35:17
+ok so the question is if I want to define a term like natural into a natural interaction with your example
+35:23
+and there are several competing definitions if I was you I would I would try to avoid saying definition one
+35:28
+natural interaction bla I would say you know purpose of this paper is to improve the way that you know people interact
+35:34
+with computers or something and in particular so so we're going to use natural and natural interaction in quotes to mean blah and then give your
+35:41
+definition right and then you can say as a footnote or in brackets there are other definitions as we shall see in
+35:48
+section 8 but I wouldn't stop at that point to say to give a sort of a survey
+35:54
+of the field of definitions of natural interaction because your readers are fundamentally not interested in that
+35:59
+survey they were testing what your idea well you have the epidemic sense so forward reference to your related work
+36:05
+section all the time but try to keep on your track sorry same structure to a PhD
+36:11
+dissertation as well uh that's actually harder for PhD dissertation after I
+36:16
+fundamentally yes I think in PSE did the PhD dissertations are usually come out
+36:22
+best with their related work section at the end but but this is something you need to talk to your supervisor about
+36:28
+and may vary a bit but with a PhD dissertation your readers are more motivated somehow you know they've a PhD
+36:35
+distillation this is a substantial chunk of work your readers know it's substantial it's got chapters so they can flip past easily so it's kind of
+36:41
+different kind of medium so I'd be less I'm pretty sure about this for a related work section later for papers and it
+36:48
+slightly more ambivalent about theses yeah
+36:54
+obviously for a 12-page paper yeah for a five pager where would you compress oh I don't know
+37:01
+how do you how do I to five pay page very difficult to light a five page paper actually I don't I'm not I'm not
+37:07
+sure I can say anything meaningful in answer to that question so I just dodge it and it just it's just tough and you
+37:13
+have to I know my concern this is even if I agree with you people expect
+37:19
+related works oh you should have a related work section after the introduction no I know no reviewer has
+37:26
+ever come back to me and said you should have had your related work section earlier of course maybe they think it's
+37:33
+because you know Simon is a great fellow and we shouldn't criticize him but I doubt it reviewers are actually pretty really brutal I'm sure so I would not
+37:41
+worry over much about that but you must have a related work sector it must do a scholarly job yes but I mean if you
+37:47
+refer for reference to it in your introduction also at the end of your contributions you say you can also then
+37:54
+say just before you move on we'll discuss related work in Section eight what you want to make sure is that your read your expert reader knows that
+38:00
+you're going to get there right and knows how to find it so but it can be very brief that's my advice okay I just
+38:07
+want to quickly move on to a bit about the sort of main payload of the paper because you're what you want to do it will present your idea and avoid doing
+38:15
+this kind of thing right this feels right but it's not what you do on the whiteboard when you do with your
+38:21
+whiteboard your friend you do not write out definitions like this you you do what you cut to the chase right you say
+38:29
+ah ah I'll tell you a bit about you know the formal definitions later but what I really want you to do since you're in my
+38:35
+office and you've got five minutes is to give you an intuitive idea of what the idea is of what of what I'm trying to do
+38:41
+that's what you should do in the paper you need the formal stuff or the more precise stuff later but there's a way of
+38:46
+introducing the idea this stuff is not so good right so um the intuition here
+38:53
+is primary the intuition is primary the intuition is primary thank you right
+39:01
+don't forget that right if you do this sort of nonsense people will be impressed by your paper maybe but they
+39:07
+may not read and that then you failed in the virus infection process right but it's like
+39:12
+sort of Ebola you know it kills its patient it kills its victims before it can pass them on right you want to keep
+39:18
+them alive now oh and the other thing is
+Presenting the idea
+39:23
+that even readers who leave you after a bit of the of the sort of inch of these these back sort of presenting the idea
+39:30
+sections before they get to the more of the meet even they will go away with something valuable so your goal is that
+39:36
+every time somebody falls off the bus they fall off the bus with something useful that they've taken away they're
+39:41
+happy about having read your paper another thing to avoid is trying to recapitulate a sort of personal painful
+Putting the reader first
+39:49
+journey like research is a kind of it's like walking through a maze in which
+39:54
+almost all the passages are dead ends right so you sort of blend it it's been
+39:59
+weeks doing this and then the tendency when you write a paper is to think ah I should explain all these dead ends to my
+40:07
+readers and so you carry them painfully through the maze I can't tell you how annoying it is as a reviewer is you get
+40:13
+to you get to the end of a technical section section three and you've been struggling to follow but you've been
+40:19
+putting in the cycles you think I'm the reviewer I should understand this you get to the intersection between they say well that turned out to be a bad idea so
+40:25
+in section 4 was your much better plan okay give me a break right I only got so many years in my
+40:30
+life so don't do this right if you don't only explain blind alleys
+40:36
+if they are blindingly obvious meaning sometimes there's something that is the
+40:42
+obvious solution that you have to explain why the obvious solution doesn't work in order to explain why you're more complicated setup is important right
+40:49
+only then do you want to explain the blind alleys so be very careful you know it's it's your your blood in all these
+40:56
+these blind alleys is no great interest to them alright so that's a good
+41:01
+of course what you're going to do on the whiteboard is you will start with an example the very first thing you do on a
+41:06
+whiteboard is always an example isn't it it's not lighting definition so do that in your paper as well I think I have an
+Using examples
+41:13
+example of an example here but I think I'll skip it but I think you've got the message by now so
+41:19
+then the rest that once you've got that central intuition over then the rest of the paper almost writes itself because
+41:25
+your business then is to provide evidence to support every claim that you've made in your contributions right
+41:31
+so you're going to just provide section after section that support that provides evidence in support of the claim and
+41:36
+what do I mean by evidence I don't mean proofs you know sort of mathematical evidence necessarily sometimes and it so
+41:42
+it might be a theorem that's kind of nice in some ways but then you know when you've done it but it might also be analysis and comparisons measurements
+41:50
+case studies more sort of soft things but nevertheless some reason what
+41:55
+evidence it's a reason for the reader to believe that you've achieved your goal and to be able to reproduce your goal to say I've
+42:01
+got the idea I can see how the idea works I could reproduce it myself like that's very good and so and you
+42:09
+want to go back and check your claims okay um so in fact you see that's that I'm not really saying any more about
+42:14
+this positions the part of the paper it's not easy to write we all understand how to do it we just got to write down the details of the other stuff it's this
+42:20
+sort of bit beginning and end of I think simple okay but before before leaving
+42:26
+the contact I do want to say a little bit more about related work at the end and that's this right if you read related work sections they often take
+42:32
+the form of well there was you know green and white had this at this paper
+42:37
+about this but they were Complete Idiot's their system didn't work at all well compared with ours which is brilliant and then oh well then there
+42:44
+was brown and and and Douglas and they did this and that wasn't any good either our system is way better right so the
+42:51
+implication is that in order to make my system look good or my solution look good I have to make them look bad right
+42:57
+but this is not true credit is like love
+The truth: credit is not like money
+43:05
+its if I give you if I have ten pounds and I give you five pounds I only have
+43:11
+five pounds left credit is not like that if I have love and I give you love do I
+43:16
+has less love no love is an infinitely divisible commodity that's what's so
+43:21
+great about it and credit is life is the same if I give you credit for a paper if
+43:27
+I say what maximum that's mat if I say in Maxie's
+43:32
+fascinating paper of 19 no 2008 you know he does the following thing then just by
+43:38
+saying fascinated paper you know I've given some credit to max for what he's done and acknowledged the truth which is
+43:44
+that I've stood on his shoulders in doing my work right so any paper that you have you really have found in Fargo
+43:50
+interesting but just put in an adjective to be nice to the authors it's actually true and it makes them feel good and the
+43:57
+world is a better place as a result but does that make sense and it doesn't diminish you it doesn't mean that people
+44:03
+will think your paper is worse because you'd be nice about other people right the other half of the sort of related
+44:12
+work stuff is that sometimes you have the feeling that the author's feel compelled to show that their work is
+44:19
+better than everybody else's in every dimension no in the X direction and the y direction in the Z direction the time
+44:25
+Direction everything is better and this is seldom the case fine usually your
+44:30
+approach is kind of better along some axes and perhaps not so good on others and it's good science to mention the
+44:37
+ones which is not so good at it's also good tactics because if your reviewers are the ones who point that out they
+44:43
+said the reader doesn't know the author does not appear to be aware that his system absolutely sucks when it comes to
+44:49
+x y&z that's not a good thing to have in your view well it's you've you point out you say in the x y&z applications you're
+44:55
+probably not a good idea to use our approach because you know it actually blogs your system will work better here
+45:00
+that's fine that's good science so um yeah
+45:10
+related work does it make sense to acknowledge them in the sections where
+45:15
+it's so I would in general I think the
+45:20
+easiest place to describe weaknesses is in the related work section when you are making comparisons because then you are
+45:26
+in the business of comparing write earlier you might be it may well make sense to say in some earlier more you
+45:33
+know more detailed section you may say well you know this this neat this is a neat way of solving problem X you know
+45:39
+you may note that it doesn't solve problem why you might that might be a natural thing to say if it if it kind of
+45:45
+seems seems obvious but in some ways it can be hard to do that kind of stuff as you're going along because you haven't
+45:52
+yet described the full sort of glory and roundness of what you're what you're trying to do by the time you got to the
+45:57
+end you have so much more terminology and common context with your reader by
+46:03
+the time they get to the related work they will understand a lot more easily the things you're trying to say by way
+46:08
+of evaluation and judgments then as they go along so I think I've put it at the end anyone else about this okay are you
+46:21
+standing up in a kind of hopeful kind of way right we could run around with
+46:26
+microphones yes yes so everything that comes in the recording let me just mention the inverse thing which is just
+46:32
+as acknowledging not acknowledging weaknesses is at least poor tactics not acknowledging important related work is
+46:39
+a death knell right so I invited so if a
+46:45
+reviewer finds himself or herself lighting in your view the author does not appear to be aware that sister you
+46:51
+know this paper from two years ago does essentially the same thing as there's or covers 80% of what's in this paper
+46:57
+always highly relevant but is completely unmentioned that's really really really not good
+47:03
+know so you must acknowledge other people know and it's not again it's
+47:09
+because it's true right they did had some stuff you probably read their paper if you didn't you should I mean of
+47:14
+course it might mean that you genuinely don't know about it and that would be bad but not much you can do about that
+47:20
+but this part is not good right so if you leave you leave out something you do know about because you hope that the referees don't know about it either
+47:26
+bad bad tactic bad science and bad tactic as well great thing about
+47:33
+conclusions don't have very long conclusions sometimes you say people say tell them what you're going to say then
+Conclusions and further work
+47:39
+say it and then summarize it and summarize the story at the end by the time people get to the end of the search paper my experiences they're a bit tired
+47:45
+and they don't read the conclusions but your column inches going back to your question about length or from very
+47:51
+constrained so I tend to finish with a section not called I tend not to have
+47:56
+further work and then conclusions I tend have a section called conclusions and further work and then I sort of as it
+48:02
+were sketched things that you know I might do in the future and I wouldn't spend too much time on further work but sometimes you find people have a long
+48:08
+section on further work which is kind of like like a research grant proposal that says here are lots of things that I
+48:14
+would like to do it I haven't done yet and again your readers are not terribly interested in that they want to know stuff that you have done that they can
+48:19
+use okay yeah yeah Oh several of you know your first year yeah then though
+48:27
+Nancy yeah but so in our recent journal paper we are just criticized as we
+48:35
+shouldn't put what we going to do in the future work because this is the reviewer
+48:41
+somehow consider that it will constrain other people's mind to some certain
+48:48
+topic that we're gonna to do oh you mean you sort of planted your flag and said we're going to do that and so you
+48:53
+mustn't I mean the reviewers suggestion is somehow like days that suggested that
+48:59
+we point out some of the big problem or some open problem that may be solved by
+49:05
+other people what reasons so further you might not be further work that we are going to do and nobody else must just
+49:11
+his further work that suggested by this research you know go to it audience so I've never had that that kind of comment
+49:17
+myself but I think the easy way to deal with it is just to keep keep the further work section short right not to say too
+49:24
+much not to take too many column inches on that because it's not part of the real payload of the paper it's more like
+49:30
+saying it's obvious that you know we haven't finished here there's lots of interesting Avenue and you the readin they'd like to take
+49:35
+some of them up that's the message you'd like to convey success is so infecting your readers that they join you in the
+49:42
+research program that's success you had a question yeah I have John
+49:48
+I'm sort of ambiguous on the question where to put limited limitations of the methods so one approach that I can
+49:55
+imagine is to put it directly where they belong in the technical section so then if I even describing a problem I also
+50:02
+have to describe as a limitation of the approach I I took the other thing is that well put it to the conclusions and
+50:08
+future work because it's sort of good way to have it there because if somebody is just scanning through the paper well
+50:14
+he will see there he will see the utility or non utility to it specific limitations well it's kind of what what
+50:21
+I've said in response to your colleague at the back here I would be inclined to because we're talking about weaknesses
+50:27
+let that means limitations right things that you don't do so well mostly I find
+50:32
+myself putting that in related work or maybe if it comes up earlier I seldom put in the conclusions because I'm
+50:38
+trying to keep the conclusions short because no but I mean really putting it in the in the technical section
+50:43
+yep that's fine too if it comes up naturally there go for it yeah the government it's the only reason not to put it there is if it's hard to
+50:49
+understand the limitation when you haven't read the next technical section true that's all yeah so I saw quite many
+50:56
+conclusion sections that were essentially copies of the respective abstract sections but with dance changed
+51:02
+from yeah present to past exactly thing about that well so do you think that's a good use of column inches no total waste
+51:10
+of paper right so that's why I think the you know tell them what you're going to do tell them and then and then we produce the abstract in the conclusion
+51:16
+no help at all I just leave it out to you know just say summarize briefly briefly my question is about special
+51:22
+kind of papers like tool papers I mean when you write a tool and you are in a
+51:29
+race with other tools we have to a little bit
+51:34
+about other tools like yeah you couldn't find that but with your tool but I can
+51:40
+find it right now I don't think you need to be offending right you can say in the
+51:47
+outstanding Sat solver designed by 7-7 zone so which has you know as many fantastic properties no it's clever in
+51:56
+this way and it but here's the table that shows up of our performance and no as you can see we do actually succeed in
+52:02
+outperforming them quite often right so the data speaks for itself you don't need to say in the very stupid Sat
+52:09
+solver these guys have witness nobody you could be nice about their work because it almost certainly is good work
+52:14
+while still presenting data that shows that you improve them on some axes I
+52:20
+would try to do that if you can that's the flavor of the message I think that's
+52:26
+good one one more back here and then we'll forgot a stop at lunchtime my my
+52:34
+question about the details how deep to describe my system if it's kind of
+52:40
+complicated I mean one one on one hand I can go on on all the details
+52:45
+on the other hand they can be like get like more over the overview but like what's the balance so well so how
+52:51
+detailed can you be it's hard for me to answer that because pretty much it's constrained by the paper right by the
+52:57
+length of the paper you just don't have much space right the the only thing I'd say is try to focus on your key idea put
+53:05
+the details that articulate your idea and if the other kind of only loot loosely related stuff but that's
+53:10
+important to you like another paper I don't know I can say any more than that worthy yes at the back corner
+53:23
+yeah so impending appendices for papers are a bit like technical ports they say you know we proved this theorem and if
+53:30
+you want to see the proof here it is so that's really good because it doesn't drag the reader through the proof it
+53:36
+says here's where you can find the evidence if you want it or it might even be in you know online somewhere I think
+53:41
+I think that's good try not to put what you want to do is you want to put material that clearly is a kind of
+53:47
+subroutine call away you get the payload from the theorem and then and they can go and find if they want that kind of
+53:52
+thing supporting data good yeah we got
+54:02
+we're and we're gonna stop for lunch key okay so one question sometimes you're in-between feeds or yeah for really
+54:08
+complicated the issue and you use somehow needs a gentle introduction to this a longer introduction where do you
+54:16
+put it so I like that that's writing across field papers and papers about
+54:23
+complicated ideas is simply harder so you know sometimes that means you have
+54:28
+to aim at a journal because conferences are often narrowly focused and sometimes are not very hospitable to cross field
+54:34
+papers and if you need more space you may you may just need to say you know perhaps this is it you know almost semi tutorial that your survey paper
+54:41
+sometimes I don't quite know I'm not sure I can any say anything very meaningful in response to your question
+54:47
+except to acknowledge that yes it's harder and so if you the more initially particularly in the early stages of a
+54:53
+search career the more you can focus on you know more single issue issue politics if you like the easier you'll
+54:58
+make make your life and then you can sort of try them one ambitious and difficult but still important I'm not
+55:04
+saying it's not important it's usually important to do this cross field stuff it's just harder and how to choose a
+55:14
+section title should I follow it like tradition like introduction and problem
+55:19
+statement experimental settings and emulation like this or should I be more creative I'll be I'll be creative yeah
+55:25
+you know read ones that you write section headings that you'd like to read so can I choose for my contribution list
+55:32
+yeah absolutely yeah okay yeah just write the ones that you'd like to read what doesn't make sense then what about some abstract skeleton good for it
+55:39
+so we could win a stopwatch hang on just one them I want to say what I want to
+55:45
+say these slides will all be available somewhere yes scarlet will tell you where right yeah so there's a bunch off
+55:51
+and there's about there's a bunch of further slides that I'm clearly not when I talk about now we're going to have lunch about the actual sort of process
+55:58
+of getting about writing I want to say one thing about this before we go to have lunch which is to get your get
+56:04
+friends to read your paper right get them to act as guinea pigs and if you
+56:09
+give to give your paper to a friend to read right so I give it to Alexander to read what Alexander will naturally do is
+56:16
+he'll give it back to me covered with suggestions about spelling mistakes and grammatical in felicity's
+56:22
+because he will read it and he'll get lost in Section three but he'll be much too polite to say that right right
+56:28
+you'll just say this sentence construction is not very good but what you want him to say is I got lost in
+56:33
+section three right here because that's your remember you're carrying your readers on a journey so you have to
+56:39
+educate your readers about what you want them to do so try to sit in front of
+56:44
+them and say don't tell me about spelling mistakes don't tell me about my grammar tell me where you got lost and
+56:49
+then then you can have a dialogue with them right you read the paper they say I got lost here and you say oh let's see
+56:55
+if we can unpack this you salt whiteboard stuff and they say oh now I understand often what happens is all they all you need to do is they say well
+57:01
+got lost you say you explain it they say that's great and all you have to do is record what you said in that
+57:06
+conversation and light it down in the paper the incredible how much better people are explaining something verbally than they are so there's a very good
+57:13
+guinea pig thing and the rest of the slides which is a bit bit more about and reviewing stuff and about some sort of
+57:21
+language and so forth you can read online or look at the video or something but we should stop for lunch right because it's so it's up to lunchtime did
+57:29
+I want to do is it just let me see if there's anything else that I just wanted to say about about this thing
+57:35
+oh that's why we have to uh Selleck but but you but you're going to you're going to get hungry then you'll stop paying attention that's not good so let me just
+57:42
+see briefly if there's some one or two things I wanted to add from you about experts so get non-expert guinea pigs
+57:48
+are good expert guinea pigs are also good and I want to give you one idea for how to get experts to read your paper
+57:53
+when you write your related work section you'll mention various other people like if you send your paper to them saying
+57:59
+dear professor snig ins I was found your paper so inspiring and who better be true right I enjoyed your paper and I've
+58:06
+done some work that you know builds on it in what I think was an interesting way and I'm just in closing a drafting
+58:12
+but within the related work section I say something about your paper and I just like to check that I expressed it
+58:17
+in a fair way like at that point professor Snicket's thinks whoo-ha he's
+58:23
+writing about my paper I'll just have a quick look right so he looks at the related work section than anything he
+58:30
+can't resist it he looks back a bit biked and and soon soon he's reading a bit more now he still may not send you any feedback but it's not a bad plan
+58:36
+particularly as he may be one of your reviewers because what conference program chairs do is they say who's in
+58:43
+the citation so they'd be plausible reviewers like so if you can get him to slag you off now right while it's in
+58:50
+draft that's way better than when he's being the reviewer yeah
+58:58
+Oh hahaha very tactical I see you mean
+59:14
+so if you send it to too many people then none of them will be able to review it and you'll be left with only people who completely non-experts alright good
+59:21
+good good point you may not sure in fact it's hard to do this because you're writing against the deadline and you
+59:26
+never have it the ready in time you probably are going to use this technique works better the last thing I want to
+59:31
+say was about reviews after your paper was rejected which it will be our papers rejected all the time you will get
+59:37
+reviews that seem to you at the moment you receive them to be blatantly unfair right you will be bleeding right because
+59:44
+your precious work would you invest so much in has been rejected put the review aside wait a week and then come back to
+59:51
+it with a perhaps a greater sense of perspective and look at the review and try to think how could I rewrite this
+59:57
+ever so that not even the world's most stupid reviewer could make that mistake
+1:00:02
+right how could I rewrite the paper so that not even a very stupid review could make that mistake now of course
+1:00:09
+sometimes reviewers are literally incompetent and there's nothing you can do about that it's just tough sometimes happens but more often they are
+1:00:15
+well-meaning an expert but they misunderstood and that is something you can fix right so just don't ignore don't
+1:00:21
+don't just bleed from the reviews try to profit from them however hard it is it's
+1:00:28
+that time

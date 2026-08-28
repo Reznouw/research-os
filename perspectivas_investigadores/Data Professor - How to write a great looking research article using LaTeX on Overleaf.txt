@@ -1,0 +1,1626 @@
+0:00
+in this video i'm going to show you how
+0:02
+you could create a research article
+0:04
+using latex on overleaf and without
+0:07
+further ado
+0:08
+we're starting right now so latex or
+0:10
+latex is
+0:11
+a typesetting system which allows you to
+0:14
+focus
+0:15
+more on the content and forget about the
+0:17
+formatting
+0:18
+because the latex type setting system
+0:21
+will take care of all of that
+0:22
+so if you would like for more
+0:24
+information about latex
+0:25
+then you can check out this website
+0:28
+which provides you with the
+0:29
+historical account on how you can
+0:32
+pronounce latex or latte
+0:34
+which also provides you a quick account
+0:37
+of the basic
+0:38
+syntax of latex and so here in this
+0:41
+particular example
+0:42
+you could see that if you have a text
+0:44
+written like this
+0:45
+but then if you would like to format it
+0:47
+in microsoft word or
+0:49
+on a google docs then you probably would
+0:51
+have to highlight
+0:52
+some of them as the title and then you
+0:55
+would probably have to format
+0:56
+you know like you have to figure out how
+0:58
+you would like to format the author's
+1:00
+name
+1:00
+and how you would like to format the
+1:02
+date and then the contents
+1:04
+of the text here but then if you're
+1:06
+writing it in
+1:07
+latex you don't have to think about like
+1:10
+what is the font size
+1:12
+because the thing is you could just put
+1:13
+in the title
+1:15
+inside the title tag you put in the name
+1:17
+inside the
+1:18
+author tag the date inside the date tag
+1:21
+and the content will be
+1:22
+here in the begin document and so just
+1:25
+putting in the content
+1:26
+in the correct tag which pretty much
+1:29
+works kind of like
+1:30
+a computer programming language then you
+1:32
+would not have to worry too much about
+1:34
+like do you want to adjust the size of
+1:36
+font to be like 12 or 14 or 16
+1:38
+so latex will take care of all of that
+1:40
+for you and so
+1:41
+in this tutorial i'm going to show you
+1:43
+how you could use the overleaf
+1:45
+platform in order for you to create your
+1:48
+very own
+1:49
+research article on overleaf and the
+1:51
+great thing about overleaf is that it
+1:53
+provides you with a
+1:54
+large variety of templates so let's have
+1:58
+a look here
+1:58
+click on the templates here and then
+2:00
+you're going to see that it is
+2:01
+conveniently categorized into
+2:03
+academic journals bibliography books
+2:06
+poster you can even prepare your
+2:08
+presentation slide
+2:10
+in latex or how about your research
+2:12
+thesis book like for
+2:13
+here on the first page some universities
+2:16
+provide templates for their
+2:17
+thesis book some even provide templates
+2:20
+for their presentation slide
+2:22
+in the various aspect sizes such as four
+2:25
+by three
+2:26
+or 16 by nine right so you could also
+2:29
+see whether your university provides
+2:31
+such
+2:31
+template and if they do then all of the
+2:33
+burden about
+2:34
+correcting the section heading font size
+2:38
+the header and the footer you know like
+2:40
+the page number alternating
+2:42
+on every odd or even pages all of those
+2:45
+headaches you will not have to worry
+2:47
+about it because
+2:48
+latex will take care of all of that for
+2:50
+you and so in this tutorial we're just
+2:52
+going to focus
+2:53
+only on how to create a research article
+2:56
+on overleaf and so i'll definitely make
+2:59
+a future video
+3:00
+on other types of document so let's
+3:02
+click on the academic journal
+3:04
+and then you can see the large variety
+3:06
+of templates
+3:07
+for you to select from and then you can
+3:10
+see whether
+3:10
+your intended journal has a template
+3:14
+here like for example if you would like
+3:15
+to submit to genetics
+3:17
+they have a template for you and so
+3:18
+let's check it out let's say that
+3:20
+you want to submit to genetics so click
+3:23
+on the template here and then you could
+3:25
+even download the pdf
+3:26
+which is the compiled version so let's
+3:29
+download it
+3:30
+let's open it up and so this is how it
+3:32
+actually looks like
+3:33
+after being compiled and so let's check
+3:36
+out the actual
+3:37
+article from genetics so it's published
+3:39
+by oxford
+3:40
+all right so it's here how about more
+3:44
+thread let's click on that one
+3:46
+click on pdf all right so this is the
+3:49
+final
+3:50
+formatted version of the genetics
+3:52
+research article
+3:53
+and let's have a look at the latex
+3:55
+version okay so it's not exactly the
+3:58
+same
+3:58
+but then you would notice that it bears
+4:01
+about 90
+4:02
+similarity okay so the color might alter
+4:05
+a little bit
+4:05
+in case but for the most part it looks
+4:07
+or resemble the actual version
+4:10
+and so let's have a look at the actual
+4:12
+latex file
+4:13
+so you want to click on open as template
+4:17
+but then you'll probably have to log in
+4:19
+to overleaf and it's free
+4:21
+to register so i'll provide you the
+4:23
+links in the video description
+4:24
+so you could also conveniently log in
+4:27
+using your google account
+4:28
+all right and now we're loading in and
+4:30
+so i have already
+4:31
+logged in now and then you can see that
+4:33
+the genetics template is now
+4:35
+loaded and then let me first start by
+4:38
+telling you the basic interface of
+4:42
+overleaf so to the right here you'll see
+4:44
+the preview
+4:45
+of the compiled version to the middle
+4:47
+component here
+4:48
+the middle panel here will be the latex
+4:51
+code and then
+4:52
+you'll see the green button here so
+4:54
+let's say that if you would like to make
+4:56
+changes to the title
+4:57
+right here let's say exploring
+5:02
+structure function relationship
+5:06
+of or actually activity of
+5:10
+and then we'll have to figure out what
+5:11
+protein name put here
+5:13
+i'll put in little choline estuaries
+5:17
+based on one of our vision work
+5:19
+inhibitors
+5:20
+okay but then you'll notice that it
+5:22
+doesn't update the preview yet so what
+5:24
+you need to do is click on recompile
+5:26
+and notice here the title will be
+5:28
+changed now okay there you go now the
+5:30
+title is changed
+5:31
+and updated to what you have in here but
+5:34
+if you would not like to click on the
+5:36
+recompile every time
+5:38
+then you could click on the drop down
+5:40
+button here and then
+5:41
+for auto compile you want to click on on
+5:44
+and so whenever you make changes here
+5:46
+it's going to update the preview for you
+5:49
+let's say for example for author here
+5:52
+author one i'm going to change it to my
+5:53
+name
+5:55
+i'll wait a bit and then as you can see
+5:57
+it activates the compiling automatically
+6:00
+and now the name is updated in here and
+6:03
+then
+6:03
+let's have a look at the various tags
+6:05
+here so the document
+6:07
+so the document class here will tell the
+6:10
+latex system that you're going to use
+6:12
+the template for genetics which is right
+6:15
+here this is the name
+6:16
+of the journal and in ein pt is the font
+6:19
+size
+6:20
+two column here will specify that you're
+6:22
+going to have it in two columns
+6:24
+two side is going to tell it that it's
+6:26
+going to be
+6:27
+printed on two sides line number will
+6:30
+tell it to include also the line number
+6:32
+and then use package right here is using
+6:35
+the eps to pdf
+6:37
+and so you could think of the use
+6:38
+package as kind of like
+6:40
+the imports libraries in python or the
+6:43
+library
+6:44
+for our packages so in order to use
+6:47
+packages from latex you're going to have
+6:49
+to
+6:49
+import it in which you could do you can
+6:52
+use package
+6:53
+but at default you will not have to
+6:55
+modify anything
+6:56
+so what you need to modify is only the
+6:58
+content okay so you would have to look
+7:00
+at here like for example
+7:02
+right here is telling you what is the
+7:04
+running author name and the writing
+7:06
+title
+7:06
+so typically the running author and
+7:07
+title will go at the top part here of
+7:10
+the
+7:10
+header of the page so let me zoom in for
+7:12
+you so you're going to notice that at
+7:14
+the header part of the
+7:16
+article it's going to have the author's
+7:18
+last name here
+7:19
+the first author's last name and then
+7:21
+followed by at all and then
+7:23
+it's going to be alternating every even
+7:26
+and odd pages
+7:27
+and it'll have the name of the journal
+7:28
+here so because you're
+7:30
+submitting to genetics it's going to use
+7:33
+here genetic but then it also adds
+7:35
+information about that is a template on
+7:37
+overleaf so here you could just
+7:39
+change it to the first author's name
+7:41
+like for example if it's myself i would
+7:43
+type in here and then it'll activate
+7:46
+that and then this should change in a
+7:47
+few seconds
+7:48
+all right and now it's changed right and
+7:50
+let's have a look further
+7:52
+so author tag here will specify that
+7:55
+this is the name of the authors and then
+7:58
+the number here will specify the
+8:00
+affiliation number
+8:01
+so the thing is one author could belong
+8:03
+to several
+8:04
+affiliation and it could also be used
+8:07
+for
+8:07
+specifying the affiliation of your other
+8:11
+co-authors
+8:12
+like for example if we have a john doe
+8:14
+we have
+8:16
+jane doe we have who else bob doe
+8:20
+see let me move myself to last name here
+8:22
+and then let's say we have michael
+8:24
+though
+8:25
+and then you would put the first
+8:26
+author's affiliation you know like
+8:28
+if the first author is belonging to
+8:31
+affiliation one you put it here
+8:32
+so depending on the affiliation you
+8:35
+could
+8:36
+type in the name of the university or
+8:38
+the name of the company okay like for
+8:40
+example let me type in data professor
+8:43
+youtube channel and then
+8:46
+you know like university of a university
+8:50
+of b and so you're going to notice that
+8:52
+while i'm updating
+8:54
+the document is updated in real time
+8:57
+however it might be annoying if let's
+8:59
+say that you're intentionally deleting
+9:01
+some
+9:02
+tags here and it won't be able to
+9:04
+compile it successfully and then you're
+9:06
+going to notice that
+9:07
+you're going to have an error coming up
+9:09
+here and it says unclosed group so you
+9:11
+have to close it so this
+9:12
+will be gone so this warning will be
+9:14
+gone all right
+9:16
+university of c all right now it should
+9:19
+recompile
+9:20
+all right so the newer version of
+9:21
+overleaf is not throwing an
+9:23
+error like in the old days like let's
+9:25
+say two years ago
+9:26
+whenever i deleted a tag here it would
+9:29
+recompile and
+9:30
+it would generate an error but now it's
+9:32
+very efficient
+9:33
+and it just don't recompile and it'll
+9:36
+just give you the error
+9:37
+message and then it tells you where is
+9:40
+the error message
+9:41
+so this is very neat and then you can
+9:43
+just fix it here
+9:44
+all right and then you could also
+9:46
+specify like for example if
+9:48
+the first two authors are contributing
+9:50
+equally to the work
+9:51
+you could do it like this and then it'll
+9:53
+add a dagger
+9:54
+symbol for the first two authors that
+9:56
+they contributed equally to the work
+9:59
+right here the dagger here which goes
+10:01
+after the
+10:02
+affiliation name so you will see that in
+10:04
+the code to the left
+10:05
+that we had typed in the name of
+10:07
+university of a university of b and
+10:09
+university of c
+10:10
+for affiliation one two and three it is
+10:13
+right here in a superscript
+10:14
+okay and so some authors belong to
+10:17
+affiliation
+10:18
+and so there will be two affiliation
+10:20
+numbers here and then for myself i'll be
+10:22
+number four
+10:22
+which is data professor youtube channel
+10:24
+and then i'll have an asterisk
+10:26
+which would mean that i'm the
+10:28
+corresponding author of this particular
+10:29
+research article all right and so let's
+10:32
+have a look
+10:32
+at the template so you're going to
+10:33
+notice that they have here the abstract
+10:36
+and this is the paragraph of the
+10:38
+abstract and you could just
+10:40
+you know type in the content of the
+10:42
+abstract right here okay and then this
+10:44
+is the keywords of the research article
+10:47
+you could type in the keywords here
+10:48
+let's say we type in data science
+10:50
+machine learning
+10:52
+and we could type in you know qsar
+10:55
+which is the topic of our hypothetical
+10:58
+research article
+10:59
+and then it should update here in a few
+11:00
+seconds there you go right and then you
+11:02
+could just
+11:03
+head over to the first paragraph of
+11:06
+right here but this is the example here
+11:08
+so you could just you know delete up
+11:10
+until introduction
+11:12
+so let me do that let me go to the
+11:14
+samples of
+11:15
+introduction so a trick here is that you
+11:17
+will find whatever
+11:19
+segment or section that you would like
+11:21
+to edit
+11:22
+and then you try to find the respective
+11:24
+wordings like okay
+11:26
+i want to find introduction here so i'll
+11:28
+go to the code and i'll find
+11:29
+introduction which is right here
+11:31
+so anything above it i'll delete it but
+11:33
+then you have to be careful because if
+11:35
+you delete the wrong thing
+11:36
+your code or manuscript will be pretty
+11:38
+messed up so
+11:39
+let me see okay this genetics journal
+11:43
+template which is this paragraph so i'll
+11:45
+delete here
+11:46
+but then i don't have to delete it i
+11:47
+could just comment it out like for
+11:49
+example
+11:49
+i'll comment it out by adding the
+11:51
+percentage symbol
+11:53
+and notice here that after i added it
+11:55
+became a comment
+11:57
+and the comment will be in green color
+11:59
+and so you will see that it disappeared
+12:01
+so i'll add more okay i'll comment it
+12:03
+out
+12:04
+so you notice that whenever i commented
+12:07
+out
+12:07
+the begin tag it raises an error and it
+12:10
+won't compile
+12:11
+all right and then it'll highlight the
+12:13
+segment that has the error which is very
+12:15
+neat because
+12:16
+in the old days there were no color
+12:18
+highlights so overleaf has improved
+12:20
+significantly and it's very intuitive
+12:23
+it's much easier
+12:24
+to use than before all right there you
+12:26
+go and then now we have introduction
+12:28
+and this should be gone wait for it
+12:31
+all right there you go so you have now
+12:32
+the introduction starting at the
+12:34
+appropriate position so a typical
+12:36
+research article will have
+12:38
+the research article titled the author's
+12:41
+name
+12:41
+the author's affiliation information of
+12:44
+the corresponding authors like the email
+12:45
+address and all of that
+12:47
+and then the abstract the keywords of
+12:49
+the article and then you have the
+12:51
+introduction
+12:52
+which explains about the background of
+12:55
+the research
+12:55
+topic that you're performing or
+12:58
+explaining in your
+12:59
+article and then the materials and
+13:01
+method will describe
+13:02
+how you obtain your data what
+13:04
+experiments did you do
+13:06
+how did you process or analyze your
+13:09
+results
+13:10
+which softwares did you use which
+13:12
+version numbers which
+13:13
+libraries which algorithms which
+13:16
+implementation
+13:17
+did you use and then in the results and
+13:19
+discussion
+13:20
+you'll talk about the results and then
+13:22
+you'll talk about the results in the
+13:24
+form of a figure
+13:25
+or also in the form of a table so you
+13:27
+could play around with creating
+13:29
+visualizations of your results and then
+13:31
+you provide a discussion
+13:33
+on the interpretation of the figures or
+13:36
+the tables what does it mean
+13:38
+and the implications that it has on the
+13:40
+topic
+13:41
+that you're working on and also in the
+13:43
+discussion part you're going to
+13:45
+correlate that with the literature
+13:47
+finding does it
+13:49
+match the present knowledge in the field
+13:52
+or does your result differ and how so
+13:56
+and then you're going to perform some
+13:58
+comparing and contrasting
+13:59
+of your results with that of the
+14:01
+literature all right and then you're
+14:03
+going to have
+14:04
+subsections in your results and
+14:05
+discussion as well as the materials and
+14:07
+method
+14:08
+and then let's head over back to the
+14:10
+code so you're going to notice that the
+14:11
+major sections will have
+14:13
+the section tag right here and then each
+14:16
+tab will have a backslash
+14:18
+followed by the term section and in the
+14:20
+opening and closing braces
+14:22
+you have the name of the section
+14:24
+introduction all right and then the
+14:25
+contents here in the paragraphs will be
+14:28
+the paragraphs here
+14:29
+so this line will correspond to this
+14:31
+paragraph
+14:33
+this line will correspond to this
+14:35
+paragraph
+14:36
+and then you're going to have the next
+14:37
+section which is materials and method
+14:39
+and as i mentioned already we have the
+14:41
+section tag here on the introduction
+14:43
+and then we have the section tag on the
+14:45
+materials and method so you can think of
+14:47
+the section tag it's kind of like
+14:48
+heading one
+14:49
+and then if you have like a subsection
+14:51
+it will be a heading two so the
+14:53
+font size will be a bit smaller but then
+14:55
+it will distinguish itself from the
+14:57
+other
+14:58
+normal paragraph text so you have the
+15:01
+subsection called
+15:02
+statistical analysis which is right here
+15:05
+so you're going to notice that
+15:06
+it's slightly different so the section
+15:08
+tag will have like a
+15:10
+blue color and then the subsection will
+15:12
+have a black color
+15:13
+text but then it will be bold so it
+15:16
+distinguishes itself from the
+15:17
+paragraph text okay and then
+15:21
+the same thing happens you have the
+15:22
+section for you know like the results
+15:24
+and discussion
+15:25
+and if you have subsection for the
+15:27
+results and discussion you could add it
+15:29
+in here
+15:30
+you could call it subsection
+15:34
+and then let's say i would like to talk
+15:36
+about like the model building
+15:37
+i'll be like this i'll type in model
+15:39
+building and then
+15:41
+i'll just put in some filler text here
+15:43
+and then i'll have a subsection
+15:45
+called model say optimization
+15:49
+or i could you know call it whatever i
+15:52
+did
+15:53
+so whichever experiment i did i'll put
+15:55
+it here like i could
+15:56
+say hyper parameter tuning let's say
+16:00
+i'm going to create a subsection on
+16:02
+model
+16:03
+interpretation or feature
+16:06
+interpretation which i normally do in
+16:09
+our research paper so we will talk about
+16:12
+the feature importance
+16:13
+and how the model can be used for
+16:15
+extracting
+16:16
+important features that could help to
+16:19
+guide biologists or chemists in their
+16:22
+experimental work all right and so
+16:24
+whenever
+16:25
+it's updated you're going to notice that
+16:27
+the text will recompile
+16:29
+and it will have a fresh copy of the
+16:31
+article and then in order to download
+16:33
+this particular article
+16:35
+we could click here at the top part
+16:37
+click on download pdf
+16:39
+and it will download the pdf version
+16:41
+which is right here
+16:43
+okay so it's the pdf that we had
+16:45
+generated from the latex of overleaf
+16:48
+and the great thing about using overleaf
+16:50
+and the formatting here
+16:52
+is that aside from not having to worry
+16:54
+about formatting it
+16:55
+just the feeling of having this document
+16:59
+like if you print it out or you have a
+17:01
+look at it it kind of gives you
+17:03
+a depiction that your work here that
+17:06
+you're working on
+17:07
+it resembles that of the firework
+17:09
+because it's formatted in a way that
+17:11
+resembles the final version as an
+17:14
+article
+17:14
+like here so so personally it provides
+17:17
+me
+17:18
+a bit of a motivation in that it allows
+17:20
+me to visualize that this particular
+17:22
+article will eventually become this one
+17:24
+and this one looks just exactly alike
+17:27
+and aside from that
+17:28
+it will also make the lives of the
+17:30
+editor
+17:31
+much easier because they could easily
+17:35
+use the latex that you have in their
+17:37
+production
+17:38
+after it is accepted for publication and
+17:41
+another thing
+17:42
+could also be that the reviewers would
+17:44
+also benefit
+17:45
+from the fact that the nicely formatted
+17:48
+article
+17:48
+is easier to read than a double-spaced
+17:51
+manuscript
+17:52
+because the thing is a typical
+17:54
+manuscript if you have it double-spaced
+17:56
+but this is for me personally when you
+17:58
+have the manuscript double spaced
+18:00
+you could occupy more than 30 or 40
+18:02
+pages
+18:03
+but then if you have it formatted neatly
+18:05
+like this it could occupy only a few
+18:07
+pages
+18:08
+maybe five or eight right like a
+18:09
+standard research article would be about
+18:11
+eight to ten pages
+18:12
+and a shorter form like a communication
+18:14
+will be two pages or three pages
+18:17
+all right and let's have a look at the
+18:19
+reference section
+18:20
+right here literature cited and some
+18:23
+links are even clickable
+18:25
+so let's have a look let's zoom in here
+18:27
+so this is the literature part the
+18:29
+reference section where you cite the
+18:31
+relevant research article that you have
+18:33
+referenced in the research article so
+18:36
+here in this example
+18:37
+it provides three of them and depending
+18:39
+on the style of the journal that you're
+18:41
+working on
+18:42
+it could either be in this style without
+18:45
+the number
+18:45
+so it's ordered according to the
+18:47
+author's last name
+18:48
+or if you're using it according to
+18:50
+something that resembles
+18:52
+vancouver it would be numbered one two
+18:54
+three
+18:55
+and then the number would be in order of
+18:57
+appearance and so this really depends on
+18:59
+the journal
+19:00
+format style and so you're gonna notice
+19:02
+that at the left-hand panel here
+19:04
+it tells you kind of like the contents
+19:07
+of this particular project and so the
+19:09
+project here
+19:10
+the file that we're working on is called
+19:12
+tex
+19:13
+it's a text file it's the latex file
+19:15
+right tex
+19:16
+and then this is the latex and then the
+19:18
+pdf is the one that's generated
+19:20
+and the eps is also generated as well
+19:23
+and then the bst let's have a look the
+19:25
+bst
+19:26
+you don't have to worry about this
+19:27
+because this is what makes
+19:29
+the formatting possible so just ignore
+19:32
+this one because this is like
+19:33
+under the hood of how your latex
+19:35
+document
+19:36
+goes from a text file to become a pdf
+19:39
+version like this
+19:40
+and let's have a look here example so
+19:42
+this is the
+19:43
+figure used in the document here
+19:46
+right here and so if your research
+19:48
+article has
+19:49
+figures you're going to upload it here
+19:51
+so you could click here
+19:52
+upload and then you will upload your
+19:54
+file either by selecting it from your
+19:56
+computer or you could drag and drop it
+19:58
+here and after you upload it it will be
+20:00
+here
+20:00
+amongst the files so let me show you how
+20:03
+you could
+20:04
+insert a figure so let's say i could
+20:06
+double click on the image here
+20:08
+and then it should go to the line that i
+20:10
+could edit
+20:11
+right so it's very convenient like if i
+20:13
+double click here it will go to the
+20:15
+line that will allow me to make
+20:17
+modifications to it
+20:18
+so if i double click on the image it
+20:20
+goes to the image line and so here
+20:22
+you're going to notice that
+20:23
+this is the name of the file example
+20:25
+figure let's say that i changed the name
+20:27
+of the figure
+20:28
+to become figure one figure underscore
+20:31
+one
+20:32
+let's go back to the text file and let's
+20:34
+recompile it
+20:35
+and you're gonna notice that it will
+20:37
+disappear because it won't be able to
+20:39
+find
+20:40
+the figure and then it will give you an
+20:41
+error and so you will have to modify
+20:43
+this to be the name of your
+20:45
+image name so the image name is now
+20:47
+figure underscore one
+20:48
+and as i type it also has a code
+20:50
+completion
+20:51
+so you could use dot png or you could
+20:54
+just take away the dot png it should
+20:56
+work
+20:56
+let's see all right now it's appearing
+20:58
+again because we typed in the name
+21:00
+of the image and then this is the
+21:02
+caption of
+21:03
+the figure which goes here okay
+21:06
+and so one more thing is to tell you
+21:08
+about the
+21:09
+bibliography as i mentioned in here we
+21:12
+have three examples so let's click on
+21:14
+the bib
+21:15
+file and then you're going to have the
+21:17
+bibliography files here
+21:19
+so these correspond to the three here
+21:21
+and make note here
+21:22
+each article reference or bibliography
+21:25
+will have a id and the id is right here
+21:28
+and so this particular id will uniquely
+21:30
+identify this particular
+21:32
+bibliography like for example if i would
+21:34
+like to cite the paper from
+21:35
+fellows which is right here i'll copy
+21:38
+this and i'll head
+21:39
+back to the text file and then uh let me
+21:42
+find let me see if i could double click
+21:43
+here
+21:44
+would it go there or i would need to
+21:46
+search so i'll hit on command
+21:48
+f or control f and then search for there
+21:51
+you go
+21:51
+and it's using the site p tag so
+21:54
+depending on the journal template that
+21:55
+you're using it could be site
+21:57
+p or it could also be site t
+22:00
+site t like that so it depends on the
+22:02
+journal format but for this particular
+22:04
+one
+22:05
+it's using site p okay and so it is here
+22:08
+that you put in the reference that you
+22:10
+would like to cite
+22:11
+like for example if i would like to cite
+22:13
+it somewhere else
+22:14
+here let me type so let's type p let me
+22:17
+see
+22:17
+um in the intro let's say i would like
+22:19
+to cite it here so normally we will cite
+22:21
+it before
+22:22
+the full stop so i'll type in site pe
+22:25
+and then
+22:26
+opening and closing braces and then it
+22:28
+has some code completion
+22:29
+and i'll say okay i'll select volusion16
+22:32
+and then let's have a look at the
+22:34
+introduction at the last sentence here
+22:36
+it should be populated in a few seconds
+22:37
+all right now it's populated here
+22:39
+fellowship is added the reference to it
+22:41
+okay
+22:42
+and let's add another one here ip
+22:45
+opening and closing braces so back in
+22:48
+the days you would have to memorize
+22:50
+the id but here is very convenient you
+22:52
+could just select the ones that you
+22:54
+would like to cite so i'm very happy
+22:55
+with the current version of overleaf
+22:58
+and it has significantly improved over
+23:00
+time and therefore is
+23:01
+less error so normally right here it
+23:03
+will tell you the number of error that
+23:05
+your file has
+23:06
+so if there's no number here it means
+23:08
+that your file does not have an
+23:09
+error all right and so now you're able
+23:11
+to insert the reference
+23:13
+to the appropriate position and so let's
+23:15
+say that if you would like to find a new
+23:17
+reference
+23:18
+from the internet let's say if i go to
+23:20
+pubmed pubmed
+23:22
+and let's see let me find some papers
+23:25
+for my group
+23:26
+let's see if i would like to cite this
+23:28
+paper i'll click on it
+23:29
+and i'll click on save format
+23:33
+let's say okay or how about here site
+23:35
+and i'll just click on
+23:36
+format oh okay download okay so
+23:39
+it doesn't have the text version so what
+23:42
+i need to do is i'll copy the
+23:44
+pubmed id which is right here copy it
+23:46
+and then i'll go to
+23:48
+text med tex md and this
+23:51
+this one text med and so this is how i
+23:54
+normally do
+23:55
+when i want to insert a reference into a
+23:57
+latex document
+23:59
+and i'll put in the pubmed id here and
+24:01
+then click on query
+24:02
+and it should appear here and i'll click
+24:04
+on bib text so this is the article that
+24:06
+i've mentioned
+24:07
+from pubmed and then right here i'm
+24:09
+going to copy this
+24:10
+and then head over back to the latex and
+24:13
+then i'll go to the bib file
+24:14
+i'll paste it here and i'll copy this id
+24:17
+and i'll head
+24:18
+back to the text file and let's say that
+24:20
+i would like to add it
+24:22
+to right here site p and then
+24:25
+or even you know select from the drop
+24:26
+down as well and then it'll
+24:28
+recompile and it's right here and then
+24:31
+you will notice that
+24:32
+it has added to the reference section
+24:35
+as the fourth reference it's a very
+24:37
+convenient right so you don't have to
+24:39
+worry about the formatting of the
+24:42
+reference you just search for it you
+24:44
+download the bib file
+24:46
+or actually you just copy and then you
+24:47
+paste it into the bib file
+24:49
+and then voila you're getting a
+24:51
+formatted version
+24:52
+automatically so you just focus on the
+24:55
+content here
+24:56
+okay but what is challenging is the
+24:58
+table okay so the table might
+25:00
+take you a lot of time in creating and
+25:02
+so
+25:03
+i'll probably show you that in a future
+25:05
+video like how you could format
+25:07
+tables of your model performance you
+25:10
+could make it
+25:11
+in a vertical horizontal or landscape
+25:14
+display where the table is shown in a
+25:17
+rotated
+25:18
+manner in a counterclockwise on a full
+25:20
+range of the page
+25:21
+and so i'll show you that in a future
+25:23
+video and so if you're finding value in
+25:25
+this video
+25:26
+please smash the like button subscribe
+25:28
+if you haven't already
+25:29
+and hit on the notification bell so that
+25:31
+you will be notified
+25:32
+of the next video and as always the best
+25:35
+way to learn data science
+25:37
+is to do data science and please enjoy
+25:40
+the journey
