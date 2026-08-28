@@ -18,6 +18,7 @@
 | 25 | `25_protocolo_latex.md` | Como producir PDF (LaTeX) o Word (Pandoc) desde markdown | LaTeX Live, Pandoc | Plantillas en `latex/plantillas/` |
 | 26 | `26_protocolo_transcripcion_audio.md` | Como convertir audio (clases, grabaciones) en texto/markdown | faster-whisper 1.2.1, ffmpeg 9.0 | `herramientas/transcribir_audio.py` |
 | 27 | `27_protocolo_zotero.md` | Gestion bibliografica: guardar papers, exportar BibTeX, producir bibliografia para LaTeX/Word | Zotero, Better BibTeX (pendiente) | - |
+| 28 | `28_sistema_metricas.md` | Sistema de metricas: saber si investigacion, IA y recursos van bien (4 pilares, scorecard, dashboard) | - | Dashboard en `metricas/` |
 
 ---
 

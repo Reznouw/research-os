@@ -127,6 +127,8 @@ El usuario tiene 1 semana para conseguir al menos 5 propuestas de tema de tesis 
 - [x] Propuesta 01 documentada en documentacion_inicial/ - 5 docs: propuesta preliminar (17 secc), dossier estado del arte (17 secc, 9 refs), definicion problema (4 caminos), plan viabilidad 12 meses, asesoria Kalun (6 puntos)
 - [x] 3 conferencias transcritas (Yongfu Li 29min/406segs, Grimblatt 48min/1178segs, Acuna 44min/806segs) en documentacion_inicial/conferencias/ - fichas creadas, 2390 segmentos, faster-whisper medium
 - [x] 3 agentes investigadores creados: inv_30_Yongfu_Li (low-power/SoC), inv_31_Grimblatt (semiconductores LATAM), inv_32_Acuna (arquitectura reconfigurable) - total 32 agentes
+- [x] Agente 33 Kalun Lau creado (RENACYT/IEEE, 20 anos, 3 patentes, DE25-Nano) + 3 agentes mejorados con background completo (Yongfu SJTU/GLOBALFOUNDRIES, Grimblatt Synopsys, Acuna UNSAAC/Backus) - total 33 agentes
+- [x] Subsistema de metricas creado: protocolo 28 (4 pilares), dashboard y scorecard Semana 01 en metricas/ - semaforo general VERDE
 - [ ] Transcribir audio de la clase grabada
 - [ ] Analizar documentacion_inicial de propuesta 01 con asesor (elegir camino A/B/C/D, definir contexto, modelos, metrica principal)
 - [ ] Completar propuesta_05 (pendiente de tema)
