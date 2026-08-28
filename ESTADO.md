@@ -125,6 +125,8 @@ El usuario tiene 1 semana para conseguir al menos 5 propuestas de tema de tesis 
 - [x] Unidad 1 completa documentada en fuentes_originales/unidad1/ - 4 archivos: introduccion+fundamentos, normas IEEE, SCOPUS/WOS/ZOTERO/patentes, situacion problematica (titulo, arbol, requerimientos)
 - [x] Research OS subido a GitHub https://github.com/Reznouw/research-os - branch main limpio (133 archivos, sin datos personales ni propuestas), historial reescrito, force push
 - [x] Propuesta 01 documentada en documentacion_inicial/ - 5 docs: propuesta preliminar (17 secc), dossier estado del arte (17 secc, 9 refs), definicion problema (4 caminos), plan viabilidad 12 meses, asesoria Kalun (6 puntos)
+- [x] 3 conferencias transcritas (Yongfu Li 29min/406segs, Grimblatt 48min/1178segs, Acuna 44min/806segs) en documentacion_inicial/conferencias/ - fichas creadas, 2390 segmentos, faster-whisper medium
+- [x] 3 agentes investigadores creados: inv_30_Yongfu_Li (low-power/SoC), inv_31_Grimblatt (semiconductores LATAM), inv_32_Acuna (arquitectura reconfigurable) - total 32 agentes
 - [ ] Transcribir audio de la clase grabada
 - [ ] Analizar documentacion_inicial de propuesta 01 con asesor (elegir camino A/B/C/D, definir contexto, modelos, metrica principal)
 - [ ] Completar propuesta_05 (pendiente de tema)

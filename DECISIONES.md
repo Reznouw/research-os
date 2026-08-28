@@ -685,3 +685,21 @@
 **Razon:** El usuario dice "donde la colocaras" y "todavia hay que colocar lo que he investigado" - estos 5 docs son la base para que luego analicemos y definamos el camino A/B/C/D con el asesor.
 
 **Impacto:** Propuesta 01 tiene ahora 5 docs preliminares (42 KB) + README. Pendiente: analizar con el asesor, elegir camino, definir contexto/modelos/metrica, e investigar estado del arte especifico de DE25-Nano.
+
+---
+
+## D036 - 2026-08-28 - Transcripcion de 3 conferencias y creacion de 3 agentes
+
+**Contexto:** El usuario trae 3 audios de conferencias relevantes para la propuesta 01: Yongfu Li (LLM datasets, 29min), Victor Grimblatt (semiconductores LATAM, 48min), Melvin Acuna (arquitectura reconfigurable, 44min). Pide que sirvan como documentacion para la propuesta y como voces para nuevos agentes investigadores.
+
+**Decision:**
+1. Transcribir los 3 audios con faster-whisper medium (Yongfu Li en `en`, los otros 2 en `es`): 2390 segmentos totales (406+1178+806), guardados en `propuestas/propuesta_01/.../conferencias/transcripciones/` con .md/.json/.txt.
+2. Crear 3 fichas en `conferencias/`: FICHA_Yongfu_Li_LLM.md, FICHA_Grimblatt_Semiconductores.md, FICHA_Acuna_Reconfigurable.md.
+3. Ubicacion elegida: dentro de `propuesta_01/documentacion_inicial/conferencias/` porque son especificas de esa propuesta y son PRIVADAS (`.gitignore: propuestas/`). No se suben a GitHub.
+4. Crear 3 agentes investigadores: inv_30_Yongfu_Li (green computing, low-power, SoC/NoC, EDA), inv_31_Victor_Grimblatt (semiconductores, LATAM, negocio, viabilidad economica), inv_32_Melvin_Acuna (arquitectura reconfigurable en microprocesadores). Total: 32 agentes (29+3).
+5. Agentes en `.opencode/agent/investigadores/` (PUBLICO, si va a GitHub) porque son voces publicas de conferencistas, no ideas privadas de la propuesta. Enriquecen el sistema para todos los companeros.
+6. Cada agente con su expertise y formato de revision especifico, referenciando su transcripcion y ficha.
+
+**Razon:** Las 3 conferencias cubren los 3 pilares de la propuesta: Yongfu Li = eficiencia energetica y LLM (justifica no hacer LLM grande, foco en eficiencia), Grimblatt = contexto industrial LATAM (justificacion, sector, patrocinador), Acuna = arquitectura reconfigurable (nucleo tecnico). Como documentacion privada informan la propuesta; como agentes publicos mejoran el Research OS.
+
+**Impacto:** 3 conferencias transcritas (2390 segmentos) y fichadas. 3 agentes creados (total 32). Transcripciones y fichas quedan locales (privadas). Agentes quedan publicos en GitHub para que todos los companeros los usen en revisiones.
